@@ -1,0 +1,5 @@
+*.pid
+*.log
+PORTAL_URL.txt
+.DS_Store
+node_modules/
