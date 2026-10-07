@@ -27,6 +27,7 @@ const state = {
     vibration: true,
     touchEnabled: true,
     invertTilt: false,
+    sensitivity: 'medium', // 'high' | 'medium' | 'low'
   },
   // Sensor debug values
   sensorData: {
@@ -196,6 +197,7 @@ const elements = {
   settingSoundToggle: document.getElementById('setting-sound-toggle'),
   settingVibrateToggle: document.getElementById('setting-vibrate-toggle'),
   settingInvertToggle: document.getElementById('setting-invert-toggle'),
+  settingSensitivitySelect: document.getElementById('setting-sensitivity-select'),
   settingTouchToggle: document.getElementById('setting-touch-toggle'),
   toast: document.getElementById('toast')
 };
@@ -595,28 +597,37 @@ window.addEventListener('keydown', (e) => {
  *   On iOS Safari: gravity pulls out through glass => z > +3.2 m/s²
  *   On Android: gravity pulls away from glass => z < -3.2 m/s²
  */
-function evaluateGestureFromGravity(z) {
-  // Threshold in m/s² (3.2 m/s² corresponds to ~20° tilt from vertical)
-  const TILT_THRESHOLD = 3.2;
-  const NEUTRAL_LIMIT = 2.0;
+function getThresholds() {
+  if (state.settings.sensitivity === 'high') {
+    return { up: 4.8, down: 3.8, neutral: 2.2 };
+  }
+  if (state.settings.sensitivity === 'low') {
+    return { up: 7.2, down: 5.5, neutral: 2.8 }; // Deep firm tilt
+  }
+  // Default 'medium': Calibrated to require a distinct deliberate tilt-up (~38°+)
+  // Up is 6.0 m/s², Down is 4.5 m/s², Neutral is 2.5 m/s²
+  return { up: 6.0, down: 4.5, neutral: 2.5 };
+}
 
+function evaluateGestureFromGravity(z) {
+  const { up, down, neutral } = getThresholds();
   let rawGesture = 'NEUTRAL';
 
   if (isIOS) {
-    if (z < -TILT_THRESHOLD) {
-      rawGesture = 'UP'; // Face up -> Correct
-    } else if (z > TILT_THRESHOLD) {
-      rawGesture = 'DOWN'; // Face down -> Pass
-    } else if (Math.abs(z) < NEUTRAL_LIMIT) {
+    if (z < -up) {
+      rawGesture = 'UP'; // Distinct deliberate tilt up -> Correct
+    } else if (z > down) {
+      rawGesture = 'DOWN'; // Deliberate nod down -> Pass
+    } else if (Math.abs(z) < neutral) {
       rawGesture = 'NEUTRAL';
     }
   } else {
     // Android coordinate sign convention
-    if (z > TILT_THRESHOLD) {
+    if (z > up) {
       rawGesture = 'UP';
-    } else if (z < -TILT_THRESHOLD) {
+    } else if (z < -down) {
       rawGesture = 'DOWN';
-    } else if (Math.abs(z) < NEUTRAL_LIMIT) {
+    } else if (Math.abs(z) < neutral) {
       rawGesture = 'NEUTRAL';
     }
   }
@@ -786,6 +797,9 @@ elements.settingsBtn.onclick = () => {
   elements.settingSoundToggle.checked = state.settings.sound;
   elements.settingVibrateToggle.checked = state.settings.vibration;
   elements.settingInvertToggle.checked = state.settings.invertTilt;
+  if (elements.settingSensitivitySelect) {
+    elements.settingSensitivitySelect.value = state.settings.sensitivity;
+  }
   elements.settingTouchToggle.checked = state.settings.touchEnabled;
   openModal('settings-modal');
 };
@@ -804,6 +818,16 @@ elements.settingInvertToggle.onchange = (e) => {
   state.settings.invertTilt = e.target.checked;
   showToast(e.target.checked ? 'Tilt Direction Inverted' : 'Default Tilt Restored');
 };
+
+if (elements.settingSensitivitySelect) {
+  elements.settingSensitivitySelect.onchange = (e) => {
+    state.settings.sensitivity = e.target.value;
+    try {
+      localStorage.setItem('headsup_sensitivity', e.target.value);
+    } catch (err) {}
+    showToast(`Tilt Sensitivity: ${e.target.value.toUpperCase()}`);
+  };
+}
 
 elements.settingTouchToggle.onchange = (e) => {
   state.settings.touchEnabled = e.target.checked;
@@ -856,6 +880,12 @@ function init() {
   loadCustomDecks();
   renderDecks();
   updatePermissionUI();
+  try {
+    const savedSens = localStorage.getItem('headsup_sensitivity');
+    if (savedSens) {
+      state.settings.sensitivity = savedSens;
+    }
+  } catch (e) {}
 }
 
 init();
