@@ -599,14 +599,13 @@ window.addEventListener('keydown', (e) => {
  */
 function getThresholds() {
   if (state.settings.sensitivity === 'high') {
-    return { up: 4.8, down: 3.8, neutral: 2.2 };
+    return { up: 4.8, down: 4.8, neutral: 2.2 };
   }
   if (state.settings.sensitivity === 'low') {
-    return { up: 7.2, down: 5.5, neutral: 2.8 }; // Deep firm tilt
+    return { up: 6.8, down: 6.8, neutral: 2.8 }; // Deep firm tilt
   }
-  // Default 'medium': Calibrated to require a distinct deliberate tilt-up (~38°+)
-  // Up is 6.0 m/s², Down is 4.5 m/s², Neutral is 2.5 m/s²
-  return { up: 6.0, down: 4.5, neutral: 2.5 };
+  // Default 'medium': User-calibrated baseline |Z| > 5.5 m/s² for both tilt up and down
+  return { up: 5.5, down: 5.5, neutral: 2.5 };
 }
 
 function evaluateGestureFromGravity(z) {
