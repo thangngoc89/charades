@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Heads Up! - Charades Party Game</title>
+  <meta name="description" content="Mobile Heads-Up Charades game with gyroscope motion detection, kids and millennial decks, and custom decks.">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- TOP HEADER -->
+  <header>
+    <div class="logo-wrap">
+      <div class="logo-icon">📱</div>
+      <div>
+        <h1>HEADS UP!</h1>
+        <div class="subtitle">Charades Party Game</div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button id="sound-btn" class="icon-btn" title="Toggle Sound FX">🔊</button>
+      <button id="sensor-test-btn" class="icon-btn" title="Test Motion Gyroscope">📐 Tilt Test</button>
+      <button id="settings-btn" class="icon-btn" title="Settings">⚙️</button>
+    </div>
+  </header>
+
+  <!-- MAIN LOBBY -->
+  <main id="lobby-view">
+    <!-- iOS Permission Prompt Banner -->
+    <div id="ios-permission-banner" class="ios-banner" style="display:none;">
+      <div style="font-size:1.6rem;">📱</div>
+      <div style="flex:1;">
+        <div style="font-weight:800; font-size:0.95rem; color:#fff;">iPhone Motion Sensors Required</div>
+        <div style="font-size:0.8rem; color:#cbd5e1;">Tap to allow iPhone tilt detection (tilt up for correct, tilt down to pass)</div>
+      </div>
+      <button id="banner-permission-btn" class="btn-primary" style="width:auto; padding:0.6rem 1.1rem; font-size:0.9rem;">Allow Sensors</button>
+    </div>
+
+    <!-- Tab Navigation -->
+    <nav class="tab-nav">
+      <button class="tab-btn active" data-tab="kids">🧒 Kids (&lt;10)</button>
+      <button class="tab-btn" data-tab="adults">🥑 Millennials</button>
+      <button class="tab-btn" data-tab="custom">✏️ Custom Decks</button>
+    </nav>
+
+    <!-- Round Duration Bar -->
+    <div class="round-settings-bar">
+      <div class="setting-group">
+        <span class="setting-label">⏱️ Round Time:</span>
+        <div class="pill-select" id="timer-pills">
+          <button class="pill-option" data-time="45">45s</button>
+          <button class="pill-option active" data-time="60">60s</button>
+          <button class="pill-option" data-time="90">90s</button>
+          <button class="pill-option" data-time="120">120s</button>
+        </div>
+      </div>
+      <div class="setting-group">
+        <span class="setting-label">🎮 Controls:</span>
+        <span id="header-control-mode" style="font-size:0.85rem; color:#38bdf8; font-weight:700;">Tilt + Tap</span>
+      </div>
+    </div>
+
+    <!-- Decks Container -->
+    <div id="decks-container" class="decks-grid">
+      <!-- Injected via JavaScript -->
+    </div>
+  </main>
+
+  <!-- READY SCREEN OVERLAY (INSTRUCTIONS BEFORE START) -->
+  <div id="ready-overlay">
+    <div class="ready-phone-anim">SCREEN FACES PLAYERS</div>
+    <div class="ready-title" id="ready-deck-title">Zoo Animals</div>
+    <div class="ready-desc">
+      Place phone <strong>horizontally on your forehead</strong> with the screen facing your teammates!
+    </div>
+    <div class="ready-tips">
+      <div class="tip-badge tip-correct">Tilt Back / Up = <strong>Correct! 🟢</strong></div>
+      <div class="tip-badge tip-pass">Tilt Forward / Down = <strong>Pass 🟡</strong></div>
+    </div>
+    <div style="display: flex; gap: 1rem; width: 100%; max-width: 400px;">
+      <button id="ready-cancel-btn" class="btn-secondary" style="flex:1;">Cancel</button>
+      <button id="ready-start-btn" class="start-countdown-btn" style="flex:2;">START ROUND</button>
+    </div>
+  </div>
+
+  <!-- 3-2-1 COUNTDOWN SCREEN -->
+  <div id="countdown-screen">
+    <div class="countdown-number" id="countdown-digit">3</div>
+    <div style="font-size: 1.25rem; font-weight:700; color: #94a3b8; margin-top: 1rem;">Hold to forehead!</div>
+  </div>
+
+  <!-- ACTIVE GAMEPLAY VIEW (LANDSCAPE) -->
+  <div id="gameplay-view">
+    <!-- Top Bar -->
+    <div class="game-top-bar">
+      <div class="game-deck-pill" id="game-deck-name">Zoo Animals</div>
+      <div class="game-timer-pill" id="game-timer-display">60</div>
+      <div class="game-score-pill" id="game-score-display">0 pts</div>
+    </div>
+
+    <!-- Real-time Tilt State Badge -->
+    <div id="game-tilt-badge" class="game-tilt-indicator">
+      <span class="tilt-dot"></span>
+      <span id="game-tilt-text">Upright</span>
+    </div>
+
+    <!-- Center Word -->
+    <div class="game-center-area">
+      <!-- Full-screen feedback flash -->
+      <div class="action-flash" id="action-flash"></div>
+
+      <!-- Touch tap zones for fallback / testing -->
+      <div class="touch-zone touch-zone-left" id="touch-pass-zone">
+        <span class="touch-zone-icon">🟡</span>
+      </div>
+      <div class="touch-zone touch-zone-right" id="touch-correct-zone">
+        <span class="touch-zone-icon">🟢</span>
+      </div>
+
+      <div class="current-word-title" id="current-word-text">LION</div>
+      <div class="current-word-hint" id="current-word-hint">Roar! King of the jungle</div>
+    </div>
+
+    <!-- Bottom Hints -->
+    <div class="game-bottom-hints">
+      <span class="hint-pass">⬇️ Tilt Down / Tap Left = PASS</span>
+      <button id="game-quit-btn" style="pointer-events: auto; background: rgba(255,255,255,0.1); border:none; color:#cbd5e1; padding:0.3rem 0.8rem; border-radius:8px; font-weight:700; cursor:pointer;">Quit</button>
+      <span class="hint-correct">Tilt Up / Tap Right = CORRECT ⬆️</span>
+    </div>
+  </div>
+
+  <!-- RESULTS / GAME OVER SCREEN -->
+  <div id="results-screen">
+    <div class="results-header">
+      <div class="results-title">Time's Up! 🎉</div>
+      <div class="score-circle">
+        <span class="score-number" id="final-score-val">0</span>
+        <span class="score-label">POINTS</span>
+      </div>
+      <div style="font-size: 0.95rem; color: #94a3b8;" id="results-deck-name">Deck: Zoo Animals</div>
+    </div>
+
+    <!-- Breakdown of words -->
+    <div class="results-breakdown" id="results-word-list">
+      <!-- Injected by JS -->
+    </div>
+
+    <div class="results-actions">
+      <button id="results-lobby-btn" class="btn-secondary">Choose Deck</button>
+      <button id="results-replay-btn" class="btn-primary">Play Again 🔁</button>
+    </div>
+  </div>
+
+  <!-- SENSOR CALIBRATION / TEST MODAL -->
+  <div class="modal-overlay" id="sensor-modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 class="modal-title">📐 Gyroscope & Motion Test</h2>
+        <button class="close-btn" data-close="sensor-modal">&times;</button>
+      </div>
+
+      <div id="sensor-permission-status" style="margin-bottom:1rem; padding:0.6rem 0.9rem; border-radius:10px; font-weight:700; font-size:0.85rem; background:rgba(255,255,255,0.08); text-align:center;">
+        Checking motion permission...
+      </div>
+
+      <div class="sensor-gauge">
+        <div style="font-size:0.75rem; color:#94a3b8; font-weight:700; text-transform:uppercase;">Live Detected Position</div>
+        <div class="gauge-status status-neutral" id="test-tilt-status" style="margin:0.5rem 0; font-size:1.3rem;">NEUTRAL (Upright)</div>
+        <div style="font-size:0.85rem; color:#38bdf8; font-weight:700;" id="test-sensor-raw">Z: 0.0 m/s² | Tilt: 0°</div>
+      </div>
+
+      <div style="font-size:0.85rem; color:#cbd5e1; margin-bottom:1.2rem; line-height:1.5; background:rgba(15,23,42,0.6); padding:0.8rem; border-radius:10px;">
+        🟢 <strong>Tilt Back / Face Up:</strong> Triggers <em>CORRECT</em> (Chime)<br>
+        🟡 <strong>Tilt Forward / Face Down:</strong> Triggers <em>PASS</em> (Boop)<br>
+        ⚪ <strong>Neutral (Forehead Upright):</strong> Waiting for guess
+      </div>
+
+      <button id="request-permission-btn" class="btn-primary" style="margin-bottom:0.75rem;">Request iPhone Sensor Permission</button>
+      <button class="btn-secondary" data-close="sensor-modal" style="width:100%;">Close Test</button>
+    </div>
+  </div>
+
+  <!-- CUSTOM DECK CREATOR MODAL -->
+  <div class="modal-overlay" id="custom-modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 class="modal-title">✏️ Create Custom Deck</h2>
+        <button class="close-btn" data-close="custom-modal">&times;</button>
+      </div>
+
+      <form id="custom-deck-form">
+        <div class="form-group">
+          <label class="form-label" for="custom-deck-name">Deck Name</label>
+          <input type="text" id="custom-deck-name" class="form-input" placeholder="e.g. Inside Family Jokes" required>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="custom-deck-icon">Emoji Icon</label>
+          <input type="text" id="custom-deck-icon" class="form-input" value="🎉" maxlength="2" style="width:70px; text-align:center; font-size:1.4rem;">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="custom-deck-words">Words (one per line)</label>
+          <textarea id="custom-deck-words" class="form-textarea" placeholder="Grandma's secret sauce&#10;Uncle Bob snoring&#10;Tripping on the rug&#10;Lost car keys" required></textarea>
+        </div>
+
+        <button type="submit" class="btn-primary">Save & Add Deck</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- SETTINGS MODAL -->
+  <div class="modal-overlay" id="settings-modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 class="modal-title">⚙️ Game Settings</h2>
+        <button class="close-btn" data-close="settings-modal">&times;</button>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:1.25rem;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div>
+            <div style="font-weight:700;">Sound Effects</div>
+            <div style="font-size:0.8rem; color:#94a3b8;">Dings, buzzes, and countdown beeps</div>
+          </div>
+          <input type="checkbox" id="setting-sound-toggle" checked style="width:22px; height:22px; accent-color:var(--primary);">
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div>
+            <div style="font-weight:700;">Vibration / Haptics</div>
+            <div style="font-size:0.8rem; color:#94a3b8;">Tactile vibration when action triggers</div>
+          </div>
+          <input type="checkbox" id="setting-vibrate-toggle" checked style="width:22px; height:22px; accent-color:var(--primary);">
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div>
+            <div style="font-weight:700;">Invert Tilt Direction</div>
+            <div style="font-size:0.8rem; color:#94a3b8;">Swap Tilt Up & Tilt Down actions</div>
+          </div>
+          <input type="checkbox" id="setting-invert-toggle" style="width:22px; height:22px; accent-color:var(--primary);">
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div>
+            <div style="font-weight:700;">Touch Screen Zones</div>
+            <div style="font-size:0.8rem; color:#94a3b8;">Tap left = pass, tap right = correct</div>
+          </div>
+          <input type="checkbox" id="setting-touch-toggle" checked style="width:22px; height:22px; accent-color:var(--primary);">
+        </div>
+
+        <button class="btn-primary" data-close="settings-modal">Save Settings</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST NOTIFICATION -->
+  <div id="toast" class="toast">Action Saved</div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
