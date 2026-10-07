@@ -599,34 +599,34 @@ window.addEventListener('keydown', (e) => {
  */
 function getThresholds() {
   if (state.settings.sensitivity === 'high') {
-    return { up: 4.8, down: 4.8, neutral: 2.2 };
+    return { threshold: 4.8 };
   }
   if (state.settings.sensitivity === 'low') {
-    return { up: 6.8, down: 6.8, neutral: 2.8 }; // Deep firm tilt
+    return { threshold: 6.8 };
   }
-  // Default 'medium': User-calibrated baseline |Z| > 5.5 m/s² for both tilt up and down
-  return { up: 5.5, down: 5.5, neutral: 2.5 };
+  // Default: |Z| > 5.5 m/s² required for tilt; everything |Z| <= 5.5 is Neutral
+  return { threshold: 5.5 };
 }
 
 function evaluateGestureFromGravity(z) {
-  const { up, down, neutral } = getThresholds();
+  const { threshold } = getThresholds();
   let rawGesture = 'NEUTRAL';
 
   if (isIOS) {
-    if (z < -up) {
-      rawGesture = 'UP'; // Distinct deliberate tilt up -> Correct
-    } else if (z > down) {
-      rawGesture = 'DOWN'; // Deliberate nod down -> Pass
-    } else if (Math.abs(z) < neutral) {
-      rawGesture = 'NEUTRAL';
+    if (z < -threshold) {
+      rawGesture = 'UP'; // Tilt Back / Look Up -> Correct
+    } else if (z > threshold) {
+      rawGesture = 'DOWN'; // Tilt Forward / Nod Down -> Pass
+    } else {
+      rawGesture = 'NEUTRAL'; // Everything |z| <= 5.5 is Neutral!
     }
   } else {
     // Android coordinate sign convention
-    if (z > up) {
+    if (z > threshold) {
       rawGesture = 'UP';
-    } else if (z < -down) {
+    } else if (z < -threshold) {
       rawGesture = 'DOWN';
-    } else if (Math.abs(z) < neutral) {
+    } else {
       rawGesture = 'NEUTRAL';
     }
   }
