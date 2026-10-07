@@ -9,7 +9,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
 
@@ -267,6 +267,7 @@
           <input type="checkbox" id="setting-touch-toggle" checked style="width:22px; height:22px; accent-color:var(--primary);">
         </div>
 
+        <button type="button" id="btn-force-update" class="btn-secondary" style="font-size:0.9rem; padding:0.75rem;">🔄 Clear Cache & Check Updates</button>
         <button class="btn-primary" data-close="settings-modal">Save Settings</button>
       </div>
     </div>
@@ -275,6 +276,6 @@
   <!-- TOAST NOTIFICATION -->
   <div id="toast" class="toast">Action Saved</div>
 
-  <script type="module" src="app.js"></script>
+  <script type="module" src="app.js?v=7"></script>
 </body>
 </html>

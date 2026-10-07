@@ -1,4 +1,4 @@
-import { DECKS } from './decks.js';
+import { DECKS } from './decks.js?v=7';
 
 // --- DETECT PLATFORM ---
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
@@ -885,6 +885,40 @@ function init() {
       state.settings.sensitivity = savedSens;
     }
   } catch (e) {}
+
+  // Register Service Worker with forced update
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js?v=7')
+      .then((reg) => {
+        reg.update().catch(() => {});
+      })
+      .catch((err) => {
+        console.warn('SW registration failed:', err);
+      });
+  }
+
+  // Force Clear Cache & Reload button
+  const btnForceUpdate = document.getElementById('btn-force-update');
+  if (btnForceUpdate) {
+    btnForceUpdate.onclick = async () => {
+      showToast('Clearing cache and updating...');
+      if ('caches' in window) {
+        try {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(k => caches.delete(k)));
+        } catch (e) {}
+      }
+      if ('serviceWorker' in navigator) {
+        try {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(r => r.unregister()));
+        } catch (e) {}
+      }
+      setTimeout(() => {
+        window.location.reload(true);
+      }, 400);
+    };
+  }
 }
 
 init();
