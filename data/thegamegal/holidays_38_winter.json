@@ -1,0 +1,171 @@
+{
+  "id": "gamegal-holidays-38",
+  "name": "Winter",
+  "icon": "❄️",
+  "game_id": 4,
+  "category_id": 38,
+  "theme": "holidays",
+  "count": 40,
+  "words": [
+    {
+      "word": "heater",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "warm hat",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "solstice",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "short days",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "hibernation",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snow",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "warm socks",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "sledding",
+      "hint": "Act out: sledding"
+    },
+    {
+      "word": "ice",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "holidays",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "blue",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "scarf",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "winter break",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snow shoveling",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "chicken noodle soup",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "beanie",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "Jack Frost",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "boots",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "cold",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "frost",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "ice skating",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "soup",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "fireplace",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "cider",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "hockey",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snowball",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "coat",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "hot chocolate",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "white",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snowboarding",
+      "hint": "Act out: snowboarding"
+    },
+    {
+      "word": "bobsledding",
+      "hint": "Act out: bobsledding"
+    },
+    {
+      "word": "snowflake",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "winter wonderland",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "skiing",
+      "hint": "Act out: skiing"
+    },
+    {
+      "word": "Winter Olympics",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snowman",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "chimney",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "gloves",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "mittens",
+      "hint": "Guess this winter term!"
+    },
+    {
+      "word": "snowball fight",
+      "hint": "Guess this winter term!"
+    }
+  ]
+}

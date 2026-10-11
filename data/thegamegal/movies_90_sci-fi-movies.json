@@ -1,0 +1,383 @@
+{
+  "id": "gamegal-movies-90",
+  "name": "Sci-Fi Movies",
+  "icon": "🚀",
+  "game_id": 8,
+  "category_id": 90,
+  "theme": "movies",
+  "count": 93,
+  "words": [
+    {
+      "word": "Minority Report (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Hunger Games (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "20,000 Leagues Under the Sea (1954)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Captain America: The Winter Soldier (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Back to the Future Part III (1990)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Deep Impact (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Truman Show (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Men in Black (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Fantastic Four (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Jurassic Park (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Back to the Future (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Close Encounters of the Third Kind (1977)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Escape to Witch Mountain (1975)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Jurassic World (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Journey to the Center of the Earth (1959)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Godzilla (1954)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ender's Game (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Treasure Planet (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Flight of the Navigator (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Fantastic Four (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Amazing Spider-Man (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode II - Attack of the Clones (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "WarGames (1983)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Independence Day (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Soylent Green (1973)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Lost World: Jurassic Park (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Batman v Superman: Dawn of Justice (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Super 8 (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Godzilla (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Black Hole (1979)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "RocketMan (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Dawn of the Planet of the Apes (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Avatar (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Batman (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Man of Steel (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Iron Man (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Teenage Mutant Ninja Turtles (1990)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Spider-Man (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tomorrowland (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Fifth Element (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Sky High (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Trek Into Darkness (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Rogue One: A Star Wars Story (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cloverfield (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Young Frankenstein (1974)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Stargate (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Short Circuit (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tron (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: The Force Awakens (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Farenheit 451 (1966)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Transformers (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Time Machine (1960)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Gattaca (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Martian (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Small Soldiers (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Abyss (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Superman (1978)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Creature from the Black Lagoon (1954)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Around the World in 80 Days (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Galaxy Quest (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode IV - A New Hope (1977)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Planet of the Apes (1968)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Inception (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Honey, I Blew Up the Kid (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tron: Legacy (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Trek (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "2001: A Space Odyssey (1968)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Back to the Future Part II (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Batman Begins (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Trek Beyond (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Avengers (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Honey, I Shrunk the Kids (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bill & Ted's Excellent Adventure (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Inspector Gadget (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Rise of the Planet of the Apes (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Spaceballs (1987)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Maze Runner (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Secret of NIMH (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cocoon (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Muppets from Space (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Waterworld (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Avengers: Age of Ultron (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Planet of the Apes (2001)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Explorers (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode I - The Phantom Menace (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Contact (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "E.T. the Extra-Terrestrial (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Captain America: The First Avenger (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Interstellar (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Star Wars: Episode III - Revenge of the Sith (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ghostbusters (1984)",
+      "hint": "Classic movie title to act out!"
+    }
+  ]
+}

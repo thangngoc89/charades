@@ -1,0 +1,1463 @@
+{
+  "id": "gamegal-charades-26",
+  "name": "Medium Charades",
+  "icon": "🌟",
+  "game_id": 5,
+  "category_id": 26,
+  "theme": "charades",
+  "count": 363,
+  "words": [
+    {
+      "word": "key",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "puppet",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "warm",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "skirt",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "upset",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "give",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "applause",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "artist",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "surfboard",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "race",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "snapping turtle",
+      "hint": "Act out: snapping turtle"
+    },
+    {
+      "word": "bruise",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lobster",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "squash",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tool",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "banana peel",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "scrape",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shiver",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wink",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "boat",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wind",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "paddle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cat",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fill",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "flamingo",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "spill",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sing",
+      "hint": "Act out: sing"
+    },
+    {
+      "word": "freeze",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "claw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cook",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sketch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mirror",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "stomach",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "map",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "picture",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shower",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "dimple",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sprinkler",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "nail",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hug",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rhinoceros",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "Rocky",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "drive",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "kickball",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pajamas",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "penguin",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pickaxe",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "stapler",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "steer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "table tennis (ping pong)",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "ping pong",
+      "hint": "Act out: ping pong"
+    },
+    {
+      "word": "scoot",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "concentrate",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shirt",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "impatient",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mix",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "airport security",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "winter",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "video camera",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "purse",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "beaver",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "funny",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "photographer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fly",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wallet",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sweater vest",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "t-shirt",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cha-cha",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "raise",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "TV",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pass",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "body",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "soap",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pocket",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hammerhead shark",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bride",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hot",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "swimmer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "scribble",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bowtie",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "midnight",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "surprise",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "roar",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bottle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "unicorn",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "railroad",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "whip",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "skateboard",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bend",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "trade",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "snowball",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "taxi",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "snake",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tackle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pour",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "watering can",
+      "hint": "Act out: watering can"
+    },
+    {
+      "word": "shield",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "thought",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "microscope",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "forehead",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "move",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fetch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tray",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "swing",
+      "hint": "Act out: swing"
+    },
+    {
+      "word": "slide",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "basketball",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "twist",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cheerleader",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cape",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "welcome",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shop",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "annoyed",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "baseball bat",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "awkward",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mean",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "stick",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pocket billiards (pool)",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hiking",
+      "hint": "Act out: hiking"
+    },
+    {
+      "word": "bored",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "oxygen",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tree frog",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sock",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "toy",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "waves",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "birthday",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "top hat",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "watch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "money",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "window",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "skunk",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tissue",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lollipop",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fan",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sniff",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tickle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "balloon",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "volleyball",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "breath",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "milk",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "glide",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rocking chair",
+      "hint": "Act out: rocking chair"
+    },
+    {
+      "word": "salute",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "model",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "violin",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "archer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "paint",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shave",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "spray",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rose",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rubber band",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "chomp",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "kiss",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lion",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "dress",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "newspaper",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hurry",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "roof",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mouth guard",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "zipper",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bicycle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "blind",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "find",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "slip",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wing",
+      "hint": "Act out: wing"
+    },
+    {
+      "word": "keyboard",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "seesaw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "dancer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mail",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "maid",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "camera",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "grow",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "toss",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "zebra",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wash",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "braid",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "button",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "raft",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "drums",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lean",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "paw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pitcher",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "whisper",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sprint",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cup",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pack",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "axe",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "search",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pencil sharpener",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sneak",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mittens",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "packing",
+      "hint": "Act out: packing"
+    },
+    {
+      "word": "beak",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pants",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "look",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "earthquake",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "prayer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "piano",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "woman",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sharp",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "roll",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bald",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "turn",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "accordion",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "think",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mop",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "chase",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "giraffe",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sway",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "applaud",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "whimper",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fiddle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tusk",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "comb",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "kitten",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "swimming pool",
+      "hint": "Act out: swimming pool"
+    },
+    {
+      "word": "headache",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "popsicle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "scar",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lazy",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mouse",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "switch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "loosen",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bug spray",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "middle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "belt",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cage",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cell phone",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "heel",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "gum",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wristwatch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "gather",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tree",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "thread",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lipstick",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wipe",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "waist",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "grasshopper",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "brain",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "credit card",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "calculator",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "iron",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "slam dunk",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "straw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "repeat",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rib",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "reach",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "expand",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "work",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hopscotch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "attach",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wolf",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bed",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "chest",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "nod",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sit",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rub",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "whistle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cheetah",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "laugh",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hip",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wrist",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sort",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "river",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "relax",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shopping cart",
+      "hint": "Act out: shopping cart"
+    },
+    {
+      "word": "fin",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "unpack",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bear",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "trumpet",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "kneel",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hacky sack",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "tug-o-war",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "zip",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "jog",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "measuring tape",
+      "hint": "Act out: measuring tape"
+    },
+    {
+      "word": "explore",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sunscreen",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "gnaw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "necktie",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "Frankenstein",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cymbals",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rain",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "seashell",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "limbo",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "peck",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "bone",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fang",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "golf",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cow",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shark",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cab",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "talk",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cello",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "umbrella",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shampoo",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "river rafting",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shout",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "ruler",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "nap",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "arm wrestling",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "lift",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "vacuum",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "skiing",
+      "hint": "Act out: skiing"
+    },
+    {
+      "word": "leaf",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "weave",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "butterfly",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "chop",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "Spider Man",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "juggle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "face",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sick",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "yo-yo",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mosquito",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "brave",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "teeth",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fishing pole",
+      "hint": "Act out: fishing pole"
+    },
+    {
+      "word": "stairs",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "surfing",
+      "hint": "Act out: surfing"
+    },
+    {
+      "word": "tiptoe",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "grin",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "wheel",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "crush",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "mailman",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "dig",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hairbrush",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "scream",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "flute",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pogo stick",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shock",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "president",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "skin",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "quote",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "shovel",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "conductor",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fanny pack",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pain",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "song",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "marble",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sigh",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "play",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "spoon",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "saw",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "beg",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "road",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "rinse",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "write",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "pull",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "stretch",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "dog leash",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "hula hoop",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "alarm clock",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "saddle",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "acne",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "soldier",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "cold",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "fall",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "computer",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "earache",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "ladder",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "sofa",
+      "hint": "Guess this medium charades term!"
+    },
+    {
+      "word": "live",
+      "hint": "Guess this medium charades term!"
+    }
+  ]
+}

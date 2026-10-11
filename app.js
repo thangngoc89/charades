@@ -1,4 +1,4 @@
-import { DECKS } from './decks.js?v=7';
+import { DECKS } from './decks.js?v=8';
 
 // --- DETECT PLATFORM ---
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
@@ -6,7 +6,7 @@ const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
 
 // --- GAME STATE ---
 const state = {
-  activeTab: 'kids', // 'kids' | 'adults' | 'custom'
+  activeTab: 'vietnam', // 'vietnam' | 'holidays' | 'wedding' | 'gamegal' | 'adults' | 'kids' | 'custom'
   roundDuration: 60, // seconds
   currentDeck: null,
   wordsQueue: [],
@@ -199,6 +199,18 @@ const elements = {
   settingInvertToggle: document.getElementById('setting-invert-toggle'),
   settingSensitivitySelect: document.getElementById('setting-sensitivity-select'),
   settingTouchToggle: document.getElementById('setting-touch-toggle'),
+  gamegalModal: document.getElementById('gamegal-modal'),
+  gamegalGameSelect: document.getElementById('gamegal-game-select'),
+  gamegalCatSelect: document.getElementById('gamegal-cat-select'),
+  gamegalCountSelect: document.getElementById('gamegal-count-select'),
+  gamegalDeckIcon: document.getElementById('gamegal-deck-icon'),
+  gamegalDeckTitle: document.getElementById('gamegal-deck-title'),
+  gamegalFetchBtn: document.getElementById('gamegal-fetch-btn'),
+  gamegalPreviewArea: document.getElementById('gamegal-preview-area'),
+  gamegalPreviewCount: document.getElementById('gamegal-preview-count'),
+  gamegalPreviewChips: document.getElementById('gamegal-preview-chips'),
+  gamegalSaveDeckBtn: document.getElementById('gamegal-save-deck-btn'),
+  gamegalPlayNowBtn: document.getElementById('gamegal-play-now-btn'),
   toast: document.getElementById('toast')
 };
 
@@ -299,16 +311,37 @@ function renderDecks() {
   elements.decksContainer.innerHTML = '';
 
   let deckList = [];
-  if (state.activeTab === 'kids') {
-    deckList = DECKS.kids;
+  if (state.activeTab === 'vietnam') {
+    deckList = DECKS.vietnam || [];
+  } else if (state.activeTab === 'holidays') {
+    deckList = DECKS.holidays || [];
+  } else if (state.activeTab === 'wedding') {
+    deckList = DECKS.wedding || [];
+  } else if (state.activeTab === 'gamegal') {
+    deckList = DECKS.gamegal || [];
   } else if (state.activeTab === 'adults') {
-    deckList = DECKS.adults;
+    deckList = DECKS.adults || [];
+  } else if (state.activeTab === 'kids') {
+    deckList = DECKS.kids || [];
   } else if (state.activeTab === 'custom') {
     deckList = state.customDecks;
   }
 
   if (state.activeTab === 'custom') {
-    // Add "Create New Deck" card
+    // 1. "Game Gal Auto Importer" card
+    const importCard = document.createElement('div');
+    importCard.className = 'custom-deck-add-card';
+    importCard.style.borderColor = 'rgba(99, 102, 241, 0.4)';
+    importCard.style.background = 'linear-gradient(135deg, rgba(99, 102, 241, 0.12), rgba(168, 85, 247, 0.12))';
+    importCard.innerHTML = `
+      <div class="custom-add-icon" style="background:rgba(99, 102, 241, 0.2); color:#818cf8;">⚡</div>
+      <div style="font-weight: 700; font-size: 1.1rem; color:#fff;">Game Gal Auto Generator</div>
+      <div style="font-size: 0.85rem; color: var(--text-muted);">Fetch themed word lists from thegamegal.com with 1 click</div>
+    `;
+    importCard.onclick = () => openModal('gamegal-modal');
+    elements.decksContainer.appendChild(importCard);
+
+    // 2. "Create Custom Deck" manual card
     const addCard = document.createElement('div');
     addCard.className = 'custom-deck-add-card';
     addCard.innerHTML = `
@@ -874,6 +907,260 @@ elements.customDeckForm.onsubmit = (e) => {
   renderDecks();
 };
 
+// =========================================================================
+// --- THE GAME GAL AUTO GENERATOR & IMPORTER WORKFLOW ---
+// =========================================================================
+
+const GAMEGAL_THEMES = {
+  4: {
+    name: "Western Holidays",
+    icon: "🎄",
+    categories: [
+      { id: 45, name: "Valentine's Day", icon: "💖" },
+      { id: 23, name: "Fourth of July", icon: "🎆" },
+      { id: 24, name: "Halloween", icon: "🎃" },
+      { id: 29, name: "Thanksgiving", icon: "🦃" },
+      { id: 30, name: "Christmas", icon: "🎄" },
+      { id: 31, name: "Christmas Songs", icon: "🎶" },
+      { id: 37, name: "New Year's", icon: "🥂" },
+      { id: 35, name: "Spring / Easter", icon: "🌸" },
+      { id: 39, name: "Summer", icon: "☀️" },
+      { id: 40, name: "Fall / Autumn", icon: "🍂" },
+      { id: 38, name: "Winter", icon: "❄️" },
+      { id: 44, name: "Summer Olympics", icon: "🥇" }
+    ]
+  },
+  5: {
+    name: "Charades & Actions",
+    icon: "🤸",
+    categories: [
+      { id: 36, name: "Actions", icon: "🤸" },
+      { id: 25, name: "Easy", icon: "⭐" },
+      { id: 26, name: "Medium", icon: "🌟" },
+      { id: 27, name: "Hard", icon: "⚡" },
+      { id: 28, name: "Really Hard", icon: "🔥" }
+    ]
+  },
+  8: {
+    name: "Movies",
+    icon: "🍿",
+    categories: [
+      { id: 82, name: "Disney & Pixar Movies", icon: "🏰" },
+      { id: 80, name: "Animated Movies", icon: "🦁" },
+      { id: 81, name: "Comedies", icon: "😂" },
+      { id: 84, name: "Family Movies", icon: "🍿" },
+      { id: 90, name: "Sci-Fi Movies", icon: "🚀" },
+      { id: 76, name: "All Movies", icon: "🎬" }
+    ]
+  },
+  1: {
+    name: "Subjects & Themes",
+    icon: "🦁",
+    categories: [
+      { id: 1, name: "Animals", icon: "🦁" },
+      { id: 56, name: "Common Animals", icon: "🐶" },
+      { id: 4, name: "Places", icon: "🌍" },
+      { id: 65, name: "Sports", icon: "⚽" },
+      { id: 2, name: "Food and Cooking", icon: "🍕" },
+      { id: 63, name: "Nature", icon: "🌲" },
+      { id: 52, name: "Around the House", icon: "🏠" },
+      { id: 66, name: "Travel", icon: "✈️" },
+      { id: 59, name: "Feelings and Emotions", icon: "🎭" }
+    ]
+  },
+  7: {
+    name: "Wordplay",
+    icon: "💡",
+    categories: [
+      { id: 69, name: "Idioms and Sayings", icon: "💡" },
+      { id: 71, name: "Opposites", icon: "🔄" },
+      { id: 72, name: "Pairs", icon: "👯" }
+    ]
+  },
+  2: {
+    name: "Pictionary",
+    icon: "🎨",
+    categories: [
+      { id: 6, name: "Easy", icon: "✏️" },
+      { id: 7, name: "Medium", icon: "🎨" },
+      { id: 8, name: "Hard", icon: "🖌️" },
+      { id: 9, name: "Really Hard", icon: "🔥" }
+    ]
+  },
+  3: {
+    name: "Catchphrase",
+    icon: "🗣️",
+    categories: [
+      { id: 13, name: "Easy", icon: "🗣️" },
+      { id: 14, name: "Medium", icon: "🎯" },
+      { id: 15, name: "Hard", icon: "🧠" }
+    ]
+  },
+  9: {
+    name: "Famous People",
+    icon: "🌟",
+    categories: [
+      { id: 92, name: "Celebrities", icon: "🌟" },
+      { id: 93, name: "Characters", icon: "🦸" },
+      { id: 94, name: "Historical People", icon: "📜" }
+    ]
+  }
+};
+
+let loadedGameGalWords = [];
+
+function populateGameGalCategories() {
+  if (!elements.gamegalGameSelect || !elements.gamegalCatSelect) return;
+  const gameId = parseInt(elements.gamegalGameSelect.value, 10);
+  const theme = GAMEGAL_THEMES[gameId];
+  elements.gamegalCatSelect.innerHTML = '';
+
+  if (theme && theme.categories) {
+    theme.categories.forEach(cat => {
+      const opt = document.createElement('option');
+      opt.value = cat.id;
+      opt.textContent = `${cat.icon || ''} ${cat.name}`;
+      opt.setAttribute('data-icon', cat.icon || theme.icon || '🎲');
+      opt.setAttribute('data-name', cat.name);
+      elements.gamegalCatSelect.appendChild(opt);
+    });
+    updateGameGalDefaultTitle();
+  }
+}
+
+function updateGameGalDefaultTitle() {
+  if (!elements.gamegalCatSelect) return;
+  const selectedOpt = elements.gamegalCatSelect.selectedOptions[0];
+  if (selectedOpt) {
+    const catName = selectedOpt.getAttribute('data-name');
+    const catIcon = selectedOpt.getAttribute('data-icon') || '🎲';
+    if (elements.gamegalDeckTitle) elements.gamegalDeckTitle.value = `Game Gal: ${catName}`;
+    if (elements.gamegalDeckIcon) elements.gamegalDeckIcon.value = catIcon;
+  }
+}
+
+if (elements.gamegalGameSelect) {
+  elements.gamegalGameSelect.onchange = () => {
+    populateGameGalCategories();
+  };
+}
+
+if (elements.gamegalCatSelect) {
+  elements.gamegalCatSelect.onchange = () => {
+    updateGameGalDefaultTitle();
+  };
+}
+
+// Initial populate
+populateGameGalCategories();
+
+// Fetch Words from Game Gal
+if (elements.gamegalFetchBtn) {
+  elements.gamegalFetchBtn.onclick = async () => {
+    const gameId = elements.gamegalGameSelect.value;
+    const catId = elements.gamegalCatSelect.value;
+    const countVal = elements.gamegalCountSelect.value;
+
+    elements.gamegalFetchBtn.textContent = '⏳ Fetching from The Game Gal...';
+    elements.gamegalFetchBtn.disabled = true;
+
+    try {
+      const res = await fetch(`/api/gamegal?game=${encodeURIComponent(gameId)}&category=${encodeURIComponent(catId)}`);
+      const data = await res.json();
+
+      if (data.success && Array.isArray(data.words) && data.words.length > 0) {
+        let words = [...data.words];
+
+        // Shuffle
+        for (let i = words.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [words[i], words[j]] = [words[j], words[i]];
+        }
+
+        if (countVal !== 'all') {
+          const limit = parseInt(countVal, 10);
+          words = words.slice(0, limit);
+        }
+
+        loadedGameGalWords = words.map(w => ({ word: w, hint: '' }));
+
+        // Render preview chips
+        elements.gamegalPreviewArea.style.display = 'block';
+        elements.gamegalPreviewCount.textContent = `✅ ${loadedGameGalWords.length} words grabbed`;
+        elements.gamegalPreviewChips.innerHTML = '';
+
+        loadedGameGalWords.slice(0, 30).forEach(item => {
+          const chip = document.createElement('span');
+          chip.className = 'preview-chip';
+          chip.textContent = item.word;
+          elements.gamegalPreviewChips.appendChild(chip);
+        });
+
+        if (loadedGameGalWords.length > 30) {
+          const more = document.createElement('span');
+          more.className = 'preview-chip';
+          more.style.opacity = '0.7';
+          more.textContent = `+${loadedGameGalWords.length - 30} more`;
+          elements.gamegalPreviewChips.appendChild(more);
+        }
+
+        elements.gamegalSaveDeckBtn.disabled = false;
+        elements.gamegalPlayNowBtn.disabled = false;
+        showToast(`Grabbed ${loadedGameGalWords.length} words! 🎉`);
+      } else {
+        alert("Could not fetch words from The Game Gal. Please check your network or try another category.");
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Error fetching from The Game Gal: " + err.message);
+    } finally {
+      elements.gamegalFetchBtn.textContent = '⚡ Fetch & Preview Words';
+      elements.gamegalFetchBtn.disabled = false;
+    }
+  };
+}
+
+function constructGameGalDeck() {
+  const name = elements.gamegalDeckTitle.value.trim() || 'Game Gal Deck';
+  const icon = elements.gamegalDeckIcon.value.trim() || '🎲';
+  return {
+    id: `gamegal-custom-${Date.now()}`,
+    name,
+    icon,
+    color: '#6366f1',
+    description: `Auto-generated from The Game Gal (${loadedGameGalWords.length} words)`,
+    words: loadedGameGalWords
+  };
+}
+
+if (elements.gamegalSaveDeckBtn) {
+  elements.gamegalSaveDeckBtn.onclick = () => {
+    if (!loadedGameGalWords.length) return;
+    const newDeck = constructGameGalDeck();
+    state.customDecks.unshift(newDeck);
+    saveCustomDecks();
+    closeModal('gamegal-modal');
+    showToast(`Deck "${newDeck.name}" saved! 🎉`);
+
+    state.activeTab = 'custom';
+    elements.tabBtns.forEach(b => {
+      b.classList.toggle('active', b.getAttribute('data-tab') === 'custom');
+    });
+    renderDecks();
+  };
+}
+
+if (elements.gamegalPlayNowBtn) {
+  elements.gamegalPlayNowBtn.onclick = () => {
+    if (!loadedGameGalWords.length) return;
+    const newDeck = constructGameGalDeck();
+    state.customDecks.unshift(newDeck);
+    saveCustomDecks();
+    closeModal('gamegal-modal');
+    selectDeckAndPromptReady(newDeck);
+  };
+}
+
 // --- INITIALIZE APP ---
 function init() {
   loadCustomDecks();
@@ -888,7 +1175,7 @@ function init() {
 
   // Register Service Worker with forced update
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js?v=7')
+    navigator.serviceWorker.register('./sw.js?v=8')
       .then((reg) => {
         reg.update().catch(() => {});
       })

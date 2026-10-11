@@ -1,0 +1,535 @@
+{
+  "id": "gamegal-charades-36",
+  "name": "Actions",
+  "icon": "🤸",
+  "game_id": 5,
+  "category_id": 36,
+  "theme": "charades",
+  "count": 131,
+  "words": [
+    {
+      "word": "riding a roller coaster",
+      "hint": "Act out: riding a roller coaster"
+    },
+    {
+      "word": "climbing a hill",
+      "hint": "Act out: climbing a hill"
+    },
+    {
+      "word": "body surfing at the beach",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "paddling in a canoe",
+      "hint": "Act out: paddling in a canoe"
+    },
+    {
+      "word": "raking leaves",
+      "hint": "Act out: raking leaves"
+    },
+    {
+      "word": "washing windows on a building",
+      "hint": "Act out: washing windows on a building"
+    },
+    {
+      "word": "hang-gliding",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "finding a seat in a crowded room",
+      "hint": "Act out: finding a seat in a crowded room"
+    },
+    {
+      "word": "putting on makeup",
+      "hint": "Act out: putting on makeup"
+    },
+    {
+      "word": "having a food fight",
+      "hint": "Act out: having a food fight"
+    },
+    {
+      "word": "operating a jackhammer",
+      "hint": "Act out: operating a jackhammer"
+    },
+    {
+      "word": "flipping pancakes",
+      "hint": "Act out: flipping pancakes"
+    },
+    {
+      "word": "visiting the zoo",
+      "hint": "Act out: visiting the zoo"
+    },
+    {
+      "word": "going on an African safari",
+      "hint": "Act out: going on an African safari"
+    },
+    {
+      "word": "playing at a piano recital",
+      "hint": "Act out: playing at a piano recital"
+    },
+    {
+      "word": "listening to music",
+      "hint": "Act out: listening to music"
+    },
+    {
+      "word": "watching a scary movie",
+      "hint": "Act out: watching a scary movie"
+    },
+    {
+      "word": "riding a motorcycle",
+      "hint": "Act out: riding a motorcycle"
+    },
+    {
+      "word": "scuba diving",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "playing with play dough",
+      "hint": "Act out: playing with play dough"
+    },
+    {
+      "word": "changing a flat tire",
+      "hint": "Act out: changing a flat tire"
+    },
+    {
+      "word": "landing an airplane",
+      "hint": "Act out: landing an airplane"
+    },
+    {
+      "word": "picking apples from a tree",
+      "hint": "Act out: picking apples from a tree"
+    },
+    {
+      "word": "learning a new dance step",
+      "hint": "Act out: learning a new dance step"
+    },
+    {
+      "word": "climbing Mount Everest",
+      "hint": "Act out: climbing Mount Everest"
+    },
+    {
+      "word": "being a flight attendant",
+      "hint": "Act out: being a flight attendant"
+    },
+    {
+      "word": "baking a cake",
+      "hint": "Act out: baking a cake"
+    },
+    {
+      "word": "digging a hole",
+      "hint": "Act out: digging a hole"
+    },
+    {
+      "word": "riding a carousel",
+      "hint": "Act out: riding a carousel"
+    },
+    {
+      "word": "hailing a taxi",
+      "hint": "Act out: hailing a taxi"
+    },
+    {
+      "word": "setting up a tent",
+      "hint": "Act out: setting up a tent"
+    },
+    {
+      "word": "picking up a snake",
+      "hint": "Act out: picking up a snake"
+    },
+    {
+      "word": "walking through a haunted house",
+      "hint": "Act out: walking through a haunted house"
+    },
+    {
+      "word": "navigating your way across a toy-littered room",
+      "hint": "Act out: navigating your way across a toy-littered room"
+    },
+    {
+      "word": "searching for lost car keys",
+      "hint": "Act out: searching for lost car keys"
+    },
+    {
+      "word": "playing hopscotch",
+      "hint": "Act out: playing hopscotch"
+    },
+    {
+      "word": "rearranging furniture",
+      "hint": "Act out: rearranging furniture"
+    },
+    {
+      "word": "going through airport security",
+      "hint": "Act out: going through airport security"
+    },
+    {
+      "word": "cleaning your room",
+      "hint": "Act out: cleaning your room"
+    },
+    {
+      "word": "watching a sad movie",
+      "hint": "Act out: watching a sad movie"
+    },
+    {
+      "word": "learning to ride a bike",
+      "hint": "Act out: learning to ride a bike"
+    },
+    {
+      "word": "deep-sea fishing",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "working out at the gym",
+      "hint": "Act out: working out at the gym"
+    },
+    {
+      "word": "hiking in the woods",
+      "hint": "Act out: hiking in the woods"
+    },
+    {
+      "word": "shopping at the mall",
+      "hint": "Act out: shopping at the mall"
+    },
+    {
+      "word": "washing a car",
+      "hint": "Act out: washing a car"
+    },
+    {
+      "word": "swimming with dolphins",
+      "hint": "Act out: swimming with dolphins"
+    },
+    {
+      "word": "proposing for marriage",
+      "hint": "Act out: proposing for marriage"
+    },
+    {
+      "word": "passing a note in class",
+      "hint": "Act out: passing a note in class"
+    },
+    {
+      "word": "dancing a ballet",
+      "hint": "Act out: dancing a ballet"
+    },
+    {
+      "word": "eating with chopsticks for the first time",
+      "hint": "Act out: eating with chopsticks for the first time"
+    },
+    {
+      "word": "eating spaghetti",
+      "hint": "Act out: eating spaghetti"
+    },
+    {
+      "word": "mowing a lawn",
+      "hint": "Act out: mowing a lawn"
+    },
+    {
+      "word": "singing in the shower",
+      "hint": "Act out: singing in the shower"
+    },
+    {
+      "word": "trying to get a baby to sleep",
+      "hint": "Act out: trying to get a baby to sleep"
+    },
+    {
+      "word": "filling up a car with gas",
+      "hint": "Act out: filling up a car with gas"
+    },
+    {
+      "word": "chasing a runaway dog",
+      "hint": "Act out: chasing a runaway dog"
+    },
+    {
+      "word": "stepping on a Lego",
+      "hint": "Act out: stepping on a Lego"
+    },
+    {
+      "word": "sewing on a button",
+      "hint": "Act out: sewing on a button"
+    },
+    {
+      "word": "ordering food at a restaurant",
+      "hint": "Act out: ordering food at a restaurant"
+    },
+    {
+      "word": "filming a movie",
+      "hint": "Act out: filming a movie"
+    },
+    {
+      "word": "taking a test",
+      "hint": "Act out: taking a test"
+    },
+    {
+      "word": "watching a movie at the theater",
+      "hint": "Act out: watching a movie at the theater"
+    },
+    {
+      "word": "walking a group of dogs",
+      "hint": "Act out: walking a group of dogs"
+    },
+    {
+      "word": "making a pizza",
+      "hint": "Act out: making a pizza"
+    },
+    {
+      "word": "ironing a shirt",
+      "hint": "Act out: ironing a shirt"
+    },
+    {
+      "word": "feeding the ducks",
+      "hint": "Act out: feeding the ducks"
+    },
+    {
+      "word": "putting in contact lenses",
+      "hint": "Act out: putting in contact lenses"
+    },
+    {
+      "word": "putting on a wet swimsuit",
+      "hint": "Act out: putting on a wet swimsuit"
+    },
+    {
+      "word": "threading a needle",
+      "hint": "Act out: threading a needle"
+    },
+    {
+      "word": "killing a spider",
+      "hint": "Act out: killing a spider"
+    },
+    {
+      "word": "playing an instrument",
+      "hint": "Act out: playing an instrument"
+    },
+    {
+      "word": "visiting the dentist",
+      "hint": "Act out: visiting the dentist"
+    },
+    {
+      "word": "dancing when no one is watching",
+      "hint": "Act out: dancing when no one is watching"
+    },
+    {
+      "word": "trying to stay awake in a boring class",
+      "hint": "Act out: trying to stay awake in a boring class"
+    },
+    {
+      "word": "sneaking out of a performance early",
+      "hint": "Act out: sneaking out of a performance early"
+    },
+    {
+      "word": "washing an elephant",
+      "hint": "Act out: washing an elephant"
+    },
+    {
+      "word": "asking for an autograph",
+      "hint": "Act out: asking for an autograph"
+    },
+    {
+      "word": "making a peanut butter and jelly sandwich",
+      "hint": "Act out: making a peanut butter and jelly sandwich"
+    },
+    {
+      "word": "moving a refrigerator",
+      "hint": "Act out: moving a refrigerator"
+    },
+    {
+      "word": "teaching someone to swim",
+      "hint": "Act out: teaching someone to swim"
+    },
+    {
+      "word": "watering a garden",
+      "hint": "Act out: watering a garden"
+    },
+    {
+      "word": "decorating for a party",
+      "hint": "Act out: decorating for a party"
+    },
+    {
+      "word": "riding in a chairlift",
+      "hint": "Act out: riding in a chairlift"
+    },
+    {
+      "word": "sewing a dress",
+      "hint": "Act out: sewing a dress"
+    },
+    {
+      "word": "brushing your teeth",
+      "hint": "Act out: brushing your teeth"
+    },
+    {
+      "word": "walking with crutches",
+      "hint": "Act out: walking with crutches"
+    },
+    {
+      "word": "swatting a fly",
+      "hint": "Act out: swatting a fly"
+    },
+    {
+      "word": "chasing a tornado",
+      "hint": "Act out: chasing a tornado"
+    },
+    {
+      "word": "whale watching",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "putting together a jigsaw puzzle",
+      "hint": "Act out: putting together a jigsaw puzzle"
+    },
+    {
+      "word": "hanging a picture",
+      "hint": "Act out: hanging a picture"
+    },
+    {
+      "word": "styling your hair",
+      "hint": "Act out: styling your hair"
+    },
+    {
+      "word": "arranging a bookshelf",
+      "hint": "Act out: arranging a bookshelf"
+    },
+    {
+      "word": "going bowling",
+      "hint": "Act out: going bowling"
+    },
+    {
+      "word": "riding bumper cars",
+      "hint": "Act out: riding bumper cars"
+    },
+    {
+      "word": "feeding a pet",
+      "hint": "Act out: feeding a pet"
+    },
+    {
+      "word": "waiting at a doctor's office",
+      "hint": "Act out: waiting at a doctor's office"
+    },
+    {
+      "word": "practicing karate",
+      "hint": "Act out: practicing karate"
+    },
+    {
+      "word": "playing four square",
+      "hint": "Act out: playing four square"
+    },
+    {
+      "word": "setting the table",
+      "hint": "Act out: setting the table"
+    },
+    {
+      "word": "cutting someone's hair",
+      "hint": "Act out: cutting someone's hair"
+    },
+    {
+      "word": "writing and mailing a letter",
+      "hint": "Act out: writing and mailing a letter"
+    },
+    {
+      "word": "rock climbing",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "building a sandcastle",
+      "hint": "Act out: building a sandcastle"
+    },
+    {
+      "word": "painting a picture",
+      "hint": "Act out: painting a picture"
+    },
+    {
+      "word": "flying a kite",
+      "hint": "Act out: flying a kite"
+    },
+    {
+      "word": "trying on clothes while shopping",
+      "hint": "Act out: trying on clothes while shopping"
+    },
+    {
+      "word": "milking a cow",
+      "hint": "Act out: milking a cow"
+    },
+    {
+      "word": "sorting laundry",
+      "hint": "Act out: sorting laundry"
+    },
+    {
+      "word": "playing baseball",
+      "hint": "Act out: playing baseball"
+    },
+    {
+      "word": "gathering eggs from a hen house",
+      "hint": "Act out: gathering eggs from a hen house"
+    },
+    {
+      "word": "delivering mail",
+      "hint": "Act out: delivering mail"
+    },
+    {
+      "word": "cleaning a closet",
+      "hint": "Act out: cleaning a closet"
+    },
+    {
+      "word": "finger painting",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "playing chess",
+      "hint": "Act out: playing chess"
+    },
+    {
+      "word": "performing at a rock concert",
+      "hint": "Act out: performing at a rock concert"
+    },
+    {
+      "word": "painting the walls in a room",
+      "hint": "Act out: painting the walls in a room"
+    },
+    {
+      "word": "trick-or-treating",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "snow skiing down a hill",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "taking a driver's test",
+      "hint": "Act out: taking a driver's test"
+    },
+    {
+      "word": "sumo wrestling",
+      "hint": "Act out this scene silently for your team!"
+    },
+    {
+      "word": "building a campfire",
+      "hint": "Act out: building a campfire"
+    },
+    {
+      "word": "washing a dog",
+      "hint": "Act out: washing a dog"
+    },
+    {
+      "word": "baking bread",
+      "hint": "Act out: baking bread"
+    },
+    {
+      "word": "arranging flowers",
+      "hint": "Act out: arranging flowers"
+    },
+    {
+      "word": "smelling stinky garbage",
+      "hint": "Act out: smelling stinky garbage"
+    },
+    {
+      "word": "opening birthday presents",
+      "hint": "Act out: opening birthday presents"
+    },
+    {
+      "word": "auditioning for a play",
+      "hint": "Act out: auditioning for a play"
+    },
+    {
+      "word": "playing soccer",
+      "hint": "Act out: playing soccer"
+    },
+    {
+      "word": "painting your nails",
+      "hint": "Act out: painting your nails"
+    }
+  ]
+}

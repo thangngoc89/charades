@@ -1,0 +1,1863 @@
+{
+  "id": "gamegal-wordplay-71",
+  "name": "Opposites",
+  "icon": "🔄",
+  "game_id": 7,
+  "category_id": 71,
+  "theme": "wordplay",
+  "count": 463,
+  "words": [
+    {
+      "word": "\"a lot",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "visible, invisible",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "equal, unequal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "rip, mend",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "rookie, pro",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "poverty, wealth",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "disperse, gather",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "thoughtful, thoughtless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "mild, severe",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "certain, uncertain",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "round, square",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "frequent, seldom",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "too much, not enough",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lucky, unlucky",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "husband, wife",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "improve, revert",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dishonest, honest",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "high, low",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "mean, nice",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fail, succeed",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "all, nothing",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "thankful, ungrateful",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fortunate, unfortunate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dependent, independent",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "plus, minus",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "formal, informal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "brighten, fade",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "useful, useless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "permanent, temporary",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "heaven, hell",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "analog, digital",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "create, destroy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "decisive, indecisive",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "overdressed, under-dressed",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "confidence, self-doubt",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "external, internal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "comedy, tragedy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clear, murky",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hero, villain",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "inner, outer",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "selfish, selfless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "educated, ignorant",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "original, remake",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "break, fix",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "forward, backward",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fight, surrender",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "crowded, empty",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "same, different",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "go up, come down",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "suspicious, trusting",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "accidental, intentional",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "loss, win",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "high tide, low tide",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "major, minor",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "modern, old-fashioned",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "illegitimate, legitimate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "yin, yang",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "all, none",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "on top, underneath",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "tidy, untidy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hollow, solid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "loyal, disloyal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "supply, demand",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "before, after",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "real, imaginary",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "pollute, purify",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "better, worse",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "stable, unstable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "correct, incorrect",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "rich, poor",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "in back, in front",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fiction, nonfiction",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "open, close",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "build, destroy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "flavorful, bland",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "muscular, scrawny",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "famous, unknown",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "generous, stingy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "drained, energized",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "alive, dead",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "input, output",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sum, difference",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "up, down",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "east, west",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "introvert, extrovert",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "save, throw away",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "listen, speak",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fair, unfair",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "always, never",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "ceiling, floor",
+      "hint": "Act out: ceiling, floor"
+    },
+    {
+      "word": "dissatisfied, satisfied",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "smile, frown",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "be modest, show off",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "worthy, unworthy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "love, hate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fragile, sturdy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "careful, careless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "opaque, transparent",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "horizontal, vertical",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "marry, divorce",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bumpy, smooth",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "walk, run",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "just, unjust",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "prepared, unprepared",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "greater than, less than",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "rejection, approval",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "comfortable, uncomfortable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "live, die",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sit, stand",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lost, found",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "smoking, non",
+      "hint": "Act out: smoking, non"
+    },
+    {
+      "word": "qualified, unqualified",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "new, used",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "obey, disobey",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "average, extraordinary",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "steady, unsteady",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sow, reap",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "discourage, encourage",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "for, against",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "poison, antidote",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hot, cold",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "yucky, yummy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "forward, reverse",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "apart, together",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dysfunctional, functional",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fact, fiction",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "harsh, mild",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "conventional, unconventional",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "absent, present",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "gentle, rough",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "above, beneath",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "no, yes",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "good, evil",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "high-pitched, low-pitched",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fore, aft",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "in here, out there",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fidgety, still",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "virtue, vice",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "alto, soprano",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "add, subtract",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "common, rare",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "come, go",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lenient, strict",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "courteous, rude",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "pleasant, unpleasant",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dismiss, allow",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clever, stupid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "give, take",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cautious, reckless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "criticize, praise",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "accurate, inaccurate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "land, sea",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "valuable, worthless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "unwanted, wanted",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "flat, sharp",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "savage, civilized",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "friend, foe",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "heavy, light",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "teach, learn",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "multiply, divide",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "begin, end",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dark, pale",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dawn, dusk",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "rational, irrational",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "weak, strong",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lesser, greater",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clockwise, counterclockwise",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fantasy, reality",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "adult, child",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "inside, outside",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "empty, full",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "north, south",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "complete, incomplete",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lie, truth",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "early, late",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "feast, famine",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "friendly, unfriendly",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "imperfection, perfection",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bent, straight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "begin, quit",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "forgettable, memorable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hill, valley",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "ally, enemy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sweet, sour",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "synonym, antonym",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "figuratively, literally",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "can, can't",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "likely, unlikely",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bass, treble",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "deflate, inflate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hopeful, hopeless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "masculine, feminine",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bright, dull",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "arrive, depart",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "crescendo, decrescendo",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "loose, tight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "expand, contract",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "daydream, nightmare",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "approve, disapprove",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "believe, doubt",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "junior, senior",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "employee, employer",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "freshwater, saltwater",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "anticipate, dread",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "right-side up, upside-down",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "save, spend",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "past, future",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "admit, deny",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "exhale, inhale",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "gaudy, understated",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "less, more",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "come back, leave",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "pre, post",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "victory, defeat",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "mature, immature",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "blunt, sharp",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "failure, success",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "few, many",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "important, unimportant",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "definite, indefinite",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "tie, untie",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sooner, later",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "gas, brake",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "heal, hurt",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "make money, spend money",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "comfort, discomfort",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dislike, like",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "curse, bless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "urban, rural",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fall, rise",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bloom, wilt",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "contaminated, pure",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "relaxed, worried",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "guest, host",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "abundant, scarce",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "liberal, conservative",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "general, specific",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "birth, death",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bitter, sweet",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "good, bad",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cheerful, gloomy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "regular, irregular",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "even, uneven",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "concave, convex",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "secure, insecure",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "curly, straight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "included, left out",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "conceal, reveal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "long-term, short-term",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "parasite, host",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "male, female",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "mourn, rejoice",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "answer, question",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "in fashion, out of style",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "advantage, disadvantage",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "happy, sad",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fold, unfold",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "certainty, doubt",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "important, trivial",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fresh, spoiled",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cloudy, sunny",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "occupied, vacant",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "ailment, cure",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hello, goodbye",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "least, most",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "polite, rude",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "inside out, right-side out",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "purchase, return",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "gather, scatter",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "enemy, friend",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "commence, conclude",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "antimatter, matter",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "illegal, legal",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fast, slow",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "over, under",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "exclude, include",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "colorful, drab",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "anxious, calm",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "buy, rent",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "nephew, niece",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "big, little",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "guilty, innocent",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "new, old",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "mild, spicy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fresh, stale",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "profit, loss",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "awful, wonderful",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dry, wet",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "trash, treasure",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dull, pointy",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "past, present",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "grow, shrink",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cheap, expensive",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "health, sickness",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "noisy, quiet",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "first, last",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "assured, uncertain",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "heaven, earth",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "known, unknown",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "foreword, afterword",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "competent, incompetent",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "delicious, disgusting",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "combine, separate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "joy, sorrow",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lengthen, shorten",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "this, that",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "best, worst",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "easy, hard",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "city, country",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "big, small",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "left, right",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "previous, next",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bride, groom",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hardworking, lazy",
+      "hint": "Act out: hardworking, lazy"
+    },
+    {
+      "word": "narrow, wide",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "boring, exciting",
+      "hint": "Act out: boring, exciting"
+    },
+    {
+      "word": "flawed, flawless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "compliment, insult",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "righteous, wicked",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "skinny, fat",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clumsy, graceful",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "impossible, possible",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "surrender, defeat",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "loved, hated",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "close, far",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "invincible, vulnerable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "exterior, interior",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "farsighted, nearsighted",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cry, laugh",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "day, night",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cleave, divide",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "healthy, sick",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "large, small",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "keep, discard",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "accept, decline",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "start, finish",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sympathetic, uncaring",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "pro, con",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "infield, outfield",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sorrow, bliss",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "respect, disrespect",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "utopia, dystopia",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "naughty, nice",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "confirm, deny",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "immediately, eventually",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "beautiful, ugly",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "ancient, modern",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "top, bottom",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hurry, take your time",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "imply, infer",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "here, there",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "enter, exit",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "in, out",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "thick, thin",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "loud, quiet",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fire, hire",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "collect, scatter",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hospitable, inhospitable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clean, dirty",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "artificial, natural",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "usual, unusual",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cool, warm",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "colorful, colorless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cause, effect",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sink, swim",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "peace, violence",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "pleasure, pain",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "why, because",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "harmful, harmless",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "deep, shallow",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sleep, wake",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "upload, download",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "export, import",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "brave, cowardly",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dark, light",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "right, wrong",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "graduate, fail",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "necessary, redundant",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "crooked, straight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "negative, positive",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "evaporate, precipitate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "easygoing, uptight",
+      "hint": "Act out: easygoing, uptight"
+    },
+    {
+      "word": "bold, timid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "drop, pick up",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "give, receive",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "tender, tough",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "shaky, still",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "attack, fall back",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "broad, narrow",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "messy, neat",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fat, lean",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "lower, raise",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "talk into, talk out of",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "true, false",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "macro, micro",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "obedient, disobedient",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "Republicans, Democrats",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fix, wreck",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "on, off",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hard, soft",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "him, her",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "will, won't",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "curvy, straight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "short, tall",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "port, starboard",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "liquid, solid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "poetry, prose",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "clear, blurry",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "dangerous, safe",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "public, private",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "sun, moon",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "persuade, dissuade",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "humble, proud",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "singular, plural",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "float, sink",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "single, married",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "allow, forbid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "youth, old age",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "do, don't",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "criminal, victim",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "smart, dumb",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "beginning, end",
+      "hint": "Act out: beginning, end"
+    },
+    {
+      "word": "harmony, dissonance",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "familiar, unfamiliar",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "funny, sad",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "embarrassed, self-assured",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "ignorance, knowledge",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "join, separate",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "hope, despair",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "one, many",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "majority, minority",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "natural, unnatural",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "superscript, subscript",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "king, queen",
+      "hint": "Act out: king, queen"
+    },
+    {
+      "word": "include, omit",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "wind, unwind",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "close by, faraway",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "far, near",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "fight, flight",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "outgoing, shy",
+      "hint": "Act out: outgoing, shy"
+    },
+    {
+      "word": "fancy, plain",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "complex, simple",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "specific, vague",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "defensive, offensive",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "stop, go",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "boy, girl",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "foolish, wise",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "tame, wild",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "do, undo",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "break, make",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "even, odd",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "minimum, maximum",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "forwards, backwards",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "cruel, kind",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "flexible, rigid",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "wax on, wax off",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "decrease, increase",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "bring, take",
+      "hint": "Act out: bring, take"
+    },
+    {
+      "word": "fight, get along",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "noteworthy, unremarkable",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "departure, arrival",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "black, white",
+      "hint": "Guess this opposites term!"
+    },
+    {
+      "word": "long, short",
+      "hint": "Guess this opposites term!"
+    }
+  ]
+}
