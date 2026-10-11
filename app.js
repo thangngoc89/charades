@@ -1,4 +1,4 @@
-import { DECKS } from './decks.js?v=9';
+import { DECKS } from './decks.js?v=10';
 
 // --- DETECT PLATFORM ---
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
@@ -6,7 +6,7 @@ const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
 
 // --- GAME STATE ---
 const state = {
-  activeTab: 'vietnam', // 'vietnam' | 'holidays' | 'wedding' | 'gamegal' | 'adults' | 'kids' | 'custom'
+  activeTab: 'cities', // 'cities' | 'vietnam' | 'holidays' | 'wedding' | 'gamegal' | 'adults' | 'kids' | 'custom'
   roundDuration: 60, // seconds
   currentDeck: null,
   wordsQueue: [],
@@ -311,7 +311,9 @@ function renderDecks() {
   elements.decksContainer.innerHTML = '';
 
   let deckList = [];
-  if (state.activeTab === 'vietnam') {
+  if (state.activeTab === 'cities') {
+    deckList = DECKS.cities || [];
+  } else if (state.activeTab === 'vietnam') {
     deckList = DECKS.vietnam || [];
   } else if (state.activeTab === 'holidays') {
     deckList = DECKS.holidays || [];
@@ -1198,7 +1200,7 @@ function init() {
 
   // Register Service Worker with forced update
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js?v=9')
+    navigator.serviceWorker.register('./sw.js?v=10')
       .then((reg) => {
         reg.update().catch(() => {});
       })
