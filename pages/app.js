@@ -1,4 +1,4 @@
-import { DECKS } from './decks.js?v=8';
+import { DECKS } from './decks.js?v=9';
 
 // --- DETECT PLATFORM ---
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
@@ -1198,7 +1198,7 @@ function init() {
 
   // Register Service Worker with forced update
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js?v=8')
+    navigator.serviceWorker.register('./sw.js?v=9')
       .then((reg) => {
         reg.update().catch(() => {});
       })

@@ -231,6 +231,22 @@ export const DECKS = {
             {
                 "word": "Quên mật khẩu wifi",
                 "hint": "Ngước nhìn dưới đáy cục router bấm từng ký tự nhỏ xíu"
+            },
+            {
+                "word": "Đứng chờ thang máy đông đúc",
+                "hint": "Cố chen một chân vào thang máy kêu tít tít quá tải"
+            },
+            {
+                "word": "Nặn mụn trước gương",
+                "hint": "Nhăn mặt nhe răng bóp thật mạnh giật bắn người"
+            },
+            {
+                "word": "Bị điện giật nhẹ",
+                "hint": "Chạm vào vỏ máy tính nhảy dựng người giật thót"
+            },
+            {
+                "word": "Giả vờ xem giờ khi quê độ",
+                "hint": "Vừa vấp ngã vội vàng nhìn đồng hồ làm bộ đang vội"
             }
         ]
     },
@@ -441,6 +457,224 @@ export const DECKS = {
             {
                 "word": "Mèo mù vớ cá rán",
                 "hint": "Mắt nhắm tịt quờ quạng bỗng tóm được đĩa cá rán thơm lừng"
+            }
+        ]
+    },
+    {
+        "id": "vn-animals-fun",
+        "name": "🐾 Thế Giới Động Vật Vui Nhộn",
+        "icon": "🐶",
+        "color": "#10b981",
+        "description": "Bắt chước tiếng kêu và điệu bộ các con vật quen thuộc cực hài hước!",
+        "words": [
+            {
+                "word": "Con Chó Vẫy Đuôi",
+                "hint": "Gâu gâu, thè lưỡi mừng rỡ vẫy đuôi rối rít"
+            },
+            {
+                "word": "Con Mèo Rửa Mặt",
+                "hint": "Meo meo, liếm bàn chân rồi xoa xoa lên má"
+            },
+            {
+                "word": "Con Khỉ Gãi Đầu",
+                "hint": "Khẹc khẹc, gãi nách nhảy tưng tưng thích ăn chuối"
+            },
+            {
+                "word": "Con Ếch Nhảy Lò Cò",
+                "hint": "Ộp ộp, ngồi xổm nhảy phốc thè lưỡi đớp muỗi"
+            },
+            {
+                "word": "Con Voi Vẫy Tai",
+                "hint": "Vung hai tay làm vòi dài hút nước phe phẩy tai to"
+            },
+            {
+                "word": "Con Gà Trống Gáy",
+                "hint": "Vỗ cánh phành phạch ngửa cổ ò ó o sáng sớm"
+            },
+            {
+                "word": "Con Cá Mập Săn Mồi",
+                "hint": "Đặt bàn tay lên đầu làm vây bơi lượn chomp chomp!"
+            },
+            {
+                "word": "Con Chuột Túi Kangaroo",
+                "hint": "Nhảy boing boing hai tay ôm túi trước bụng"
+            },
+            {
+                "word": "Con Cọp (Hổ) Rình Mồi",
+                "hint": "Chầm chậm bò rón rén rồi gầm to vồ mồi"
+            },
+            {
+                "word": "Con Cua Bò Ngang",
+                "hint": "Hai tay giơ lên làm càng kẹp kẹp đi ngang"
+            },
+            {
+                "word": "Con Ngựa Phi Nước Đại",
+                "hint": "Cộc cộc cộc, phi nước đại hí vang trời"
+            },
+            {
+                "word": "Con Vịt Bơi Dưới Ao",
+                "hint": "Cạp cạp! Lắc lắc mông bơi lạch bạch dưới ao"
+            },
+            {
+                "word": "Chim Cánh Cụt Trên Băng",
+                "hint": "Hai tay khép sát hông đi lạch bạch trượt bụng"
+            },
+            {
+                "word": "Con Rùa Rụt Cổ",
+                "hint": "Bò chậm chạp thấy nguy hiểm rụt đầu vào mai"
+            },
+            {
+                "word": "Con Thỏ Nhảy Gặm Cà Rốt",
+                "hint": "Hai ngón tay làm tai thỏ nhảy nhót nhai nhồm nhoàm"
+            },
+            {
+                "word": "Con Heo Nằm Vũng Bùn",
+                "hint": "Ụt ịt ụt ịt, béo tròn nằm lăn lộn phơi bụng"
+            },
+            {
+                "word": "Con Sâu Đo Uốn Éo",
+                "hint": "Co lưng lại rồi duỗi dài bò trên cành cây"
+            },
+            {
+                "word": "Khủng Long Bạo Chúa T-Rex",
+                "hint": "Hai tay co ngắn trước ngực dậm chân đùng đùng"
+            },
+            {
+                "word": "Con Muỗi Vo Ve",
+                "hint": "Vo ve bên tai tìm chỗ chích rồi bị đập bẹp"
+            },
+            {
+                "word": "Con Bướm Vờn Hoa",
+                "hint": "Đập cánh nhẹ nhàng bay lượn hút mật hoa"
+            },
+            {
+                "word": "Con Bò Nhai Lại",
+                "hint": "Moo! Mắt lờ đờ quay hàm nhai cỏ chậm chạp"
+            },
+            {
+                "word": "Con Sói Hú Trăng",
+                "hint": "Ngửa mặt lên trời tru dài ú uuu đêm rằm"
+            },
+            {
+                "word": "Con Gấu Ngủ Đông",
+                "hint": "Gãi lưng vào thân cây rồi nằm cuộn tròn ngáy khò khò"
+            },
+            {
+                "word": "Con Chim Gõ Kiến",
+                "hint": "Gật đầu liên hồi mổ mỏ cộc cộc vào thân cây"
+            },
+            {
+                "word": "Con Dơi Treo Ngược",
+                "hint": "Chắp tay móc chân treo ngược đầu xuống ngủ"
+            },
+            {
+                "word": "Con Lừa Bướng Bỉnh",
+                "hint": "I-a i-a! Ghì chân xuống đất kéo không chịu đi"
+            },
+            {
+                "word": "Con Nhím Xù Lông",
+                "hint": "Cuộn tròn người chìa gai nhọn hoắt ra ngoài"
+            },
+            {
+                "word": "Con Đà Điểu Giấu Đầu",
+                "hint": "Chạy chân dài rồi cắm đầu xuống đất trốn"
+            },
+            {
+                "word": "Con Tinh Tinh Đập Ngực",
+                "hint": "Đấm thùm thụp vào ngực hú to thị uy"
+            },
+            {
+                "word": "Con Hà Mã Ngáp Dài",
+                "hint": "Há hốc cái miệng to đùng ngâm mình dưới nước"
+            }
+        ]
+    },
+    {
+        "id": "vn-silly-actions",
+        "name": "🤪 Hành Động Tinh Nghịch & Khó Đỡ",
+        "icon": "🤸",
+        "color": "#06b6d4",
+        "description": "Các cử chỉ nghịch ngợm, bắt chước siêu bựa khiến cả phòng cười bò!",
+        "words": [
+            {
+                "word": "Bị Kiến Lửa Cắn Gãi Ngứa",
+                "hint": "Gãi lưng gãi nách nhảy tưng tưng xoa xoa chỗ đau"
+            },
+            {
+                "word": "Thổi Nến Sinh Nhật Bị Tắt Hụt",
+                "hint": "Lấy hơi phù phù 3 lần nến không chịu tắt"
+            },
+            {
+                "word": "Ăn Ớt Hiểm Cay Xè",
+                "hint": "Thè lưỡi quạt gió lia lịa, hít hà tìm cốc nước uống"
+            },
+            {
+                "word": "Trượt Vỏ Chuối Ngã Bật Ngửa",
+                "hint": "Chân đá văng lên trời ngã bẹp mông xuống sàn"
+            },
+            {
+                "word": "Ngủ Gật Trong Lớp Học",
+                "hint": "Đầu gục xuống giật mình tỉnh dậy chùi nước miếng"
+            },
+            {
+                "word": "Đập Muỗi Hụt Trúng Mặt",
+                "hint": "Vỗ hai tay cái bốp nhưng tự tát vào má mình"
+            },
+            {
+                "word": "Uống Trà Sữa Bị Nghẹn Trân Châu",
+                "hint": "Hút mạnh hạt trân châu bắn thẳng vào họng ho sặc sụa"
+            },
+            {
+                "word": "Đi Cầu Khỉ Chênh Vênh",
+                "hint": "Hai tay dang ngang giữ thăng bằng chân run bần bật"
+            },
+            {
+                "word": "Mặc Áo Ngược Ra Đường",
+                "hint": "Đang đi tự nhiên nhìn xuống cổ áo thấy mác lòi ra ngoài"
+            },
+            {
+                "word": "Giẫm Phải Đinh Nhón Gót",
+                "hint": "Mắt trợn ngược co một chân lên nhảy lò cò la oai oái"
+            },
+            {
+                "word": "Bị Mẹ Cầm Chổi Rượt",
+                "hint": "Vừa chạy vòng quanh bàn vừa giơ tay xin tha"
+            },
+            {
+                "word": "Giả Vờ Ngất Xỉu Ăn Vạ",
+                "hint": "Mắt đảo tròng từ từ đổ nghiêng người xuống đất"
+            },
+            {
+                "word": "Cười Mót Quá Ôm Bụng",
+                "hint": "Cười không ngậm được miệng hai chân kẹp chặt chạy vội"
+            },
+            {
+                "word": "Quên Lời Bài Hát Khi Hát",
+                "hint": "Cầm mic tự tin đến đoạn điệp khúc bỗng ú ớ lí nhí"
+            },
+            {
+                "word": "Nặn Mụn Bị Bắn Lên Gương",
+                "hint": "Bóp cái phụt giật mình nhìn vết bẩn trên gương"
+            },
+            {
+                "word": "Chui Gầm Giường Tìm Dép",
+                "hint": "Nằm bò soài tay quờ quạng dưới gầm giường bụi mù"
+            },
+            {
+                "word": "Hít Drama Trên Mạng",
+                "hint": "Mắt sáng rực bấm điện thoại ngóng hóng tin sốt dẻo"
+            },
+            {
+                "word": "Giật Mình Vì Tiếng Sấm",
+                "hint": "Đang điềm tĩnh bỗng giật bắn người ôm chầm người bên cạnh"
+            },
+            {
+                "word": "Trốn Trả Tiền Chầu Nước",
+                "hint": "Giả vờ nghe điện thoại bận rộn đi lùi ra cửa"
+            },
+            {
+                "word": "Ngáp Dài Sái Quai Hàm",
+                "hint": "Há họng to ngáp bỗng khớp kêu cục một cái không khép lại được"
             }
         ]
     }
@@ -2139,6 +2373,275 @@ export const DECKS = {
             {
                 "word": "painting your nails",
                 "hint": "Act out: painting your nails"
+            }
+        ]
+    },
+    {
+        "id": "gamegal-animals-wild",
+        "name": "🦁 Wildlife & Safari Animals",
+        "icon": "🦒",
+        "color": "#f59e0b",
+        "description": "Over 65 animals from The Game Gal!",
+        "words": [
+            {
+                "word": "lemur",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "tiger",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "donkey",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "finch",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "gazelle",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "brown recluse",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "cat",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "bird",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "cobra",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "otter",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "hippopotamus",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "vampire bat",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "panda",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "bear",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "panther",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "capybara",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "housecat",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "groundhog",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "ostrich",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "mink",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "cricket",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "gila monster",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "reindeer",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "sheep",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "beluga whale",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "pigeon",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "koala",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "seahorse",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "deer",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "hammerhead shark",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "guinea pig",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "omnivore",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "black widow",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "cockroach",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "hermit crab",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "flamingo",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "bumblebee",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "horse",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "piranha",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "Galapagos tortoise",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "walrus",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "parakeet",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "weasel",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "python",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "lobster",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "clownfish",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "camel",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "eagle",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "whale",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "sloth",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "ladybug",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "yak",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "anaconda",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "water buffalo",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "snail",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "seagull",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "alligator",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "chinchilla",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "impala",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "chimpanzee",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "baboon",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "swordfish",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "iguana",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "eel",
+                "hint": "Guess this animals term!"
+            },
+            {
+                "word": "ape",
+                "hint": "Guess this animals term!"
             }
         ]
     },
@@ -4509,34 +5012,502 @@ export const DECKS = {
       name: "Zoo & Animals",
       icon: "🦁",
       color: "#f59e0b",
-      description: "Act out or sound like these fun animals!",
+      description: "Act out or sound like these fun animals! (61 words)",
       words: [
-        { word: "Lion", hint: "Roar! King of the jungle" },
-        { word: "Penguin", hint: "Waddle waddle on ice" },
-        { word: "Monkey", hint: "Ooh ooh aah aah, loves bananas" },
-        { word: "Frog", hint: "Ribbit! Jumping green friend" },
-        { word: "Kangaroo", hint: "Boing! Pouch for baby" },
-        { word: "Elephant", hint: "Long trunk and big ears" },
-        { word: "Snake", hint: "Slithering sss-snake" },
-        { word: "Chicken", hint: "Bawk bawk! Lays eggs" },
-        { word: "Dog", hint: "Chasing its tail, woof!" },
-        { word: "Cat", hint: "Meow! Licking paws" },
-        { word: "Dolphin", hint: "Jumping out of the ocean" },
-        { word: "T-Rex Dinosaur", hint: "Tiny arms and big stomps" },
-        { word: "Butterfly", hint: "Flapping colorful wings" },
-        { word: "Giraffe", hint: "Super tall neck eating leaves" },
-        { word: "Bunny Rabbit", hint: "Twitching nose and hopping" },
-        { word: "Sleeping Bear", hint: "Hibernating and snoring" },
-        { word: "Duck", hint: "Quack quack! Swimming in pond" },
-        { word: "Cow", hint: "Moo! Chewing grass" },
-        { word: "Horse", hint: "Galloping clip-clop" },
-        { word: "Shark", hint: "Fin in the water, chomp chomp" },
-        { word: "Owl", hint: "Hoo hoo at nighttime" },
-        { word: "Gorilla", hint: "Beating its chest" },
-        { word: "Crab", hint: "Walking sideways with pinchers" },
-        { word: "Cheetah", hint: "Fastest runner on land" },
-        { word: "Flamingo", hint: "Standing on one leg" }
-      ]
+        {
+                "word": "Lion",
+                "hint": "Roar! King of the jungle shaking big mane"
+        },
+        {
+                "word": "Penguin",
+                "hint": "Waddle waddle on ice floes, sliding on belly"
+        },
+        {
+                "word": "Monkey",
+                "hint": "Ooh ooh aah aah, scratching head, peeling banana"
+        },
+        {
+                "word": "Frog",
+                "hint": "Ribbit! Squatting down and jumping with tongue zap"
+        },
+        {
+                "word": "Kangaroo",
+                "hint": "Boing! Hopping with baby joey in belly pouch"
+        },
+        {
+                "word": "Elephant",
+                "hint": "Swinging long trunk and flapping giant ears"
+        },
+        {
+                "word": "Snake",
+                "hint": "Slithering on floor, flicking forked tongue sss"
+        },
+        {
+                "word": "Chicken",
+                "hint": "Bawk bawk! Flapping elbow wings and laying an egg"
+        },
+        {
+                "word": "Dog",
+                "hint": "Panting, wagging tail, chasing own tail woof!"
+        },
+        {
+                "word": "Cat",
+                "hint": "Meow! Licking paws, arching back, coughing hairball"
+        },
+        {
+                "word": "Dolphin",
+                "hint": "Clicking sounds, leaping in high arc over ocean"
+        },
+        {
+                "word": "T-Rex Dinosaur",
+                "hint": "Tiny arms, stomping heavy feet, giant roar!"
+        },
+        {
+                "word": "Butterfly",
+                "hint": "Flapping delicate colorful wings from flower to flower"
+        },
+        {
+                "word": "Giraffe",
+                "hint": "Super tall stretched neck reaching high leaves"
+        },
+        {
+                "word": "Bunny Rabbit",
+                "hint": "Twitching nose and hopping quickly, munching carrot"
+        },
+        {
+                "word": "Sleeping Bear",
+                "hint": "Hibernating curled in cave snoring loudly"
+        },
+        {
+                "word": "Duck",
+                "hint": "Quack quack! Swimming in pond with tail wiggling"
+        },
+        {
+                "word": "Cow",
+                "hint": "Moo! Chewing grass with big slow jaw"
+        },
+        {
+                "word": "Horse",
+                "hint": "Galloping clip-clop, whinnying and kicking back legs"
+        },
+        {
+                "word": "Shark",
+                "hint": "Fin slicing water, snapping giant jaws chomp!"
+        },
+        {
+                "word": "Owl",
+                "hint": "Twisting head all the way around, hoo hoo!"
+        },
+        {
+                "word": "Gorilla",
+                "hint": "Beating chest with both fists roaring"
+        },
+        {
+                "word": "Crab",
+                "hint": "Scuttling sideways with pinchers snipping snip!"
+        },
+        {
+                "word": "Cheetah",
+                "hint": "Sprinting at lightning speed across savanna"
+        },
+        {
+                "word": "Flamingo",
+                "hint": "Standing gracefully balanced on one thin leg"
+        },
+        {
+                "word": "Seal",
+                "hint": "Clapping flippers together barking arf arf!"
+        },
+        {
+                "word": "Hippopotamus",
+                "hint": "Opening giant yawning mouth in muddy water"
+        },
+        {
+                "word": "Wolf",
+                "hint": "Prowling in pack and howling long owoooo at moon"
+        },
+        {
+                "word": "Zebra",
+                "hint": "Black and white stripes running and kicking"
+        },
+        {
+                "word": "Chameleon",
+                "hint": "Eyes rotating separately, shooting lightning-fast tongue"
+        },
+        {
+                "word": "Sloth",
+                "hint": "Moving in hilarious ultra-slow motion hanging from branch"
+        },
+        {
+                "word": "Koala",
+                "hint": "Hugging tree trunk chewing sleepy eucalyptus"
+        },
+        {
+                "word": "Meerkat",
+                "hint": "Standing tall on tiptoes looking sharply left and right"
+        },
+        {
+                "word": "Bat",
+                "hint": "Sleeping upside down wrapped in dark wings"
+        },
+        {
+                "word": "Panda",
+                "hint": "Rolling over on back crunching green bamboo shoot"
+        },
+        {
+                "word": "Peacock",
+                "hint": "Shaking and fanning out dazzling tail feathers"
+        },
+        {
+                "word": "Beaver",
+                "hint": "Slapping flat tail on water and chomping tree bark"
+        },
+        {
+                "word": "Skunk",
+                "hint": "Backing up, lifting tail to spray stinky cloud phew!"
+        },
+        {
+                "word": "Ostrich",
+                "hint": "Burying head in sand then sprinting super fast"
+        },
+        {
+                "word": "Alligator",
+                "hint": "Floating still like a log then snapping massive jaws"
+        },
+        {
+                "word": "Walrus",
+                "hint": "Scratching belly with giant tusks on ice floe"
+        },
+        {
+                "word": "Mosquito",
+                "hint": "High-pitched buzz near someone's ear then biting"
+        },
+        {
+                "word": "Goat",
+                "hint": "Lowering horns to headbutt and eating cardboard"
+        },
+        {
+                "word": "Pig",
+                "hint": "Rolling in messy mud snorting oink oink"
+        },
+        {
+                "word": "Squirrel",
+                "hint": "Stuffing acorns into puffed cheeks and scampering up tree"
+        },
+        {
+                "word": "Camel",
+                "hint": "Two humps swaying slowly across hot desert dunes"
+        },
+        {
+                "word": "Rhinoceros",
+                "hint": "Lowering sharp nasal horn and charging forward"
+        },
+        {
+                "word": "Octopus",
+                "hint": "Eight wavy tentacles gliding and squirting ink"
+        },
+        {
+                "word": "Woodpecker",
+                "hint": "Rapidly hammering beak against tree trunk rat-a-tat!"
+        },
+        {
+                "word": "Turkey",
+                "hint": "Puffing feathers, bobbing red wattle gobble gobble!"
+        },
+        {
+                "word": "Sheep",
+                "hint": "Fluffy white wool jumping fence baa baa!"
+        },
+        {
+                "word": "Blue Whale",
+                "hint": "Giant swimming, spouting huge water fountain from blowhole"
+        },
+        {
+                "word": "Jellyfish",
+                "hint": "Pulsing translucent dome with dangling stingers"
+        },
+        {
+                "word": "Hedgehog",
+                "hint": "Curling into a prickly spiky tight ball"
+        },
+        {
+                "word": "Parrot",
+                "hint": "Perching on pirate shoulder squawking Polly wants cracker!"
+        },
+        {
+                "word": "Mouse",
+                "hint": "Sneaking tiny footsteps, nibbling cheese, squeak!"
+        },
+        {
+                "word": "Hamster",
+                "hint": "Running furiously on squeaky spinning wheel"
+        },
+        {
+                "word": "Lobster",
+                "hint": "Snapping heavy claws walking backwards on sea floor"
+        },
+        {
+                "word": "Polar Bear",
+                "hint": "Shivering in Arctic snow sniffing hole in ice"
+        },
+        {
+                "word": "Caterpillar",
+                "hint": "Inching forward scrunched up, preparing for cocoon"
+        },
+        {
+                "word": "Swan",
+                "hint": "Curving elegant S-neck gliding across serene lake"
+        }
+]
+    },
+    {
+      id: "kids-actions",
+      name: "Silly Actions",
+      icon: "🤸",
+      color: "#10b981",
+      description: "Hilarious physical actions and funny fails to act out! (60 words)",
+      words: [
+        {
+                "word": "Brushing Teeth",
+                "hint": "Squeeze paste, scrub scrub, spit and rinse"
+        },
+        {
+                "word": "Eating Spicy Noodles",
+                "hint": "Slurping hot noodles, fanning red face and panting"
+        },
+        {
+                "word": "Riding a Rollercoaster",
+                "hint": "Gripping lap bar, thrown sideways screaming in terror"
+        },
+        {
+                "word": "Walking a Giant Dog",
+                "hint": "Leash yanked forward struggling to keep balance"
+        },
+        {
+                "word": "Swimming in Freezing Water",
+                "hint": "Shivering teeth chattering brrr splashing arms"
+        },
+        {
+                "word": "Baking a Messy Cake",
+                "hint": "Stirring batter, flour flying, licking sweet spoon"
+        },
+        {
+                "word": "Tying Shoelaces in a Knot",
+                "hint": "Making bunny ears and ending with impossible knot"
+        },
+        {
+                "word": "Loud Snoring & Waking Up",
+                "hint": "Deep vibrating snore, suddenly choking awake startled"
+        },
+        {
+                "word": "Kicking Winning Soccer Goal",
+                "hint": "Running up, power kick, slide on knees celebrating GOAL!"
+        },
+        {
+                "word": "Blowing Birthday Candles",
+                "hint": "Making wish, taking massive deep breath and puffing!"
+        },
+        {
+                "word": "Robot Dance",
+                "hint": "Stiff 90-degree robotic clicks and motor buzzes"
+        },
+        {
+                "word": "Climbing a Tall Tree",
+                "hint": "Reaching branch by branch, looking down getting scared"
+        },
+        {
+                "word": "Flying an Airplane in Turbulence",
+                "hint": "Wings tilted, shaking steering wheel bouncing around"
+        },
+        {
+                "word": "Melting Ice Cream Cone",
+                "hint": "Licking dripping sides frantically before it drops"
+        },
+        {
+                "word": "Reeling in a Huge Fish",
+                "hint": "Rod bent double, reeling hard, falling backwards"
+        },
+        {
+                "word": "Playing Rock Drums",
+                "hint": "Kicking bass pedal, smashing cymbals crash crash!"
+        },
+        {
+                "word": "Jumping on a Trampoline",
+                "hint": "Higher and higher bounces with mid-air flips"
+        },
+        {
+                "word": "Looking Through Binoculars",
+                "hint": "Hands over eyes adjusting dial pointing at bird"
+        },
+        {
+                "word": "Washing a Dirty Car",
+                "hint": "Soaping sponge, scrubbing hood, hose spraying water"
+        },
+        {
+                "word": "Ice Skating Wobble",
+                "hint": "Gliding smoothly then ankles giving out flailing arms"
+        },
+        {
+                "word": "Slipping on a Banana Peel",
+                "hint": "Foot shoots out, arms windmill, landing flat on butt!"
+        },
+        {
+                "word": "Stepping on a Lego Brick",
+                "hint": "Silent scream of agony, hopping on one foot clutching toes"
+        },
+        {
+                "word": "Sneezing 5 Times in a Row",
+                "hint": "Big buildup... achoo! achoo! achoo! sniffing"
+        },
+        {
+                "word": "Moonwalking Like Michael Jackson",
+                "hint": "Sliding feet backward smoothly, tipping fedora hat"
+        },
+        {
+                "word": "Eating a Super Sour Lemon",
+                "hint": "Biting in, face shrivels up, eyes squeezed tight"
+        },
+        {
+                "word": "Brain Freeze from Ice Slushie",
+                "hint": "Drinking fast through straw, clutching temples shivering"
+        },
+        {
+                "word": "Walking Against 100mph Hurricane Wind",
+                "hint": "Leaning at 45 degree angle pushing against invisible blast"
+        },
+        {
+                "word": "Hula Hooping Nonstop",
+                "hint": "Swiveling hips faster and faster to keep hoop spinning"
+        },
+        {
+                "word": "Falling Asleep Standing Up",
+                "hint": "Head nods slowly, knees buckle, jerk awake startled"
+        },
+        {
+                "word": "Balancing a Spoon on Your Nose",
+                "hint": "Tilting head back with crossed eyes breathing carefully"
+        },
+        {
+                "word": "Shoe Stuck in Chewing Gum",
+                "hint": "Lifting foot, sticky gum stretching a mile high"
+        },
+        {
+                "word": "Juggling 3 Invisible Balls",
+                "hint": "Throwing objects in circles, dropping them frantically"
+        },
+        {
+                "word": "Walking on Burning Hot Beach Sand",
+                "hint": "Ouch ouch ouch tiptoe running to ocean water"
+        },
+        {
+                "word": "Catching a Fly with Chopsticks",
+                "hint": "Staring intensely, snapping wooden chopsticks in air"
+        },
+        {
+                "word": "Spilling Hot Soup on Your Lap",
+                "hint": "Jumping out of chair waving hands fanning pants"
+        },
+        {
+                "word": "Singing with Shampoo Bottle Microphone",
+                "hint": "Rocking out in the shower lathering hair"
+        },
+        {
+                "word": "Air Guitar Solo at Concert",
+                "hint": "Headbanging wildly, shredding imaginary guitar strings"
+        },
+        {
+                "word": "Opening an Impossible Pickle Jar",
+                "hint": "Turning bright red straining, banging bottom on counter"
+        },
+        {
+                "word": "Threading a Tiny Needle",
+                "hint": "Squinting with one eye, licking thread, missing hole"
+        },
+        {
+                "word": "Midnight Fridge Raiding Sneak",
+                "hint": "Tiptoeing past creaky floorboards grabbing snack"
+        },
+        {
+                "word": "Popping a Giant Bubblegum Bubble",
+                "hint": "Blowing huge pink bubble until POP! stuck all over face"
+        },
+        {
+                "word": "Dodging Red Laser Beams like a Spy",
+                "hint": "Limbo underneath, cartwheel over, sliding across floor"
+        },
+        {
+                "word": "Tangled in Sticky Packing Tape",
+                "hint": "Trying to peel tape off finger, gets stuck to other hand"
+        },
+        {
+                "word": "Trying to Fold a Fitted Sheet",
+                "hint": "Tucking random corners, giving up and rolling into a ball"
+        },
+        {
+                "word": "Waving at a Stranger by Mistake",
+                "hint": "Enthusiastic wave, realizing mistake, pretending to scratch hair"
+        },
+        {
+                "word": "Searching for Glasses on Your Head",
+                "hint": "Checking pockets in panic while glasses are on forehead"
+        },
+        {
+                "word": "Licking Your Own Elbow",
+                "hint": "Twisting arm and craning neck trying the impossible"
+        },
+        {
+                "word": "Getting Chased by a Swarm of Bees",
+                "hint": "Swatting arms in circles, ducking and sprinting"
+        },
+        {
+                "word": "Putting in Contact Lenses",
+                "hint": "Holding eyelid open with fingers poking eyeball"
+        },
+        {
+                "word": "Awkward Handshake into Fist Bump",
+                "hint": "They offer hand, you offer fist, turning into weird grab"
+        },
+        {
+                "word": "Balancing a Book on Your Head",
+                "hint": "Walking with stiff neck trying not to let heavy book fall"
+        },
+        {
+                "word": "Pumping Up a Flat Bike Tire",
+                "hint": "Frantically pumping t-bar handle sweating hard"
+        },
+        {
+                "word": "Pretending to Be a Ventriloquist Dummy",
+                "hint": "Mouth opening and shutting with wooden jerky head moves"
+        },
+        {
+                "word": "Tug of War Mud Pull",
+                "hint": "Leaning completely back pulling rope with all your might"
+        },
+        {
+                "word": "Spinning Around in an Office Chair",
+                "hint": "Spinning 20 times then trying to walk straight and stumbling"
+        },
+        {
+                "word": "Trying on Way Too Small Jeans",
+                "hint": "Hopping on one foot sucking in gut trying to pull zipper"
+        },
+        {
+                "word": "Drinking Through 5 Connected Straws",
+                "hint": "Sucking with giant puffed cheeks waiting for soda to rise"
+        },
+        {
+                "word": "Playing Tug of War with a Puppy",
+                "hint": "Holding toy sock while puppy growls and shakes head"
+        },
+        {
+                "word": "Pretending to Walk Down Fake Stairs",
+                "hint": "Sinking behind couch inch by inch like descending staircase"
+        },
+        {
+                "word": "Petting an Angry Hedgehog",
+                "hint": "Slowly reaching out hand, getting pricked ouch!"
+        }
+]
     },
     {
       id: "kids-cartoons",
@@ -4565,35 +5536,6 @@ export const DECKS = {
         { word: "Moana", hint: "Sailing across the ocean" },
         { word: "The Hulk", hint: "Hulk smash! Turning green" },
         { word: "Iron Man", hint: "Flying in high-tech metal suit" }
-      ]
-    },
-    {
-      id: "kids-actions",
-      name: "Silly Actions",
-      icon: "🤸",
-      color: "#10b981",
-      description: "Fun physical actions to act out!",
-      words: [
-        { word: "Brushing Teeth", hint: "Squeeze paste and scrub scrub" },
-        { word: "Eating Spicy Noodles", hint: "Fanning mouth, too hot!" },
-        { word: "Riding a Rollercoaster", hint: "Hands in the air screaming" },
-        { word: "Walking a Dog", hint: "Holding the leash as it pulls" },
-        { word: "Swimming in Cold Water", hint: "Shivering brrr splashing" },
-        { word: "Baking a Cake", hint: "Stirring batter and tasting" },
-        { word: "Tying Shoelaces", hint: "Make bunny ears and tie" },
-        { word: "Loud Snoring", hint: "Sleeping with mouth open" },
-        { word: "Kicking a Soccer Ball", hint: "Goal! Running and cheering" },
-        { word: "Blowing Birthday Candles", hint: "Make a wish and puff!" },
-        { word: "Robot Dance", hint: "Stiff robotic movements" },
-        { word: "Climbing a Tree", hint: "Reaching up branch by branch" },
-        { word: "Flying an Airplane", hint: "Arms out soaring in clouds" },
-        { word: "Melting Ice Cream", hint: "Licking drips quickly" },
-        { word: "Catching a Fish", hint: "Reeling in the heavy line" },
-        { word: "Playing Drums", hint: "Bang bang on the cymbals" },
-        { word: "Jumping on a Trampoline", hint: "Higher and higher bounce" },
-        { word: "Looking Through Binoculars", hint: "Hands over eyes searching" },
-        { word: "Washing a Car", hint: "Soap suds and hose spray" },
-        { word: "Ice Skating", hint: "Gliding and wobbling on ice" }
       ]
     },
     {
