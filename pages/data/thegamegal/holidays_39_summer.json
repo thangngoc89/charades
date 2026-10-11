@@ -1,0 +1,471 @@
+{
+  "id": "gamegal-holidays-39",
+  "name": "Summer",
+  "icon": "☀️",
+  "game_id": 4,
+  "category_id": 39,
+  "theme": "holidays",
+  "count": 115,
+  "words": [
+    {
+      "word": "solstice",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "waves",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "schoolÃ¢â¬â¢s out",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "heat",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "barefoot",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "water balloon",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "boredom",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sun",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "baseball",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "summer reading",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "Summer Olympics",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sleepovers",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sloppy joes",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "chill",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "s'mores",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "July",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sunglasses",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "surfing",
+      "hint": "Act out: surfing"
+    },
+    {
+      "word": "pasta salad",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "barbeque",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "cook-out",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "swim suits",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "no homework",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sprinkler",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "relax",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "watermelon",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "late nights",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "hot dogs",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "ferry",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "firewood",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sleeping in",
+      "hint": "Act out: sleeping in"
+    },
+    {
+      "word": "shorts",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "canoeing",
+      "hint": "Act out: canoeing"
+    },
+    {
+      "word": "sea shells",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "parties",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "travel",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "snow cone",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "swimming suit",
+      "hint": "Act out: swimming suit"
+    },
+    {
+      "word": "seagulls",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "salad",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "skipping rocks",
+      "hint": "Act out: skipping rocks"
+    },
+    {
+      "word": "climbing trees",
+      "hint": "Act out: climbing trees"
+    },
+    {
+      "word": "camping",
+      "hint": "Act out: camping"
+    },
+    {
+      "word": "beach",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "watching clouds",
+      "hint": "Act out: watching clouds"
+    },
+    {
+      "word": "umpire",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "swimming pool",
+      "hint": "Act out: swimming pool"
+    },
+    {
+      "word": "fishing",
+      "hint": "Act out: fishing"
+    },
+    {
+      "word": "beach ball",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "Take Me Out to the Ballgame",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "summer camp",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "zoo",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "pool party",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sleeping bag",
+      "hint": "Act out: sleeping bag"
+    },
+    {
+      "word": "park",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "fireworks",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "roller skating rink",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "rest",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "lemonade",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "river rafting",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sunscreen",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "August",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "suntan",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "slip Ã¢â¬ËnÃ¢â¬â¢ slide",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "roller blades",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "potato salad",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sunburn",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "block party",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "flip flops",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "Kool-aid",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "refreshing",
+      "hint": "Act out: refreshing"
+    },
+    {
+      "word": "sand",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "ice cream",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "ocean",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "airplane",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "fireflies",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "seventh inning stretch",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "ghost stories",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "root for the home team",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sÃ¢â¬â¢mores",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "fun",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "blue sky",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "potato chips",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "thunderstorms",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "county fair",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "movies",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "three strikes, youÃ¢â¬â¢re out",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "games",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "hamburgers",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "lake",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "car wash",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "bonfire",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "beach towel",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "no school",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "lawn mower",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "June bugs",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "candy",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "summer job",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "cotton candy",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "crafts",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "hiking",
+      "hint": "Act out: hiking"
+    },
+    {
+      "word": "corn-on-the-cob",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "vacation",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "boogie board",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "campfire",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "green leaves",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sand castle",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "popsicle",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "tent",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "picnic",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "road trip",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "sunsets",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "kite",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "bikes",
+      "hint": "Guess this summer term!"
+    },
+    {
+      "word": "strawberry",
+      "hint": "Guess this summer term!"
+    }
+  ]
+}

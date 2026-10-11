@@ -1,0 +1,1279 @@
+{
+  "id": "gamegal-charades-27",
+  "name": "Hard Charades",
+  "icon": "⚡",
+  "game_id": 5,
+  "category_id": 27,
+  "theme": "charades",
+  "count": 317,
+  "words": [
+    {
+      "word": "forbid",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "gas",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sparkle",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "roundabout",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "battleship",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "naughty",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "haul",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cardboard box",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "party",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "arrange",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "press",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "jewel",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "gingerbread man",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "raindrop",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "steal",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "highlighter",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "skate",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "conceited",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "funny",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hair dryer",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "believe",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "translator",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mouse trap",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mess",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "oar",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "geek",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "vest",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sunburn",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "news",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "uncle",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "trap",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wriggle",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hurt",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "dentist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "whisk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stapler",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sandbox",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lawyer",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hose",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "relieved",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "quicksand",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "scent",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "welder",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "quill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "doghouse",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "kite",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bobsled",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "recite",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "crochet",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "shift",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "rag",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "power",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cowboy",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "peck",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "question",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "elevator",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Sherlock Holmes",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pump",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "offend",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pelican",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wig",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "everyone",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "xylophone",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "inchworm",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mint",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stilts",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "amateur",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "meeting",
+      "hint": "Act out: meeting"
+    },
+    {
+      "word": "teacher",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sip",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "spine",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "spill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "theater",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "match",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "beanstalk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "strut",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pause",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mutter",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "uncomfortable",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "professional wrestling",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "beach",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "shadow",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "magazine",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "room",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "golf cart",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mark",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "share",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "snatch",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "ship",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stress",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sob",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "divide",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "explode",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "old",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "change",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wreck",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "scare",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "magician",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "protest",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "snack",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "quilt",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "dude",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bone",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "softball",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "nest",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lung",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "fist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "printer",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "vote",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hook",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "deep",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "fog",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lonely",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "reprimand",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "trick",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "subway",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "kayak",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "butler",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "SUV",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "trace",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "fire drill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bumper car",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "measure",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "volcano",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "postcard",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "snicker",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "jester",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "highlight",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sling",
+      "hint": "Act out: sling"
+    },
+    {
+      "word": "suntan",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "oatmeal",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "campsite",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "umpire",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pet",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bedbug",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "translate",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "falter",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "smell",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sneaker",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "encourage",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "eraser",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "receptionist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stopwatch",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "komodo dragon",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "splash",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "captain",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "poster",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cramp",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "swordfish",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "confident",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "beginner",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "practice",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lookout",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "referee",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "room service",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "puzzle piece",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "joke",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sweetheart",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "three strikes",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mirror",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Babe Ruth",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "video camera",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stamp",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wax",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cast",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "test",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wire",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "jump shot",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "worry",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "flag football",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stain",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "waitress",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "slip",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "floor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "paleontologist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "chalk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Pinocchio",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "petting zoo",
+      "hint": "Act out: petting zoo"
+    },
+    {
+      "word": "desk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "doctor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sheet",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "strength",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sale",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "markers",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Spock",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "boast",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "reverse",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "disgusted",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Michael Jordan",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "strum",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lawn mower",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "net",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "skis",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sea",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "ladder rung",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "minute",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "windmill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "smash",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "fencing",
+      "hint": "Act out: fencing"
+    },
+    {
+      "word": "huddle",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "business trip",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "spider web",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "prison",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "story",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "iPad",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "yodeler",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "packing list",
+      "hint": "Act out: packing list"
+    },
+    {
+      "word": "knot",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "jar",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "photograph",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cuff",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "security guard",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "spy",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "nightmare",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "show",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "silk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "rope",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "snow",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "secretary",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sailor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "carry-on",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "grill",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "motor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "credit card",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "antagonist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "chess",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "taxi",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "email",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "salamander",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "side",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "boyfriend",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mall",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "line dance",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "land",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "echo",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "support",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "full",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "actor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sand",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "sound",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wrench",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hummingbird",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "torch",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mini blinds",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "scold",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "clarinet",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "juggle",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "gasoline",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "hang ten",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "Superman",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "cranky",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pry",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "tax",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lettuce",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "postage",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "supermarket",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "slam dunk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "gym",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stammer",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "tennis",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "washing machine",
+      "hint": "Act out: washing machine"
+    },
+    {
+      "word": "braid",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wobble",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "fiancee",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "flamingo",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "explorer",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "honk",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "presentation",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "globe",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stiff",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "clock",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "debate",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "ticket",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "know",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "tomorrow",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "harpist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "obedient",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "editor",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "teaspoon",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "wish",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bark",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "camping",
+      "hint": "Act out: camping"
+    },
+    {
+      "word": "shop",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "evacuate",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "act",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "rainbow",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "owl",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "stove",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "manager",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "coal",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "refrigerator",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "jitterbug",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "artist",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "president",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pocket watch",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "emu",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "rest",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "pizza",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "puzzled",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "skull",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bathroom scale",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "safety goggles",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "mend",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "vain",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "reporter",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "dream",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "park",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "forget",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "bodybuilding",
+      "hint": "Act out: bodybuilding"
+    },
+    {
+      "word": "bun",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "color",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "black belt",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "lawn",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "VCR",
+      "hint": "Guess this hard charades term!"
+    },
+    {
+      "word": "brainstorm",
+      "hint": "Guess this hard charades term!"
+    }
+  ]
+}

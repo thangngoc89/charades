@@ -1,0 +1,655 @@
+{
+  "id": "gamegal-subjects-66",
+  "name": "Travel",
+  "icon": "✈️",
+  "game_id": 1,
+  "category_id": 66,
+  "theme": "subjects",
+  "count": 161,
+  "words": [
+    {
+      "word": "suitcase",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "suntan",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "lodge",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "honeymoon",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tourist trap",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "north",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "coast",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "seashore",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "cruise",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tourist",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "room",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "getaway",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "surfboard",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "beach house",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "leisure",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "time off",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "weather map",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "family reunion",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "beach",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "guide",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tip",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tour guide",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "equator",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tent",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "bicycle",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "itinerary",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "delay",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "umbrella",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "leave",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "baggage",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "holiday",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sightseeing",
+      "hint": "Act out: sightseeing"
+    },
+    {
+      "word": "luggage",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "backpack",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sack",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "vacation",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "camera",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "inn",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "carry-on",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "map",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "cash",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "river rafting",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "stand-by",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "postcard",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "ticket",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "camping",
+      "hint": "Act out: camping"
+    },
+    {
+      "word": "Are we there yet?",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "skiing",
+      "hint": "Act out: skiing"
+    },
+    {
+      "word": "outdoors",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "bug spray",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "landing",
+      "hint": "Act out: landing"
+    },
+    {
+      "word": "tram",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "overnight bag",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "binoculars",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "mountain biking",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "explore",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "land",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "museum",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "resort",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "swimming pool",
+      "hint": "Act out: swimming pool"
+    },
+    {
+      "word": "campground",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "airport security",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "currency",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "shopping",
+      "hint": "Act out: shopping"
+    },
+    {
+      "word": "sail",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "globe",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "rest",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "altitude",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "hemisphere",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "atlas",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "south",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "photograph",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "highway",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "fly",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sunglasses",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "fanny pack",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "hotel",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sea",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tour",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "latitude",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "souvenir",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "bus",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "yacht",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "backpacking",
+      "hint": "Act out: backpacking"
+    },
+    {
+      "word": "layover",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "red-eye",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "excursion",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "island",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "hang glider",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "ski lodge",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "swimsuit",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "city",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "first class",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "road trip",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "say \"cheese\"",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "kayak",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "summer",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "weekend",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "drive",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "taxi",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "zoo",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "tropics",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "arrival",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "customs",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "GPS",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "credit card",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "takeoff",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "west",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "national park",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "departure",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sunscreen",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "miles",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "motel",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "time zone",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "foreigner",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "mountains",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "room service",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "trip",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "downtime",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "cab",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "video",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "scenery",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "unpack",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "hostel",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "state park",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "theme park",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "passport",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "voyage",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "nation",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "packing",
+      "hint": "Act out: packing"
+    },
+    {
+      "word": "scuba diving",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "schedule",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "safari",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "reservation",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "lake",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "flight",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "walk",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "subway",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sunburn",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "longitude",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "cabin",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "train",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "sleeping bag",
+      "hint": "Act out: sleeping bag"
+    },
+    {
+      "word": "relax",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "hiking",
+      "hint": "Act out: hiking"
+    },
+    {
+      "word": "river",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "waterfall",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "amusement park",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "port",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "keepsake",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "ship",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "travel agent",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "destination",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "water park",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "east",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "Visa",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "translate",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "ferry",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "journey",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "embark",
+      "hint": "Guess this travel term!"
+    },
+    {
+      "word": "trail",
+      "hint": "Guess this travel term!"
+    }
+  ]
+}

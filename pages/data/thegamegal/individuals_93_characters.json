@@ -1,0 +1,755 @@
+{
+  "id": "gamegal-individuals-93",
+  "name": "Characters",
+  "icon": "🦸",
+  "game_id": 9,
+  "category_id": 93,
+  "theme": "individuals",
+  "count": 186,
+  "words": [
+    {
+      "word": "Dory",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Bugs Bunny",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mulan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Batman",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Jean Valjean",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Jar Jar Binks",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Simba",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Elizabeth Bennett",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Stitch",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Link from Zelda",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Goofy",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Samwise Gamgee",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Donald Duck",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Tinker Bell",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Junie B. Jones",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Spider-Man",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "WALL-E",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Wreck-It Ralph",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Johnny Bravo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Katniss Everdeen",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Oscar the Grouch",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "E.T.",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Big Friendly Giant",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Obi-Wan Kenobi",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Toucan Sam",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Aladdin",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Dracula",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Burton \"Gus\" Guster",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "R2-D2",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Gaston",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Legolas",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Lorax",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Yoda",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Eeyore",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Alvin and the Chipmunks",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Pac-Man",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Wonder Woman",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mr. Peabody",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Alex the Lion",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Gonzo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mowgli",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Moby Dick",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mary Poppins",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "MacGyver",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Frodo Baggins",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ender Wiggin",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Darth Vader",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Tin Man",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Wizard of Oz",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "C-3P0",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Dumbledore",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Grinch",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Sonic the Hedgehog",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Piglet",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mickey Mouse",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Gru",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Elmo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Rapunzel",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Chewbacca",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Kermit the Frog",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ramona Quimby",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Jason Bourne",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ron Weasley",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Shrek",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Lightning McQueen",
+      "hint": "Act out: Lightning McQueen"
+    },
+    {
+      "word": "Tigger",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Spock",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Barney",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Willy Wonka",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Beast",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Queen of Hearts",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Han Solo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Peeta Mellark",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Charlotte the spider",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Shawn Spencer",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Lilo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Andy Griffith",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Daniel Tiger",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Danny Ocean",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mario",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Maleficent",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Snoopy",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Cat in the Hat",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Doug Funnie",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Winnie the Pooh",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Hamlet",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "President Josiah \"Jed\" Bartlet",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Princess Leia",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Inigo Montoya",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Sirius Black",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Dr. Emmett Brown",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Kevin Flynn",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Stuart Little",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Rory Gilmore",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Wilbur the pig",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Corduroy Bear",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Pikachu",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Snow White",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "James Bond",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ronald McDonald",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Cinderella",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Lando Calrissian",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Scooby Doo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Waldo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Fred Flintstone",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Lord Voldermort",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Sleeping Beauty",
+      "hint": "Act out: Sleeping Beauty"
+    },
+    {
+      "word": "Rocky",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Aslan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Tron",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Curious George",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Mad Hatter",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Fozzy",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Max Goof",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Indiana Jones",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Superman",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Captain Jack Sparrow",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Luke Skywalker",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Clark Kent",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Thurston Howell III (the Millionaire)",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Tarzan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Lorelai Gilmore",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Iron Man",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Garfield",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Barbie",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Bambi",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Pinocchio",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Clifford the Big Red Dog",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Hagrid",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ebenezer Scrooge",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Frog and Toad",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Peter Pan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mufasa",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Fix-It Felix",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Robin Hood",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Sherlock Holmes",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Calvin (and Hobbes)",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Baymax",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Littlefoot",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Forrest Gump",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Watson",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Woody",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Gilligan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Napoleon Dynamite",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Long John Silver",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Gandalf",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Captain Kirk",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Anne of Green Gables",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Dennis the Menace",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mr. Incredible",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Alice (in Wonderland)",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Elsa",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Prince Charming",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Dora the Explorer",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mother Goose",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Jim Hawkins",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Cap'n Crunch",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Big Bird",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Anakin Skywalker",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Paddington Bear",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Severus Snape",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Incredible Hulk",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Captain Hook",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Romeo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Sid the sloth",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "SpongeBob SquarePants",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Captain America",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Miss Piggy",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "George of the Jungle",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Bilbo Baggins",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Nemo",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Frankenstein",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Ms. Frizzle",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Huckleberry Finn",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Mr. Darcy",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Buffy Summers",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Jabba the Hutt",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Po the panda",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Marty McFly",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Darth Maul",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Emma Swan",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "the Cowardly Lion",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Charlie Brown",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Hermione Granger",
+      "hint": "Guess this characters term!"
+    },
+    {
+      "word": "Buzz Lightyear",
+      "hint": "Guess this characters term!"
+    }
+  ]
+}

@@ -1,0 +1,1223 @@
+{
+  "id": "gamegal-wordplay-72",
+  "name": "Pairs",
+  "icon": "👯",
+  "game_id": 7,
+  "category_id": 72,
+  "theme": "wordplay",
+  "count": 303,
+  "words": [
+    {
+      "word": "free and clear",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "dollars and cents",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sand and surf",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "an arm and a leg",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "comb and brush",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "flotsam and jetsam",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "crime and punishment",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "by and large",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "always and forever",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "checks and balances",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rest and relaxation",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pencil and paper",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "mice and men",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "a wink and a smile",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fun and games",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pain and suffering",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fetch and retrieve",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "over and out",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hot dogs and buns",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "neat and tidy",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wind and waves",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hoot and holler",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "flesh and blood",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "room and board",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "body and soul",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "soup and salad",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cold and flu",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "dot and dash",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hand and foot",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "friends and family",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hot and bothered",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "church and state",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "trip and fall",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sweet and sour",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cops and robbers",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pins and needles",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "clean and clear",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "time and space",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "meat and potatoes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "vampires and werewolves",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ketchup and mustard",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "now and again",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "time and again",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "milk and cereal",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "nice and easy",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "slip and slide",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bagel and cream cheese",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cog and wheel",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "dazed and confused",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "high and dry",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bloom and prosper",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "this and that",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "peanut butter and jelly",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ones and zeroes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "to and fro",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "great and mighty",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "yogurt and fruit",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "thunder and lightning",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "coffee and doughnuts",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cash and carry",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cream and sugar",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fingers and toes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "kiss and tell",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shock and awe",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pride and prejudice",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "peas and carrots",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "mayo and mustard",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bread and circus",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rough and tumble",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "trials and tribulations",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hamburger and fries",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "brag and boast",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ball and chain",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "lock and key",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "brush and floss",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "big and strong",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "divide and conquer",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "needle and thread",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "through thick and through thin",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "quick and dirty",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "table and chairs",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "clean and press",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "set it and forget it",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ebony and ivory",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "silver and gold",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "nickel and dime",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sit and stand",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hem and haw",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cheers and applause",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "map and compass",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "washer and dryer",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "the lion and the lamb",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bob and weave",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cheese and crackers",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "punishment and reward",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "field and stream",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "signed and sealed",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bat and ball",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "call and response",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "a rock and a hard place",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "through and through",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hammer and nail",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "stars and stripes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hugs and kisses",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shipshape and Bristol fashion",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "heart and soul",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "name and number",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pots and pans",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "skull and bones",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "meet and greet",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "death and taxes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "various and sundry",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hat and scarf",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hide and seek",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rough and tough",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "salt and pepper",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "a swing and a miss",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bread and butter",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "lost and found",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "look and see",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "chips and dip",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bits and pieces",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "front and center",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bricks and mortar",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "find and replace",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shimmer and shine",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "please and thank you",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "toss and turn",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "press and hold",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "stow and go",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pork and beans",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "poise and grace",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shampoo and conditioner",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "deep and wide",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "milk and cookies",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "knife and fork",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "Big Mac and fries",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "black and blue",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cabinet and drawer",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "toothbrush and toothpaste",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bow and arrow",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "chicken and steak",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "zoom and enhance",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "high and mighty",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "to have and to hold",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "trial and error",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "t-shirt and jeans",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fish and chips",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "mom and pop",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "duck and cover",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "coffee and tea",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pen and paper",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rice and beans",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shipping and handling",
+      "hint": "Act out: shipping and handling"
+    },
+    {
+      "word": "fire and rain",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "tried and true",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "food and water",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "plain and simple",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "socks and shoes",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "movies and popcorn",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "Venus and Mars",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wait and see",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "point and click",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "live and learn",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cup and saucer",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wash and dry",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "spaghetti and meatballs",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pancakes and syrup",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "once and for all",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "prim and proper",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "lemon and lime",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "the best and the brightest",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "name and address",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "slice and dice",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rant and rave",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "chips and salsa",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wine and dine",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "surf and turf",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "brawn and brains",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "stars and moon",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fire and brimstone",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "strawberries and whipped cream",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "mop and bucket",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "crate and barrel",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "jazz and blues",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shake and bake",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "forte and piano",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "skin and bones",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "vigor and vim",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "safe and sound",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pinch and zoom",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pop and lock",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "guess and check",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "kicking and screaming",
+      "hint": "Act out: kicking and screaming"
+    },
+    {
+      "word": "go and do",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "policy and procedure",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "salon and spa",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "help and support",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "forever and ever",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rock and a hard place",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "land and sea",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bigger and better",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "null and void",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "leaps and bounds",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "chew and swallow",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "tea and crumpets",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "quick and easy",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sugar and spice",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "brief and to the point",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "huff and puff",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "head and shoulders",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ball and socket",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "so on and so forth",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "park and ride",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "upside down and inside out",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "nice and tight",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "the bird and the worm",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "terms and conditions",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "forgive and forget",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rank and file",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "dog and bone",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "believe and achieve",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "read and write",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "man and wife",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "each and every",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cut and paste",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "touch and go",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "shimmy and shake",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "guts and gore",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "coat and tie",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "chocolate and peanut butter",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sick and tired",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wind and rain",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "now and then",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "back and forth",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "break and bake",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "kiss and make up",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "thick and thin",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "over and over",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "love and marriage",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "knowledge and power",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "firm and steadfast",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rock and roll",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "doom and gloom",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "tuck and roll",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "come and go",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "grin and bear it",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pure and simple",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "twist and shout",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "macaroni and cheese",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "war and peace",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "flora and fauna",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "smile and wave",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rich and famous",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "run and hide",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "Saturday and Sunday",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "horse and chariot",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "naked and bare",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "like and subscribe",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "peaches and cream",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "Frosty and French fries",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "hot chocolate and marshmallows",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "show and tell",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "snack and go",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "biscuits and gravy",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "smoke and mirrors",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cat and mouse",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "band and orchestra",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bend and break",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "the cat and the fiddle",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cloak and dagger",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "p's and q's",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sticks and stones",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "music and lyrics",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "ham and eggs",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "oil and vinegar",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "catch and release",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "root and branch",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "pomp and circumstance",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "rhythm and blues",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "soap and water",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "meek and mild",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "egg and spoon",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "skull and crossbones",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "bed and breakfast",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "law and order",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "song and dance",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cats and dogs",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "down and out",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "king and queen",
+      "hint": "Act out: king and queen"
+    },
+    {
+      "word": "eggs and bacon",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "wine and cheese",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "new and improved",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "apples and peanut butter",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "cease and desist",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "crash and burn",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "birds and bees",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "milk and honey",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "sweet and salty",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "fast and furious",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "nuts and bolts",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "toast and jam",
+      "hint": "Guess this pairs term!"
+    },
+    {
+      "word": "zig and zag",
+      "hint": "Guess this pairs term!"
+    }
+  ]
+}

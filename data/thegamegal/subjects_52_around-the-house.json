@@ -1,0 +1,3335 @@
+{
+  "id": "gamegal-subjects-52",
+  "name": "Around the House",
+  "icon": "🏠",
+  "game_id": 1,
+  "category_id": 52,
+  "theme": "subjects",
+  "count": 831,
+  "words": [
+    {
+      "word": "safety pin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "family",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mother-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doorknob",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "washing machine",
+      "hint": "Act out: washing machine"
+    },
+    {
+      "word": "sandbox",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hair spray",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electrical outlet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Netflix",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pressure cooker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ladle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "spouse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "poster",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "jeans",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "laundry",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "siding",
+      "hint": "Act out: siding"
+    },
+    {
+      "word": "t-shirt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "compost bin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "curtain rod",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stain remover",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cable",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tape dispenser",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ice chest",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "front porch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hutch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mascara",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mattress",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "clipboard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "gift bag",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swing set",
+      "hint": "Act out: swing set"
+    },
+    {
+      "word": "Velcro",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "necklace",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blouse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sleeper sofa",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "child",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "jewelry",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "husband",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "concrete",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bug spray",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "downstairs",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "comforter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "MP3 player",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garden hose",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "iron",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "salt shaker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vent",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electric guitar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mitten",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "staircase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hot water",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nursery",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cell phone charger",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ice cube",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "soil",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cardboard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "helmet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "construction paper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toaster",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "faucet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "speakers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "home",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tile",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garage door opener",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dry erase marker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "magnet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "butter knife",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garbage",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mailbox",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hair dryer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "VCR",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flatware",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "comb",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "chapstick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "aluminum foil",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "egg timer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "padlock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "plastic wrap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "laundry room",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bag",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drum set",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "screen door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "earring",
+      "hint": "Act out: earring"
+    },
+    {
+      "word": "briefcase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "birdbath",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bassinet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pencil",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garage door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "coffee maker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dress shirt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wife",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lid",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "USB flash drive",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "snack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "brick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "quarter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hairbrush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sweater",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "greenhouse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "living room",
+      "hint": "Act out: living room"
+    },
+    {
+      "word": "hammock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "microwave",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "curtain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garden",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "spice rack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dustpan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hand sanitizer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "place mat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "collar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bracelet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blank CD",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dental floss",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cake stand",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doghouse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "table runner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "skirt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grocery sack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stove",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepmom",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bottle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sleeping bag",
+      "hint": "Act out: sleeping bag"
+    },
+    {
+      "word": "tablecloth",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lunchbox",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "half bath",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "end table",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garbage day",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fluorescent light",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "laundry soap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cheese grater",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wrapping paper",
+      "hint": "Act out: wrapping paper"
+    },
+    {
+      "word": "oven",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trellis",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sprinkler",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dish rack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "broom",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wastebasket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fence",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nightgown",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "linen closet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hardcover book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drums",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cologne",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shower cap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "notepad",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "colander",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "recipe book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "throw rug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "water bottle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "journal",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "room",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "scarf",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lights",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "turtleneck",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "clothespin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "eyeliner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "self-help book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bedtime story",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mother",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rubbing alcohol",
+      "hint": "Act out: rubbing alcohol"
+    },
+    {
+      "word": "freezer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bench",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pond",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "photo album",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "curling iron",
+      "hint": "Act out: curling iron"
+    },
+    {
+      "word": "laptop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "aspirin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "medicine cabinet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "heater",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "medicine",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baby monitor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "battery",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dish towel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "duct tape",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "clock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ring",
+      "hint": "Act out: ring"
+    },
+    {
+      "word": "headphones",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "china",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shaving cream",
+      "hint": "Act out: shaving cream"
+    },
+    {
+      "word": "stairs",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ice cube tray",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "desk lamp",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wallet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "chore chart",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dryer sheet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lamp",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "photograph",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stroller",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepping stone",
+      "hint": "Act out: stepping stone"
+    },
+    {
+      "word": "yoga mat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "foundation",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cutting board",
+      "hint": "Act out: cutting board"
+    },
+    {
+      "word": "coffee table",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pantyhose",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "smoke detector",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doorstop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "air conditioner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "granite countertops",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "leak",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "plastic",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "balloon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "necktie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stockings",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mason jar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stoop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Venetian blinds",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "microfiber",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pizza pan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "diapers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "jacket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doggie door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "measuring cup",
+      "hint": "Act out: measuring cup"
+    },
+    {
+      "word": "sunglasses",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wagon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "potted plant",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "throw pillow",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dining room",
+      "hint": "Act out: dining room"
+    },
+    {
+      "word": "bubble",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lip balm",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "banister",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "front door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "carport",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bib",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cuff links",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "suspenders",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dad",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "suit coat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pen",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "armchair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flowerbed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sister-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "package",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pitcher",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "soap dish",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "leftovers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cord",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ironing board",
+      "hint": "Act out: ironing board"
+    },
+    {
+      "word": "boots",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trundle bed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tassel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "deep fryer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lipstick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cornstarch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Q-tips",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bedroom",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mop bucket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tape",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hairspray",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "back porch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Blu-ray",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swimsuit",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blender",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swimming pool",
+      "hint": "Act out: swimming pool"
+    },
+    {
+      "word": "sticker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shower",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electric razor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fruit tree",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trash bag",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bed sheets",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "basket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "iPhone",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "saucer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kitchen knife set",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "silverware",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "basement",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "passport",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "window",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sectional sofa",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "teakettle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dollar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "appliance",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "coat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "relative",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drinking glass",
+      "hint": "Act out: drinking glass"
+    },
+    {
+      "word": "perfume",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hedge",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "great-grandfather",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "painting",
+      "hint": "Act out: painting"
+    },
+    {
+      "word": "smart phone",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "penny",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hoe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cleaning spray",
+      "hint": "Act out: cleaning spray"
+    },
+    {
+      "word": "food processor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "gate",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tree",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grandfather clock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fire alarm",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "outdoor swing",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dust bunny",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "slippers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "meal",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fake flowers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electric skillet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "screwdriver",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "jar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hem",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "porch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "window curtain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mess",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toilet seat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "scrapbook",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ribbon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lawn mower",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pizza stone",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "towel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hardware",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grandpa",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blue jeans",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "board game",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kitchen",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blanket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bathtub",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mantle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "night light",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "colored pencils",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "home theater",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kite",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hardwood",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "candle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "food storage",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "father-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "newspaper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rocking chair",
+      "hint": "Act out: rocking chair"
+    },
+    {
+      "word": "mold",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "robe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hummingbird feeder",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "den",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "artwork",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lunch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sunscreen",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hamper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sponge",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "spatula",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "box",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sweatpants",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "genealogy",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sliding glass door",
+      "hint": "Act out: sliding glass door"
+    },
+    {
+      "word": "easy chair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "credit card",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "razor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "welcome mat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "refrigerator",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "chandelier",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "umbrella",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "gas log",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "crown molding",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "beanie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baseboard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "scanner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pillow",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dish sponge",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baby rattle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hair tie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wheel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mom",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "driveway",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stereo",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "eyedropper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "air vent",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "notebook",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "switch plate cover",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "picnic table",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "calendar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cassette tape",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "credenza",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sandals",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "light fixture",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bedtime",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "yo-yo",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "staple gun",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ink",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "coloring book",
+      "hint": "Act out: coloring book"
+    },
+    {
+      "word": "stuffed animal",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doormat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bubble bath",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "furnace",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "camcorder",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shovel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flower pot",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "key",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "can opener",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pepper shaker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pot holder",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pliers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "desk",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "socks",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bandanna",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "handle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "body wash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "eraser",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "slow cooker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dining room table",
+      "hint": "Act out: dining room table"
+    },
+    {
+      "word": "chimney",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "scuff mark",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "alarm clock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "piano",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "brother",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bucket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mouthwash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lawn",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bathroom",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tweezers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "knickknack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toys",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "storage bin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bleach",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sofa",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mattress protector",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepdad",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "chest of drawers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "coffee mug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "magazine",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mousetrap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bookcase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sink",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dry erase board",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "novel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pocket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "waffle iron",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garbage disposal",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "undershirt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mixing bowl",
+      "hint": "Act out: mixing bowl"
+    },
+    {
+      "word": "power strip",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cough drops",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "placemat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "loft",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "backpack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "string",
+      "hint": "Act out: string"
+    },
+    {
+      "word": "bush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "copier",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "thermometer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baby-sitter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "puzzle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hoodie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "printer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "belt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wristwatch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "play room",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "plastic baggie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "high heels",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sister",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "barbecue",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "china cabinet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "file cabinet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "coin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baby wipes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "laundry basket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "slide",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bathroom scale",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "calculator",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cousin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "DVD player",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lock",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fabric softener",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "music",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "scissors",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vest",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "entryway",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "canned goods",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toilet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wireless router",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pen cup",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pajamas",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "recliner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wine cellar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "gutter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paint",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "DVD",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swing",
+      "hint": "Act out: swing"
+    },
+    {
+      "word": "dirty clothes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tennis shoes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cup",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dime",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baseball cap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grandchild",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grout",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "keyboard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "glitter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dinner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ceiling fan",
+      "hint": "Act out: ceiling fan"
+    },
+    {
+      "word": "party favor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sheets",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "basketball hoop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Google",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepsister",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sundress",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sketchbook",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "leaf blower",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "extension cord",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "salt and pepper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "great-grandmother",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fork",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hand soap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "floor plan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "succulent plant",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toilet paper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stationery",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "marble",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nightstand",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "uncle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cardboard box",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ladder",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "purse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "father",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "futon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rake",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "knife",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "outlet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kitchen island",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paper towels",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "keychain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "emery board",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pool",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "breadbox",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bar stool",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toothpaste",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bath",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "quilt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "couch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "spoon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "blush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "apron",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "caulk",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Internet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "water heater",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "answering machine",
+      "hint": "Act out: answering machine"
+    },
+    {
+      "word": "cough syrup",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "eye shadow",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "popsicle stick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vegetable garden",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "plug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "office chair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "napkin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "banana peel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dishwasher",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electric blanket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nonstick pan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "home security system",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "window blinds",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flower",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "terrace",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trampoline",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "chair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kitchen rug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hand lotion",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "thermos",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "yarn",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "boxers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bedspread",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "decorations",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cabinet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paintbrush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "driver's license",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hot glue gun",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cloth napkins",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "letter opener",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ottoman",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "skateboard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "band-aid",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paint can",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dog leash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "skylight",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grill",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nail clippers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "daughter-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "orchard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "thread",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "yoga pants",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "walkway",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "glider rocker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "website",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "roof",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "video camera",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wainscoting",
+      "hint": "Act out: wainscoting"
+    },
+    {
+      "word": "jug",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lace",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "countertop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "car keys",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "attic",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shingle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vacuum cleaner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "CD player",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pillowcase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "highchair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hand towel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "glue stick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "storage shed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "yard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hall closet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "children",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pencil sharpener",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "leggings",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "handkerchief",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "watch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "craft supplies",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "loose change",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "crib",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "backyard",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paper plates",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "step stool",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "disposable",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swim goggles",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "easel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rubber band",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flashlight",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "thermostat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doorway",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "gloves",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "telephone",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sweater vest",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ceiling",
+      "hint": "Act out: ceiling"
+    },
+    {
+      "word": "trivet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nail polish",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pogo stick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sandpaper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bath robe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sugar bowl",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "man-cave",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drawer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "folding chair",
+      "hint": "Act out: folding chair"
+    },
+    {
+      "word": "watercolor paints",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toaster oven",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "laundry detergent",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bookmark",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "overalls",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "walkie-talkie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Play Doh",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "front lawn",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "window pane",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "television",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "vine",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "office",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "LEGOs",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "piano bench",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "video game",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cell phone",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "patio",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bicycle",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepchild",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rolling pin",
+      "hint": "Act out: rolling pin"
+    },
+    {
+      "word": "windowsill",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "puzzle piece",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "button",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cookie sheet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "porch swing",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "holiday decorations",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bowtie",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "love seat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stapler",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "swim float",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pants",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stepbrother",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "computer mouse",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cookie cutter",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bean bag chair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "makeup",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garage",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "instruction manual",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "picture frame",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ruler",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "entertainment center",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "building blocks",
+      "hint": "Act out: building blocks"
+    },
+    {
+      "word": "curtains",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "car seat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "breakfast",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "stamp",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ice maker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flip-flops",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "floor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lip gloss",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "electric toothbrush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "carpet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hot tub",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "watering can",
+      "hint": "Act out: watering can"
+    },
+    {
+      "word": "shirt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "corduroy",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "eaves",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hall",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "picture",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dryer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hula hoop",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "baby blanket",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wax paper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "son-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trash compactor",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bowl",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "conditioner",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "oven mitt",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "clothes hanger",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "table",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "power drill",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "closet",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dress shoes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "burglar alarm",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "iPad",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wind chime",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "barstool",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mini blinds",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sneakers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "tissue paper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pocketknife",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hose",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "zipper",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "flat screen TV",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mail",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "rice cooker",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "picture book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trash",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doorbell",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bulletin board",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ballpoint pen",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dress",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "frying pan",
+      "hint": "Act out: frying pan"
+    },
+    {
+      "word": "wick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grandma",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "portable speakers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "under the bed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "loofah",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hair gel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "weeds",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fruit bowl",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bar of soap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shower curtain",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "googly eyes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "long johns",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "junk drawer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hinge",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "card game",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "plunger",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "light switch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "sewing machine",
+      "hint": "Act out: sewing machine"
+    },
+    {
+      "word": "bunk bed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "movie night",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paperweight",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cotton ball",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "crumb",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shelf",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "suitcase",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wardrobe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "globe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bureau",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "nickel",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "railing",
+      "hint": "Act out: railing"
+    },
+    {
+      "word": "edger",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bobby pin",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "garden shed",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "desk calendar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "family tree",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "towel rack",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "patio furniture",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pantry",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cushion",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "crayon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "mirror",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "online shopping",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "upstairs",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Kleenex",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "headband",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "CD",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "pan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shutters",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bath mat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "homework",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "brother-in-law",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "washcloth",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cardigan",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dryer lint",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "money",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fish tank",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lawnmower",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "doll",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "toothbrush",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "bath salts",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "kitchen cabinets",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Bluetooth",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "trash can",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "loveseat",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cot",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "hole punch",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "landscaping",
+      "hint": "Act out: landscaping"
+    },
+    {
+      "word": "footstool",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lawn chair",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "camera",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "glasses",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paperclip",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drapes",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "washer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "yardstick",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "snooze button",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "cellar",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "home movies",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "paperback book",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "dish soap",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Windex",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "computer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "drill",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "humidifier",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "back door",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shampoo",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "Amazon",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "ointment",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "spare batteries",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "markers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "shoe",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "family room",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fireplace",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "glue",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "awning",
+      "hint": "Act out: awning"
+    },
+    {
+      "word": "flowers",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "skinny jeans",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "litter box",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "lotion",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "weed killer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "wreath",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "grass",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "iPod",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "TV antenna",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "juicer",
+      "hint": "Guess this around the house term!"
+    },
+    {
+      "word": "fire extinguisher",
+      "hint": "Guess this around the house term!"
+    }
+  ]
+}

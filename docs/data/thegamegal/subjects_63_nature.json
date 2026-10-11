@@ -1,0 +1,2147 @@
+{
+  "id": "gamegal-subjects-63",
+  "name": "Nature",
+  "icon": "🌲",
+  "game_id": 1,
+  "category_id": 63,
+  "theme": "subjects",
+  "count": 534,
+  "words": [
+    {
+      "word": "fen",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bay",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "island",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "larvae",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bird",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "continental shelf",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "primate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "poppy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "petal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "poison ivy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "nettle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "poinsettia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "breeze",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mesquite",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "Northern lights",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wings",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dust storm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fall",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mistletoe",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "turbulence",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "paw",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "polar",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "insect",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fin",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "woodland",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gulf",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "snapdragon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "diamond",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ruby",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wetlands",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "marshland",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rose",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rainbow",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "weeds",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "beech tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stalactite",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "marsh",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "poplar tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "violet",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dune",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "snowstorm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tusk",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tropical rainforest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "antler",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "carnation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "resin",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gills",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tulip",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "marine",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cumulus clouds",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wadi",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "marsupial",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dill",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "horn",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lava",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pool",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "storm surge",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "inlet",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cedar tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "volcanic eruption",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tadpole",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "succulents",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flora",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "berry",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "talon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grapevine",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "petrified wood",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hail",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "biosphere",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "legume",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "freshwater",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "blossom",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "predator",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "night",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "vapor",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "steppe",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "knoll",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coral reef",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "eclipse",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mountain range",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "waterfowl",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "prickly pear",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "haze",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "seaweed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "Indian paintbrush",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sapling",
+      "hint": "Act out: sapling"
+    },
+    {
+      "word": "metamorphosis",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "slush",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "polar ice caps",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "spider web",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "storm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "canopy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "walnut tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stalk",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "frond",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "evening",
+      "hint": "Act out: evening"
+    },
+    {
+      "word": "vegetable",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mesa",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coriander",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cumulonimbus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "humidity",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "current",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "shrub",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flipper",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "floodplain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bamboo",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "vertebrate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "iceberg",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fern",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "perennial",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oceanic trench",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pine tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "clover",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rock formation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tarragon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "egg-sac",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "carnivore",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "plain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "river delta",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "earthquake",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grow",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "quartz",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "quagmire",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cottonwood tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "red fir tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "smog",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ivory",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grassland",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gale",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "isthmus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "black ice",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stem",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bird of prey",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "limestone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stratus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "shoal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "chia seed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fruit",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "earth",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "birch tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sunflower",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "spider",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "atmosphere",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "spruce tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tail",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "meadow",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "maple tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "redwood tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "doldrums",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "beach",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ash tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "thistle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "freshwater marsh",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hill",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sea breeze",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bulb",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "germinate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dirt",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "crystal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sassafras",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "elm tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "garnet",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "weather",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tree trunk",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "annual",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "alluvial fan",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "palm tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "permafrost",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dahlia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rye",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "feather",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "kelp",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "drift",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "moor",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "volcano",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rhubarb",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bud",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "arachnid",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "freesia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sky",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lilac",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ice",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "farm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tornado",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "plumage",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "echolocation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sea cave",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stream",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "canal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "billabong",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "orchid",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "omnivore",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "downpour",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "water cycle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dew",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "chrysanthemum",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oregano",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rainforest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ragwort",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "moonstone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gully",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sap",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "thyme",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "acorn",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "species",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gold",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cumulus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "summer",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sycamore",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "air",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coastal river",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "eucalyptus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pebble",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tumbleweed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "vortex",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "plankton",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pollinator",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "water",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "apple tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "twig",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lavender",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "Venus flytrap",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cloudy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "deciduous forest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wood",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "freeze",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sequoia tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "herbivore",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mud",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "plantain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cotton",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fledgling",
+      "hint": "Act out: fledgling"
+    },
+    {
+      "word": "star",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sprout",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "full moon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "upwind",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "baby's breath",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lightning",
+      "hint": "Act out: lightning"
+    },
+    {
+      "word": "funnel cloud",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "brackish",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "climate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "crustacean",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lily",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "moisture",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stalagmite",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "estuary",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bluff",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cirrus clouds",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "Queen Anne's lace",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pond",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bovine",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "autumn",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "arid",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "baobab tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oak tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "brook",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ivy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "twister",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "valley",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "black-eyed Susan",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fog",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grasslands",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fangs",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bush",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "river mouth",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "amber",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sun",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "garden",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "vegetation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "opal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bacteria",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cork",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "photosynthesis",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "chive",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "forest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "surf",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tributary",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mist",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ridge",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "nut",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "saffron",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "beak",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rock",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hemlock tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "morning",
+      "hint": "Act out: morning"
+    },
+    {
+      "word": "drought",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "thorn",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "roots",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "salt marsh",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "iris",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "downwind",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "granite",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mollusk",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wormwood",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "moon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sapphire",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "icicle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "glade",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "river",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "noon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mire",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "peninsula",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cliff",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "honeysuckle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wildfire",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "eye of the storm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cactus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ginger",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "avalanche",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pinecone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coniferous forest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tropical storm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cell",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "typhoon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "precipitation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "peony",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "warm-blooded",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "nocturnal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tropical depression",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hibiscus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "delta",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "seasons",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "downy feathers",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "milkweed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cenote",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "food chain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "geyser",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "feline",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cilantro",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ecosystem",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cloud",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "egg",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tide pool",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "exoskeleton",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fir tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pear tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "highland",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mushroom",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hedge",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "amphibians",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flood",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sage",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gorge",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "harbor",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rain forest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tropical",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "morning glory",
+      "hint": "Act out: morning glory"
+    },
+    {
+      "word": "desert",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "daffodil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "angiosperm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "turquoise",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flock",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rosemary",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stratocumulus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coconut",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "essential oil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dust devil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "basil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "anthropod",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cloudburst",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "metal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "glacier",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rafflesia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "puddle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "landslide",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "waterfall",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "nest",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bayou",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tsunami",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hurricane",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "krill",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pollen",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sand",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "creek",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flash flood",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "reservoir",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "evaporation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "jungle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tropics",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "holly tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cyclone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "willow tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "winter",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tardigrade",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "scales",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mammal",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cold snap",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "canyon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "steam",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lagoon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "blizzard",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "muzzle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sea",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "antenna",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "agriculture",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bean",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "crabapple tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "reef",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "vine",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fish",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grove",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "summit",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ash",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "constellation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "trunk",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wax",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "smoke",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mountain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hoof",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lake",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "nectar",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "daisy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oceanic ridge",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gardenia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "reptile",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "biome",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "scrub",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "parsley",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "deep sea",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fossil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hibernate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "chrysalis",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "muggy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "basin",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "marble",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hyacinth",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "monsoon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sand dune",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "claw",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "Douglas fir tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "deciduous",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "riverbed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "thunderstorm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "herb",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cold-blooded",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "snowflake",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "olive tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "migration",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ranunculus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "weeping willow",
+      "hint": "Act out: weeping willow"
+    },
+    {
+      "word": "glen",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "coast",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bark",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "amethyst",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "weed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "evergreen",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "overcast",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dandelion",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ice storm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wind",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "copper",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "topaz",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "peat swamp",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sleet",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "dawn",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "juniper tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "heather",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cirrus",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "tundra",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "saltwater",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oasis",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "habitat",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "heat wave",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sunlight",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ocean",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "partly cloudy",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ragweed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "branch",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "rapids",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "leaf",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "moss",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grain",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "mangrove",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pollinate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "arctic",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "heath",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cove",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "condensation",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "aloe",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wetland",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "magnolia",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "prey",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "stone",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fire",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "algae",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "drizzle",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "grass",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "emerald",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fur",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "soil",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cold front",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "aquatic",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "iron",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "prairie",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "savanna",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "carrion",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "pearl",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "invertebrate",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "plateau",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "wool",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sea trench",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ladybug",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hydrangea",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cypress tree",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "gulch",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "twilight",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "frost",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sandstorm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "lichen",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "oxbow lake",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "flurry",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cocoon",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "crater",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "bog",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ravine",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "seed",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cave",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "fjord",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "juniper",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "ice cap",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "spring",
+      "hint": "Act out: spring"
+    },
+    {
+      "word": "strait",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "sinkhole",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "venomous",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "archipelago",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "snow",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cork oak",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "swamp",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "hailstorm",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "shore",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "cumulonimbus clouds",
+      "hint": "Guess this nature term!"
+    },
+    {
+      "word": "thermal",
+      "hint": "Guess this nature term!"
+    }
+  ]
+}

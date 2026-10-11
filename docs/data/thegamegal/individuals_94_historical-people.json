@@ -1,0 +1,587 @@
+{
+  "id": "gamegal-individuals-94",
+  "name": "Historical People",
+  "icon": "📜",
+  "game_id": 9,
+  "category_id": 94,
+  "theme": "individuals",
+  "count": 144,
+  "words": [
+    {
+      "word": "Francis Bacon",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Neil Armstrong",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Anne Frank",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jackson Pollock",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Lord Byron",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jean-Jacques Rousseau",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Ludwig van Beethoven",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Martin Luther King, Jr.",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Audrey Hepburn",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Edgar Allan Poe",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "William Shakespeare",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Nathaniel Hawthorne",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Napoleon Bonaparte",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Helen Keller",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Genghis Khan",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Galileo Galilei",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Fred Rogers",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "John F. Kennedy",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "John Adams",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Herbert Hoover",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Andrew Jackson",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Dwight D. Eisenhower",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Copernicus",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Norman Rockwell",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Ernest Hemingway",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Socrates",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Karl Marx",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "George W. Carver",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Adolf Hitler",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Buddy Holly",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Alexander Hamilton",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Nicolaus Copernicus",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Frank Lloyd Wright",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Michelangelo",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Johann Sebastian Bach",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jimmy Stewart",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Martin Luther",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Sacajawea",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "James Cook",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Doris Day",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Albert Einstein",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Adam Smith",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Archimedes",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Amelia Earhart",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Mohammad Ali",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Pope John Paul II",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Charlemagne",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Ulysses S. Grant",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Thomas Edison",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Babe Ruth",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Thomas Paine",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Joseph Stalin",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Constantine the Great",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Franklin D. Roosevelt",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Harry S. Truman",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Henry Ford",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "King George III",
+      "hint": "Act out: King George III"
+    },
+    {
+      "word": "Joan of Arc",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Voltaire",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Theodore Roosevelt",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Buzz Aldrin",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Wolfgang Amadeus Mozart",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Abraham Lincoln",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "C. S. Lewis",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "John Locke",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Julius Caesar",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "James Madison",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Robert E. Lee",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Isaac Newton",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Harriet Tubman",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jane Austen",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Thomas Jefferson",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Sally Ride",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Woodrow Wilson",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Frederick Douglass",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Betsy Ross",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Lucille Ball",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Louis Armstrong",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Vincent van Gogh",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Lewis Carrol",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Sir Arthur Conan Doyle",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Benjamin Franklin",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Grace Kelly",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Queen Victoria",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Christopher Columbus",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Eleanor Roosevelt",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Samuel Morse",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Mahatma Gandhi",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Aristotle",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Elizabeth I of England",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Walt Disney",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "the Wright Brothers",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Georgia O'Keeffe",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Simon Bolivar",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Salvador Dali",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Leo Tolstoy",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jacqueline Kennedy",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Jim Henson",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Henry VIII of England",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Charles Dickens",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Samuel Adams",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Plato",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Claude Monet",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Victor Hugo",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Beethoven",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Patrick Henry",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Oscar Wilde",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Sir Isaac Newton",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Walter Cronkite",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Diana, Princess of Wales",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Immanuel Kant",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Mark Twain",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Nikola Tesla",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Mother Teresa",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Grover Cleveland",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Alexander the Great",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "King Arthur",
+      "hint": "Act out: King Arthur"
+    },
+    {
+      "word": "Richard Nixon",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Alexander Graham Bell",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Nelson Mandela",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "George Washington",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Eli Whitney",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Davy Crockett",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Ronald Reagan",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Susan B. Anthony",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Sigmund Freud",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Lewis and Clark",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Cicero",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Cleopatra",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Andy Warhol",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Winston Churchill",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Marie Curie",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "John Calvin",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Stephen Hawking",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Steve Jobs",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Catherine the Great",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Charles Darwin",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Billy the Kid",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Leonardo da Vinci",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Harry Houdini",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "John Hancock",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Rosa Parks",
+      "hint": "Guess this historical people term!"
+    },
+    {
+      "word": "Pablo Picasso",
+      "hint": "Guess this historical people term!"
+    }
+  ]
+}

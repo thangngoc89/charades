@@ -1,0 +1,251 @@
+{
+  "id": "gamegal-holidays-30",
+  "name": "Christmas",
+  "icon": "🎄",
+  "game_id": 4,
+  "category_id": 30,
+  "theme": "holidays",
+  "count": 60,
+  "words": [
+    {
+      "word": "the North Pole",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Santa's workshop",
+      "hint": "Ho ho ho! Brings presents down the chimney"
+    },
+    {
+      "word": "pumpkin pie",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "chimney",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Jack Frost",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "star",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "gingerbread house",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Christmas carol",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "manger",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "the Nutcracker",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "snowball fight",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Santa Claus",
+      "hint": "Ho ho ho! Brings presents down the chimney"
+    },
+    {
+      "word": "stable",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "the Grinch",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "sleigh ride",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "scarf",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "sledding",
+      "hint": "Act out: sledding"
+    },
+    {
+      "word": "bells",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "chestnuts",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "gifts",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "elves",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "soup",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Santa's sleigh",
+      "hint": "Ho ho ho! Brings presents down the chimney"
+    },
+    {
+      "word": "the Little Drummer Boy",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "wise men",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "snow",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "doll",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Christmas Eve",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "decorations",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Frosty the Snowman",
+      "hint": "Three snowballs, carrot nose, and a top hat"
+    },
+    {
+      "word": "hot chocolate",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "lights",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Christmas break",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "turkey",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Christmas tree",
+      "hint": "Holiday fir decorated with lights & ornaments"
+    },
+    {
+      "word": "Buddy the Elf",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "jingle bells",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Christmas spirit",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "reindeer",
+      "hint": "Antlers, flying Santa's sleigh"
+    },
+    {
+      "word": "nativity",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Rudolph the Red-Nosed Reindeer",
+      "hint": "Antlers, flying Santa's sleigh"
+    },
+    {
+      "word": "cookies",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "mistletoe",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "eggnog",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Little Saint Nick",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "candy cane",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "snowman",
+      "hint": "Three snowballs, carrot nose, and a top hat"
+    },
+    {
+      "word": "ho ho ho",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "cinnamon",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "toys",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "gumdrops",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "ice skating",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "wrapping paper",
+      "hint": "Act out: wrapping paper"
+    },
+    {
+      "word": "snowflake",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "stocking",
+      "hint": "Act out: stocking"
+    },
+    {
+      "word": "angel",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "mittens",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "icicle",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "wassail",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "shepherds",
+      "hint": "Christmas & winter holiday favorite!"
+    }
+  ]
+}

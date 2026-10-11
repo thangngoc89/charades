@@ -1,0 +1,1867 @@
+{
+  "id": "gamegal-subjects-65",
+  "name": "Sports",
+  "icon": "⚽",
+  "game_id": 1,
+  "category_id": 65,
+  "theme": "subjects",
+  "count": 464,
+  "words": [
+    {
+      "word": "baseball bat",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "unicycle",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "dribbling",
+      "hint": "Act out: dribbling"
+    },
+    {
+      "word": "roster",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "torch relay",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "three strikes",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "toboggan",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hacky sack",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "closing ceremony",
+      "hint": "Act out: closing ceremony"
+    },
+    {
+      "word": "position",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tee-ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "miniature golf/putt-putt",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "discus",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "baseball diamond",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skibobbing",
+      "hint": "Act out: skibobbing"
+    },
+    {
+      "word": "badminton",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "shoot",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skateboarding",
+      "hint": "Act out: skateboarding"
+    },
+    {
+      "word": "equipment",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "water volleyball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "free running",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "arm wrestling",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "points",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "opening ceremony",
+      "hint": "Act out: opening ceremony"
+    },
+    {
+      "word": "table tennis (ping pong)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pass interference",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "lineman",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "contact sport",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "three-pointer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skydiving",
+      "hint": "Act out: skydiving"
+    },
+    {
+      "word": "snap",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hurdles",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "catch",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "FIFA",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "line of scrimmage",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "stopwatch",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "touchdown",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Jackie Robinson",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "curling stone",
+      "hint": "Act out: curling stone"
+    },
+    {
+      "word": "10K run",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "basketball hoop",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rock climbing gym",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "high school",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "receiver",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "practice",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ATV racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "third plate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Tiger Woods",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wakeboarding",
+      "hint": "Act out: wakeboarding"
+    },
+    {
+      "word": "butterfly stroke",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "serve",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "motorcycle racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Babe Ruth",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sprain",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tag",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "air-ball (in basketball)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "punter",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "shuttlecock",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tournament",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Inline speed skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "shot clock",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "teeing ground",
+      "hint": "Act out: teeing ground"
+    },
+    {
+      "word": "shot put",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rafting",
+      "hint": "Act out: rafting"
+    },
+    {
+      "word": "Michael Phelps",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Super Bowl",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Muhammad Ali",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "black belt",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "score",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "defensive unit",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "baseball mitt",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "team captain",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "jump shot",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "chariot racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pro",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "LeBron James",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf tee",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "5K run",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "back flip",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bronze medal",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "soccer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "archery",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bull riding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "disc golf (frisbee golf)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fourth quarter",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hockey",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "steer wrestling",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tug-o-war",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "barrel racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "helmet",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "broadcast",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "road racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Tony Hawk",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf course",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "crowd",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "swimming pool",
+      "hint": "Act out: swimming pool"
+    },
+    {
+      "word": "foul",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tetherball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fourth down",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "breaststroke",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "freestyle swimming",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "harness",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "decathlon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "water basketball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fencing",
+      "hint": "Act out: fencing"
+    },
+    {
+      "word": "stamina",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skimboarding",
+      "hint": "Act out: skimboarding"
+    },
+    {
+      "word": "batting order",
+      "hint": "Act out: batting order"
+    },
+    {
+      "word": "ice hockey",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "game point",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "icosathlon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "parallel bars",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "silver medal",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "boxing gloves",
+      "hint": "Act out: boxing gloves"
+    },
+    {
+      "word": "tight end",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pass",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bodybuilding",
+      "hint": "Act out: bodybuilding"
+    },
+    {
+      "word": "go pro",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "spike",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "gym",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ice climbing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Cristiano Ronaldo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "league",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "parachuting",
+      "hint": "Act out: parachuting"
+    },
+    {
+      "word": "bodyboarding",
+      "hint": "Act out: bodyboarding"
+    },
+    {
+      "word": "inning",
+      "hint": "Act out: inning"
+    },
+    {
+      "word": "free throw",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "triple (in baseball)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "modern pentathlon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skeleton",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fullback",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "beach volleyball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ice skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf club",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "scuba diving",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "team roping",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hockey mask",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "batter",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "backboard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kite surfing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "shoulder pads",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "referee",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "The Mighty Ducks",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "home plate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "baseball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "net",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "throw",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fan",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "martial arts",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "croquet",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "triathlon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fracture",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "handball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "lose",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "halftime",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "indoor soccer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "high jump",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "opponent",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "street hockey",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "NFL",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "drag racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "jujutsu",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "horse racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "turnover",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pentathlon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "punt",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "endurance",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bronc riding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kickoff",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Cool Runnings",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "figure skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tennis court",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kayaking",
+      "hint": "Act out: kayaking"
+    },
+    {
+      "word": "taekwondo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "surf's up",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "karate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Olympian",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "zone defense",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "marathon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bobsleigh",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "dodgeball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kickboxing",
+      "hint": "Act out: kickboxing"
+    },
+    {
+      "word": "longboard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ESPN",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "windsurfing",
+      "hint": "Act out: windsurfing"
+    },
+    {
+      "word": "snowboard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "layup",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "end zone",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sports announcer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "motocross",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wipe out",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "parkour",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "chalk",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "surfing",
+      "hint": "Act out: surfing"
+    },
+    {
+      "word": "backstroke",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "coin toss",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ice rink",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "two-point conversion",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "mountain biking",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bouldering",
+      "hint": "Act out: bouldering"
+    },
+    {
+      "word": "marching band",
+      "hint": "Act out: marching band"
+    },
+    {
+      "word": "trophy",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "dojo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "whistle",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bowling",
+      "hint": "Act out: bowling"
+    },
+    {
+      "word": "tie",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "offside",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "swimwear",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "touch football",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Wayne Gretzky",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "stretching",
+      "hint": "Act out: stretching"
+    },
+    {
+      "word": "palm strike",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "field goal",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "powerlifting",
+      "hint": "Act out: powerlifting"
+    },
+    {
+      "word": "bodycheck",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "catcher",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sponsorship",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hiking",
+      "hint": "Act out: hiking"
+    },
+    {
+      "word": "jousting",
+      "hint": "Act out: jousting"
+    },
+    {
+      "word": "track and field",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fastball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "competition",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "color guard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "halfback",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "uniform number",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "putting green",
+      "hint": "Act out: putting green"
+    },
+    {
+      "word": "athlete",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Quidditch",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "traveling (in basketball)",
+      "hint": "Act out: traveling (in basketball)"
+    },
+    {
+      "word": "rules",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "synchronized swimming",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "knife throwing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "puck",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "run",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "snowshoeing",
+      "hint": "Act out: snowshoeing"
+    },
+    {
+      "word": "second plate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "game clock",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "skate park",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf caddy",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "manager",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "goal",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "acrobatic gymnastics",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "strength",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rappelling",
+      "hint": "Act out: rappelling"
+    },
+    {
+      "word": "rope climbing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "softball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "roping",
+      "hint": "Act out: roping"
+    },
+    {
+      "word": "knee strike",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "umpire",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "team",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "second-string",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kickball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rebound",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "long jump",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "runs",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rowing",
+      "hint": "Act out: rowing"
+    },
+    {
+      "word": "holding",
+      "hint": "Act out: holding"
+    },
+    {
+      "word": "out-of-bounds",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "luge",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "game plan",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "overtime",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wetsuit",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "boxing ring",
+      "hint": "Act out: boxing ring"
+    },
+    {
+      "word": "rock climbing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "curling",
+      "hint": "Act out: curling"
+    },
+    {
+      "word": "punch",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Pele",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "lacrosse",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "play book",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "quarterback",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "putter",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "officials",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "volleyball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "flexibility",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "capture the flag",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Michael Jordan",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "disqualified",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "racquetball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "vault",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "racquet",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "game, set, match",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "knee boarding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "first plate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "trainer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "professional wrestling",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rugby",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "penalty",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "safety kick",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "the Olympics",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bruise",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "yard lines",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "180ÃÂ°",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Olympic flag",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Bruce Lee",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "outs",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "equestrian",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sand trap",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "white water river rafting",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "four square",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "steal a base",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sprint",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hang ten",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "strike zone",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wrestling",
+      "hint": "Act out: wrestling"
+    },
+    {
+      "word": "flag football",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "trampolining",
+      "hint": "Act out: trampolining"
+    },
+    {
+      "word": "foul ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf bag",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "major league",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "slam dunk",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sacking the quarterback",
+      "hint": "Act out: sacking the quarterback"
+    },
+    {
+      "word": "sportsmanship",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tennis",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "three outs",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Chariots of Fire",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "home run",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sailing",
+      "hint": "Act out: sailing"
+    },
+    {
+      "word": "statistics",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "roller skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "minor league",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "cricket",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "field hockey",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "mouth guard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kite boarding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Roger Federer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pocket billiards (pool)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "block (in football)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "coach",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "man-to-man defense",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "goalkeeper",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hurling",
+      "hint": "Act out: hurling"
+    },
+    {
+      "word": "billiards",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "uneven bars",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "X-Games",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "par",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "basketball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "conversion",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "saddle bronc riding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "kick",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "cycling",
+      "hint": "Act out: cycling"
+    },
+    {
+      "word": "assistant coach",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bout",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "snowboarding",
+      "hint": "Act out: snowboarding"
+    },
+    {
+      "word": "belay",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sideline",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wallball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fairway",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Lionel Messi",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "street ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf cart",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "gymnastics",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "NBA",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fumble",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "off-roading",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bicycle",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pitcher's mound",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "extreme sport",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "train",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hot air balloon racing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tumbling",
+      "hint": "Act out: tumbling"
+    },
+    {
+      "word": "curveball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "strategy",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "sumo wrestling",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "cliff diving",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "half marathon",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "360ÃÂ°",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "forward pass",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wheelie",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "inline skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wood chopping",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "paintball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "walking",
+      "hint": "Act out: walking"
+    },
+    {
+      "word": "offensive line",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pole vault",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Rocky",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "jump rope",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "field",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "diving",
+      "hint": "Act out: diving"
+    },
+    {
+      "word": "point guard",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "offense",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "rodeo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "stadium",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Remember the Titans",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "broomball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Zamboni machine",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "cross-country skiing",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "World Cup",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "win",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "shortstop",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "world championship",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "linebacker",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "dugout",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "amateur",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Bo Jackson",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tennis ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "player",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "concession stand",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "swimming",
+      "hint": "Act out: swimming"
+    },
+    {
+      "word": "hockey stick",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "fitness",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "demolition derby",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "gold medal",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "huddle",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "uniform",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "golf ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "polo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "scorebook",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "boxing",
+      "hint": "Act out: boxing"
+    },
+    {
+      "word": "safeties",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "bareback bronc riding",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hit",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Maria Sharapova",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tackle",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Mia Hamm",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "downs (in football)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "recovery",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "agility",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "college",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "judo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "yards (football)",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "flying trapeze",
+      "hint": "Act out: flying trapeze"
+    },
+    {
+      "word": "forehand",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "chain crew",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "carabineer",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ultimate frisbee",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "roller derby",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "subs",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "water polo",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "wide receiver",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "speed skating",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "timeout",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "game",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "football",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "an assist",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "football helmet",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "weightlifting",
+      "hint": "Act out: weightlifting"
+    },
+    {
+      "word": "injury",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "intentional foul",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "defense",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Brazilian Jiu-Jitsu",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "pitcher",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "David Beckham",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "half-pipe",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "teammate",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "balance beam",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "dropkick",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "jump ball",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "ski jumping",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "play",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "hole in one",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Carl Lewis",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "canoeing",
+      "hint": "Act out: canoeing"
+    },
+    {
+      "word": "Olympic flame",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "Ragnar Relay Series",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "tee",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "running",
+      "hint": "Act out: running"
+    },
+    {
+      "word": "BMX",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "backhand",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "scrimmage",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "goalpost",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "the bench",
+      "hint": "Guess this sports term!"
+    },
+    {
+      "word": "interception",
+      "hint": "Guess this sports term!"
+    }
+  ]
+}

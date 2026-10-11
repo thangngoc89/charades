@@ -1,0 +1,491 @@
+{
+  "id": "gamegal-holidays-23",
+  "name": "Fourth of July",
+  "icon": "🎆",
+  "game_id": 4,
+  "category_id": 23,
+  "theme": "holidays",
+  "count": 120,
+  "words": [
+    {
+      "word": "New York",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "flag",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "block party",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "summer",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "John Hancock",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "united",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Pennsylvania",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "carnival",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "life, liberty, and the pursuit of happiness",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "band",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "patriot",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "colonies",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Statue of Liberty",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Delaware",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "shows",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Thomas Paine",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "hot dogs",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "My Country 'Tis of Thee",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Patrick Henry",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "North Carolina",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "red, white, and blue",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Francis Scott Key",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "South Carolina",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Betsy Ross",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "baseball",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Thomas Jefferson",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "family reunions",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "fireworks",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "God Bless the U.S.A.",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "independence",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "inalienable rights",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Declaration of Independence",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Alexander Hamilton",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "speeches",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "freedom",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "stars and stripes",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "games",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "American Revolution",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "soda",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "pride",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Yankee Doodle",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "ice cream",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "America",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Rhode Island",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "minutemen",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "celebration",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "New Hampshire",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "potato salad",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "firecracker",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "floats",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Virginia",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "corn on the cob",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "England",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "red",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Revolutionary War",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Massachusetts",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "s'mores",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "fair",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "music",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "national anthem",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "sports",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "parks",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "stripes",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Star Spangled Banner",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Independence Day",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "concerts",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "pie",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "balloons",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "eagle",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Common Sense",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "blue",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Connecticut",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "republicanism",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "states",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Treaty of Paris",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "New Jersey",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "This Land is Your Land",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "the Constitution",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "liberty",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "coleslaw",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "James Madison",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "candy",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "1776",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "barbeque",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Boston Tea Party",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "bonfires",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "national holiday",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "picnic",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "You're a Grand Old Flag",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "taxes",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "streamers",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "the Pledge of Allegiance",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "hamburgers",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "democracy",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "July",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "parade",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "John Adams",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "liberty and justice for all",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "justice",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "God Bless America",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "congress",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "fun",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "watermelon",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "patriotism",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "America the Beautiful",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "founding fathers",
+      "hint": "Act out: founding fathers"
+    },
+    {
+      "word": "anthem",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "family",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "party",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Maryland",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "the Liberty Bell",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "stars",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Georgia",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Benjamin Franklin",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "George Washington",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "sparklers",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "white",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "thirteen colonies",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "Boston",
+      "hint": "Guess this fourth of july term!"
+    },
+    {
+      "word": "travel",
+      "hint": "Guess this fourth of july term!"
+    }
+  ]
+}

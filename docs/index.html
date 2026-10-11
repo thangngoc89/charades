@@ -9,7 +9,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css?v=7">
+  <link rel="stylesheet" href="style.css?v=8">
 </head>
 <body>
 
@@ -43,9 +43,13 @@
 
     <!-- Tab Navigation -->
     <nav class="tab-nav">
-      <button class="tab-btn active" data-tab="kids">🧒 Kids (&lt;10)</button>
+      <button class="tab-btn active" data-tab="vietnam">🇻🇳 Việt Nam</button>
+      <button class="tab-btn" data-tab="holidays">🎄 Holidays</button>
+      <button class="tab-btn" data-tab="wedding">💍 Wedding</button>
+      <button class="tab-btn" data-tab="gamegal">🎭 The Game Gal</button>
       <button class="tab-btn" data-tab="adults">🥑 Millennials</button>
-      <button class="tab-btn" data-tab="custom">✏️ Custom Decks</button>
+      <button class="tab-btn" data-tab="kids">🧒 Kids (&lt;10)</button>
+      <button class="tab-btn" data-tab="custom">✏️ Custom &amp; Auto</button>
     </nav>
 
     <!-- Round Duration Bar -->
@@ -214,6 +218,86 @@
     </div>
   </div>
 
+  <!-- GAME GAL AUTO GENERATOR & IMPORTER MODAL -->
+  <div class="modal-overlay" id="gamegal-modal">
+    <div class="modal-card" style="max-width: 540px;">
+      <div class="modal-header">
+        <h2 class="modal-title">⚡ Game Gal Word Generator</h2>
+        <button class="close-btn" data-close="gamegal-modal">&times;</button>
+      </div>
+
+      <div style="font-size: 0.85rem; color: #94a3b8; margin-bottom: 1.1rem; line-height: 1.4;">
+        Directly import &amp; generate custom charades decks from <strong>thegamegal.com</strong> themes!
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="gamegal-game-select">Select Game Theme</label>
+        <select id="gamegal-game-select" class="form-input" style="background:#1e293b; font-weight:600;">
+          <option value="4" selected>Western Holidays (Christmas, Halloween, Thanksgiving...)</option>
+          <option value="5">Charades (Actions, Easy, Medium, Hard)</option>
+          <option value="8">Movies (Disney &amp; Pixar, Animated, Comedies, Sci-Fi)</option>
+          <option value="1">Subjects &amp; Themes (Animals, Food, Sports, Places, Nature)</option>
+          <option value="7">Wordplay (Idioms &amp; Sayings, Opposites, Pairs)</option>
+          <option value="2">Pictionary (Easy, Medium, Hard)</option>
+          <option value="3">Catchphrase (Easy, Medium, Hard)</option>
+          <option value="9">Famous People &amp; Characters</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="gamegal-cat-select">Category</label>
+        <select id="gamegal-cat-select" class="form-input" style="background:#1e293b; font-weight:600;">
+          <!-- Dynamically populated -->
+        </select>
+      </div>
+
+      <div style="display:flex; gap:0.75rem; align-items:center; margin-bottom:1rem;">
+        <div style="flex:1;">
+          <label class="form-label" for="gamegal-count-select">Words to Grab</label>
+          <select id="gamegal-count-select" class="form-input" style="background:#1e293b;">
+            <option value="25" selected>25 words (Quick Round)</option>
+            <option value="50">50 words (Standard Party)</option>
+            <option value="100">100 words (Mega Party)</option>
+            <option value="all">All Available Words</option>
+          </select>
+        </div>
+        <div style="width:90px;">
+          <label class="form-label" for="gamegal-deck-icon">Icon</label>
+          <input type="text" id="gamegal-deck-icon" class="form-input" value="🎲" maxlength="2" style="text-align:center; font-size:1.3rem;">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="gamegal-deck-title">Deck Title</label>
+        <input type="text" id="gamegal-deck-title" class="form-input" placeholder="Deck Name">
+      </div>
+
+      <div style="display:flex; gap:0.5rem; margin-bottom:1rem;">
+        <button type="button" id="gamegal-fetch-btn" class="btn-primary" style="flex:1; background:linear-gradient(135deg, #6366f1, #a855f7);">
+          ⚡ Fetch &amp; Preview Words
+        </button>
+      </div>
+
+      <!-- Live Preview Area -->
+      <div id="gamegal-preview-area" style="display:none; margin-bottom:1.25rem; max-height:160px; overflow-y:auto; background:rgba(15,23,42,0.8); border:1px solid rgba(255,255,255,0.1); border-radius:12px; padding:0.75rem;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+          <span id="gamegal-preview-count" style="font-weight:700; font-size:0.85rem; color:#38bdf8;">0 words loaded</span>
+          <span style="font-size:0.75rem; color:#94a3b8;">Word list sample</span>
+        </div>
+        <div id="gamegal-preview-chips" style="display:flex; flex-wrap:wrap; gap:0.35rem;"></div>
+      </div>
+
+      <div style="display:flex; gap:0.75rem;">
+        <button type="button" id="gamegal-save-deck-btn" class="btn-primary" style="flex:1;" disabled>
+          💾 Save as New Deck
+        </button>
+        <button type="button" id="gamegal-play-now-btn" class="btn-primary" style="flex:1; background:linear-gradient(135deg, #10b981, #059669);" disabled>
+          ▶ Play Now
+        </button>
+      </div>
+    </div>
+  </div>
+
   <!-- SETTINGS MODAL -->
   <div class="modal-overlay" id="settings-modal">
     <div class="modal-card">
@@ -276,6 +360,6 @@
   <!-- TOAST NOTIFICATION -->
   <div id="toast" class="toast">Action Saved</div>
 
-  <script type="module" src="app.js?v=7"></script>
+  <script type="module" src="app.js?v=8"></script>
 </body>
 </html>

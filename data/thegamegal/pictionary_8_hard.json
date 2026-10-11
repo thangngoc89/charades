@@ -1,0 +1,2375 @@
+{
+  "id": "gamegal-pictionary-8",
+  "name": "Hard",
+  "icon": "🖌️",
+  "game_id": 2,
+  "category_id": 8,
+  "theme": "pictionary",
+  "count": 591,
+  "words": [
+    {
+      "word": "telephone booth",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bulldog",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pet store",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hut",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "laser",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "skating rink",
+      "hint": "Act out: skating rink"
+    },
+    {
+      "word": "leather",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vanilla",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "actor",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tide",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bleach",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cherub",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drawback",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "turtleneck",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "economics",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "postcard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "glue stick",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "zoom",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "baguette",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ski lift",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "thief",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "toddler",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "coastline",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "idea",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "quartz",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "scream",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "carpet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fade",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "plow",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shampoo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cockpit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "peace",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ceiling fan",
+      "hint": "Act out: ceiling fan"
+    },
+    {
+      "word": "beanstalk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "suit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "CD",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fireman pole",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "omnivore",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "song",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "punk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "letter opener",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dew",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "peasant",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yolk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "learn",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "edge",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pile",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "end zone",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rhythm",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rind",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ornament",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cheat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "water cycle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "photosynthesis",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "professor",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cell phone charger",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hydrogen",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "print",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rib",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wag",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dashboard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pizza sauce",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "school",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dead end",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "religion",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "reveal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "deliver",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "prey",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "half",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "earache",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "snarl",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gallon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "thunder",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sunrise",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drain",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shrink ray",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "putty",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "leak",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "quicksand",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chestnut",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "grasslands",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hail",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "judge",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "blush",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lumberyard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vein",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "driveway",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hovercraft",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "coil",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cloak",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "snag",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "jazz",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bald",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fizz",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "toothpaste",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "flu",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gumball",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "retail",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "back flip",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "swing dancing",
+      "hint": "Act out: swing dancing"
+    },
+    {
+      "word": "bonnet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "date",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "connection",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sponge",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sugar",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sneeze",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "clown",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mold",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stew",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "exercise",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lie",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "handle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "atlas",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dentist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "steam",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fabric",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cliff diving",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "script",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "zipper",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "time machine",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "conveyor belt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "aircraft carrier",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "salmon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chariot",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "receipt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "spaceship",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stopwatch",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cliff",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "extension cord",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "neighborhood",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "carpenter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ski goggles",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "full",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ratchet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fiance",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lunar rover",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "oar",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "character",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cattle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "crop duster",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "president",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "haircut",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "newsletter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "palace",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "orbit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "frost",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drill bit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "engaged",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pest",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hospital",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fresh water",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "right",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hoop",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "world",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "violent",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bargain",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "washing machine",
+      "hint": "Act out: washing machine"
+    },
+    {
+      "word": "nanny",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "glue gun",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "double",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fast food",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cousin",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "calm",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stadium",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "distance",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pharaoh",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "human",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "swoop",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "limit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "signal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "team",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stow",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "foam",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "optometrist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fiddle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yardstick",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sash",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "parade",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "toy store",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "roommate",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "recess",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vacation",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "welder",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cuckoo clock",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chameleon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hand soap",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "athlete",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "goalkeeper",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gold medal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ginger",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "miner",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "jungle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "aunt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sandpaper",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pocket",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dance",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "factory",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pail",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "runoff",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "irrigation",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drugstore",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "manatee",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pickup truck",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tow truck",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cellar",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "blizzard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chariot racing",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "front",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "flock",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cruise",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "clique",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "obey",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "honk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sticky note",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "invent",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "toll road",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drought",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fur",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "edit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "macho",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ounce",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "organ",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "picnic",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "soak",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ruby",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cot",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cushion",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "compare",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ping pong",
+      "hint": "Act out: ping pong"
+    },
+    {
+      "word": "carat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cabin",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wobble",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "density",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "geyser",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "musician",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sandbox",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "headache",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tag",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pharmacist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dripping",
+      "hint": "Act out: dripping"
+    },
+    {
+      "word": "cello",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "saddle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pawn",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "crow's nest",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yodel",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "plank",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "thaw",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yacht",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "win",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "clamp",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chisel",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "weather",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "birthday",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dizzy",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "baby-sitter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "robe",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "quit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "glitter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "trail",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "check",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "airport security",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "time",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sap",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "plastic",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wig",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drive-through",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ashamed",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "traffic jam",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stationery",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shrew",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "icicle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "correct",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bride",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dress shirt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chef",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gas station",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hot tub",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "videogame",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wooly mammoth",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stage fright",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chemical",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "somersault",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "macaroni",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "living room",
+      "hint": "Act out: living room"
+    },
+    {
+      "word": "crust",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "student",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "apathetic",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "snooze",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "goblin",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "baggage",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cruise ship",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "raft",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "commercial",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "last",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chain mail",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "government",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lap",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "elf",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dawn",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "moth",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "taxes",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sushi",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "twist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sled",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "speakers",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "laundry detergent",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "competition",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "volleyball",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "eighteen-wheeler",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mirror",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ringleader",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mysterious",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sleep",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "braid",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "downpour",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "owner",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "taxidermist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "publisher",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "concession stand",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "recycle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chime",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gold",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tip",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yak",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "propose",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "Quidditch",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ream",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "garden hose",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "accounting",
+      "hint": "Act out: accounting"
+    },
+    {
+      "word": "mascot",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "university",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "water buffalo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "myth",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cough",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "crime",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "surround",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cartoon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lance",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rodeo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "black belt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "thrift store",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "nightmare",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "comfy",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "jigsaw",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vegetarian",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ivy",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dryer sheets",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "police",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "border",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "nap",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stutter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "first class",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "Jedi",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "migrate",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hermit crab",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "diagonal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "seat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "passenger",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "roller coaster",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "monsoon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stuffed animal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "degree",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dodgeball",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "arcade",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "electrical outlet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tin",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "blueprint",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "grocery store",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bookend",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chess",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "toolbox",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "boxing",
+      "hint": "Act out: boxing"
+    },
+    {
+      "word": "pain",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "password",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "albatross",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "trombone",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "scuff mark",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "balance beam",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rubber",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "knight",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hour",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "yawn",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cure",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "page",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "oxcart",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dent",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tackle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "barber",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "puppet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "art gallery",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "carnival",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lace",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lunch tray",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "science",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "poison",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "earthquake",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "avocado",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "loveseat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "testify",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mine",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gasoline",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sunburn",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "quadrant",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sweater",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "s'mores",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "RV",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mime",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lung",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bookstore",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "Heinz 57",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dream",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "son-in-law",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "season",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "coach",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cargo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "zoo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wool",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "best friend",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "clog",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wind",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vanish",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "elope",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cape",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shower curtain",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shelter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bobsled",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "beluga whale",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "parent",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "plantation",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wax",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "synchronized swimming",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "junk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "acrobat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "caviar",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "delivery",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "costume",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "shack",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "molar",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "truck stop",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "groom",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mayor",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hairspray",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "baseboards",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chairman",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tearful",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sun block",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wheelie",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "kneel",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "midnight",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "company",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "van",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vehicle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "firefighter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "movie",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "darts",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "imagine",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "catalog",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tow",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "chicken coop",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "parking garage",
+      "hint": "Act out: parking garage"
+    },
+    {
+      "word": "partner",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "country",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "startup",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "Internet",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fortress",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "jeans",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "great-grandfather",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "freshman",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "houseboat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "disc jockey",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "applause",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lecture",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "brand",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "banister",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "taxi",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "drip",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "homework",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "spare",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "trip",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dorsal",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "trapped",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "boa constrictor",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "captain",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pigpen",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lullaby",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "florist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wrap",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "printer ink",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "classroom",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "scuba diving",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sweater vest",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "diver",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "advertisement",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "barbershop",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "staple",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "important",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "logo",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "landscape",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tugboat",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stage",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "vitamin",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "germ",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "log-in",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "lipstick",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "torch",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "swarm",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "download",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "safe",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "level",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "mast",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ticket",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tourist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cable car",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bruise",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rudder",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "amusement park",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "customer",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "boulevard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "prize",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "guarantee",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "swamp",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "record",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "injury",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "golf cart",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cream",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "prime meridian",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "plumber",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "interception",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "reservoir",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "gown",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "stay",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wallow",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "wedding cake",
+      "hint": "Act out: wedding cake"
+    },
+    {
+      "word": "servant",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "softball",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sword swallower",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "landlord",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "koala",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "devious",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "point",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pilot",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rut",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "pro",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hipster",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "centimeter",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tank",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "ditch",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "foil",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "think",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cleaning spray",
+      "hint": "Act out: cleaning spray"
+    },
+    {
+      "word": "tiptoe",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "expert",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "juggle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "darkness",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "whisk",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cowboy",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cubicle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fireside",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "fog",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "flavor",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "crate",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "humidity",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "post office",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cheerleader",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "coworker",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "cardboard",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "grandpa",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "heater",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "rim",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "snore",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "crane",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "attack",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hurdle",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "biscuit",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "car dealership",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "produce",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "sheep dog",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "story",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "tablespoon",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "bedbug",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "dust bunny",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "runt",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "geologist",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "eraser",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "hang glider",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "jaw",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "husband",
+      "hint": "Guess this hard term!"
+    },
+    {
+      "word": "deep",
+      "hint": "Guess this hard term!"
+    }
+  ]
+}

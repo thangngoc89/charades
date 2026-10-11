@@ -1,0 +1,695 @@
+{
+  "id": "gamegal-holidays-24",
+  "name": "Halloween",
+  "icon": "🎃",
+  "game_id": 4,
+  "category_id": 24,
+  "theme": "holidays",
+  "count": 171,
+  "words": [
+    {
+      "word": "candy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fortune teller",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "mummy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "scarecrow",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "frightened",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fangs",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "masquerade",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "gory",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "grave",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "corn maze",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "tiara",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "skeleton",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "spider",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "party",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fantasy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "pumpkin",
+      "hint": "Carving a spooky face for a Jack-o'-lantern"
+    },
+    {
+      "word": "robot",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "broomstick",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "grim",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "tarantula",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "dead",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "hocus pocus",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "zombie",
+      "hint": "Shuffling feet, arms outstretched: Braaains!"
+    },
+    {
+      "word": "moon",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "trick or treat",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "black cat",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "spooks",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "spooky",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "pumpkin seeds",
+      "hint": "Carving a spooky face for a Jack-o'-lantern"
+    },
+    {
+      "word": "tombstone",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "doorbell",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "magic",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "poltergeist",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "scary",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "frightening",
+      "hint": "Act out: frightening"
+    },
+    {
+      "word": "midnight",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cowgirl",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "morbid",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "hay ride",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ghost",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ghoul",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "phantasm",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "mad scientist",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "web",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "superstition",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cobweb",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "bats",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "goblin",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "wizard",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "afterlife",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "vampire",
+      "hint": "Fangs, cape, allergic to garlic & sunlight"
+    },
+    {
+      "word": "potion",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "autumn",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "haunt",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ogre",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "alien",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "weird",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "witch",
+      "hint": "Pointy hat, broomstick, cackling over a cauldron"
+    },
+    {
+      "word": "prince",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "warlock",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "October",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "werewolf",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "make-believe",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "dress-up",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "strange",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "trick",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "sweets",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "troll",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "carve",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fear",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "nightmare",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cadaver",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "firefighter",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "dark",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "supernatural",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "eerie",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fall",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "Dracula",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cackle",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "disguise",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "candle",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "gravestone",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "corpse",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "black",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "wand",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "eyepatch",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "lollipop",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "clown",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "magic wand",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "face paint",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "scream",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "blood",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "horror",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ninja",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "going trick-or-treating",
+      "hint": "Act out: going trick-or-treating"
+    },
+    {
+      "word": "creepy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "RIP",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "afraid",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cauldron",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cemetery",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ballerina",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "chains",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "mysterious",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "gypsy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "orange",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "shadow",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "secret lab",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "pitchfork",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "haunted house",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "demon",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "headstone",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "ghost story",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "costume",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "imp",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "macabre",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cowboy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "Ghostbusters",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "spider web",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "Monster Mash",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "Igor",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "goody bag",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "apparition",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "tutu",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "jack-o-lantern",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "hair-raising",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "bizarre",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "haunted",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "tomb",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "graveyard",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "mask",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fog",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "boo",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "nighttime",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "owl",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "skull",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "flashlight",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "moonlight",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "chocolate",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "treat",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "wig",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "spells",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "make-up",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "Frankenstein",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "prank",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "scary movies",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "coffin",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "bogeyman",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "hat",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "bone",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "crypt",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "apple cider",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "lantern",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "pirate",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "monster",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "superhero",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "hayride",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "thirty-first",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "marshmallow",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cape",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "eyeball",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "phantom",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "scare",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "casket",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "mist",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "fairy",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "beast",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "candy corn",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "genie",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "cloak",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "howl",
+      "hint": "Spooky Halloween character or tradition!"
+    },
+    {
+      "word": "princess",
+      "hint": "Spooky Halloween character or tradition!"
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "id": "gamegal-individuals-92",
+  "name": "Celebrities",
+  "icon": "🌟",
+  "game_id": 9,
+  "category_id": 92,
+  "theme": "individuals",
+  "count": 187,
+  "words": [
+    {
+      "word": "Rachel McAdams",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Elton John",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Donald Trump",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "The Police",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Charles Chaplin",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Weird Al Yankovick",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jodie Foster",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "David Blaine",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Drew Barrymore",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mariah Carey",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Robert Downey Jr.",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Andrew Lloyd Webber",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Danny Glover",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Robin Williams",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Eminem",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Russell Crowe",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Dakota Fanning",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Nicole Kidman",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jackie Chan",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Michael J. Fox",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Channing Tatum",
+      "hint": "Act out: Channing Tatum"
+    },
+    {
+      "word": "Tom Hiddleston",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Denzel Washington",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Adele",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jake Gyllenhaal",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Reese Witherspoon",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Arnold Schwarzenegger",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ryan Seacrest",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jean-Claude Van Damme",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Cameron Diaz",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Rihanna",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Roger Federer",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Beyonce",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Celine Dion",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Warren Buffett",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Daniel Radcliffe",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Martin Sheen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mandy Moore",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Will Smith",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "U2",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "David Copperfield",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Dan Brown",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Brad Pitt",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Natalie Portman",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "PelÃÂ©",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Pierce Brosnan",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Shia LaBeouf",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "George Lucas",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Brendan Fraser",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Christian Bale",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jennifer Lopez",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Adam Sandler",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bruce Lee",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Emma Stone",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Emma Watson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "John Travolta",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Kevin Spacey",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Johnny Depp",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Madonna",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Katy Perry",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Cristiano Ronaldo",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Kate Winslet",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "James Cameron",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Backstreet Boys",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Garth Brooks",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mark Zuckerberg",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ben Affleck",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Steve Martin",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Dr. Phil McGraw",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Hillary Clinton",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tiger Woods",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tim Allen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Stephen King",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ellen DeGeneres",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Alicia Keys",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Steven Spielberg",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Neil Diamond",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jack Nicholson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Harrison Ford",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Michael Phelps",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Michael Jordan",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Orlando Bloom",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Chris Hemsworth",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Marlon Brando",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ben Stiller",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Nicolas Cage",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "George Clooney",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bill Clinton",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "James Franco",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Floyd Mayweather, Jr.",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mark Wahlberg",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Zac Efron",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "OK Go",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Barack Obama",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Stephanie Meyer",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mel Gibson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Penn & Teller",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Taylor Swift",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Macaulay Culkin",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Whoopi Goldberg",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "James Earl Jones",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Eddie Murphy",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Steve Carell",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Sandra Bullock",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Matt Damon",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jennifer Aniston",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Will Ferrell",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Keira Knightley",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bruce Springsteen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Lady Gaga",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Samuel L. Jackson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Coldplay",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Angelina Jolie",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Julia Roberts",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Kevin Bacon",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Britney Spears",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Owen Wilson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "David Beckham",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Mary-Kate and Ashley Olsen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Elon Musk",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Hugh Jackman",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "John Williams",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "One Direction",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Sean Connery",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ewan McGregor",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Kobe Bryant",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Sigourney Weaver",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Cher",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "J.K. Rowling",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jack Black",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Robert De Niro",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "the Beatles",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Rush Limbaugh",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Regis Philbin",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Simon Cowell",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jerry Seinfeld",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jonathan Taylor Thomas",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Keanu Reeves",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tony Hawk",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "LeBron James",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Liam Neeson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Lionel Messi",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jay-Z",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Al Pacino",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Heath Ledger",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Paul McCartney",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Peyton Manning",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Howard Stern",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Antonio Banderas",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jet Li",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tommy Lee Jones",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tom Cruise",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Matthew Broderick",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Justin Bieber",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Halle Berry",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Scarlett Johansson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Shaquille O'Neal",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Amanda Bynes",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Peter Jackson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "James McAvoy",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Dick Van Dyke",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "James Taylor",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jim Carrey",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Elijah Wood",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "The Rolling Stones",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bill Gates",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Lance Armstrong",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Paula Deen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Anne Hathaway",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Tom Hanks",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Dwayne Johnson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Morgan Freeman",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Jimmy Fallon",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Ian McKellen",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Carrie Fisher",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Clint Eastwood",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "NSYNC",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Queen Latifah",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Kim Kardashian",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Sylvester Stallone",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bruce Willis",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Vladmir Putin",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Bill Murray",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Daniel Craig",
+      "hint": "Guess this celebrities term!"
+    },
+    {
+      "word": "Leonardo DiCaprio",
+      "hint": "Guess this celebrities term!"
+    }
+  ]
+}

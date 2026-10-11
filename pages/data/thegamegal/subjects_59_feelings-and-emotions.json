@@ -1,0 +1,2595 @@
+{
+  "id": "gamegal-subjects-59",
+  "name": "Feelings and Emotions",
+  "icon": "🎭",
+  "game_id": 1,
+  "category_id": 59,
+  "theme": "subjects",
+  "count": 646,
+  "words": [
+    {
+      "word": "fascinated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disheartened",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stimulated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ambivalent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "betrayed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "regret",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "inconsolable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wary",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "embarrassed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tireless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "forgetful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "petulant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "doubtful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "humorless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "boundless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fierce",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "suspicious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unfocused",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "surprised",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "involved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fulfilled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "holier than thou",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disturbed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enlivened",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mortified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "supportive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sympathetic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "healthy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "degraded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "strong",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disorganized",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "energetic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "daring",
+      "hint": "Act out: daring"
+    },
+    {
+      "word": "mysterious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "responsive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "seething",
+      "hint": "Act out: seething"
+    },
+    {
+      "word": "peaceful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "doubt",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "awed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "aware",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "throttled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "alienated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "snobbish",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "punctual",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "willful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "longing",
+      "hint": "Act out: longing"
+    },
+    {
+      "word": "remorse",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stifled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "irrational",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "oblivious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "arrogant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "engaged",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nice",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "doomed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "warm",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cruel",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vigorous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "paranoid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "depleted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "trusting",
+      "hint": "Act out: trusting"
+    },
+    {
+      "word": "balanced",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "perfection",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "scary",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "friendly",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dynamic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "patronized",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "shy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "conceited",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "torn",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "haughty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "trapped",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "controlled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tearful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rejuvenated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pure",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "deprived",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cool",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "compulsive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uneasy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "bothered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "invigorated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "panic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "irate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "optimistic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "clammy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "harmony",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stuck-up",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wanton",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hungry",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vibrant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "integrity",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "considerate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "impatient",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cheerful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "free",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "devastated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "aversion",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "volcanic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "gloating",
+      "hint": "Act out: gloating"
+    },
+    {
+      "word": "dazzled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hatred",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "interested",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "concerned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "selfish",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "reckless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "offended",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "radiant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "exuberant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "gloomy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "edgy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "bewildered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rested",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "slighted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "well-being",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ecstatic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "frantic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "alarmed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "itchy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rigid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "icy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "prejudiced",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "gracious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "grieving",
+      "hint": "Act out: grieving"
+    },
+    {
+      "word": "pity",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "deceived",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "repulsed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "agreeable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hypocritical",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "motivated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "humbled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vulnerable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "paralyzed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "demoralized",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "embracing",
+      "hint": "Act out: embracing"
+    },
+    {
+      "word": "axed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "clumsy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "thrilled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "simmering",
+      "hint": "Act out: simmering"
+    },
+    {
+      "word": "explosive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "petrified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "anticipation",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "happy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "proud",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hopeful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "exhilarated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "harmonious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "beautiful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wonder",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "eternal",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "overwhelmed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "touched",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "annoyed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hateful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nausea",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "compassionate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unloved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cooperative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "possessive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lascivious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "listless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pleased",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "failure",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "puzzled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "destructive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disenchanted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cranky",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "flustered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "grateful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stagnant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "zany",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sorry",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "centered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "initiative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "excited",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "delighted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "satisfied",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "spiteful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "forgotten",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "charming",
+      "hint": "Act out: charming"
+    },
+    {
+      "word": "mean",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "panicky",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sensitive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "forlorn",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "foreboding",
+      "hint": "Act out: foreboding"
+    },
+    {
+      "word": "self satisfied",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "desolate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "delightful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "desperate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "inhibited",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "adventurous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "troubled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "distraught",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "admired",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enchanted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "marvelous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "discarded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "whole",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "anxious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "elated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "helpless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "heartbroken",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "indecisive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "childlike",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "irritated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "alert",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "willing",
+      "hint": "Act out: willing"
+    },
+    {
+      "word": "glowing",
+      "hint": "Act out: glowing"
+    },
+    {
+      "word": "futile",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "steely",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "complacent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rebellious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "certain",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "gentle",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "obnoxious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "blue",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resistant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "self-conscious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "distressed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "alive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "expectant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mourning",
+      "hint": "Act out: mourning"
+    },
+    {
+      "word": "outraged",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "intrigued",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "worried",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "outrageous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "purposeful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stern",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "glorious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "intimidated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "distracted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "powerless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "boastful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fine",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "moved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resentful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "abrasive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "helpful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "giving",
+      "hint": "Act out: giving"
+    },
+    {
+      "word": "lethargic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hesitant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "regretful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "absorbed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "jealous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "joyous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "numb",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "grief",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nostalgic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wistful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pitiful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "devious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "jittery",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "timid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "aggravated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "violent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "encouraged",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "callous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "opinionated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "calm",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disdain",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "startled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fantastic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "kind",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tender",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ashamed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "decisive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "indifferent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "narrow-minded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hostile",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mistrustful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "thankful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "obsessed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "creepy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lost",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "remorseful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wretched",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "evasive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "undecided",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "crazy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "encouraging",
+      "hint": "Act out: encouraging"
+    },
+    {
+      "word": "perplexed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "frustrated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vicious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "worthless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "insecure",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "magnanimous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "melancholy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "naughty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "envy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pushy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "condemned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "independent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unhappy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rage",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wonderful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unfeeling",
+      "hint": "Act out: unfeeling"
+    },
+    {
+      "word": "awkward",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mellow",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "reserved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "coerced",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "smothered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dismayed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "irked",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "humor",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "open",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "used",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "defiant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "bad",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "splendid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "smoldering",
+      "hint": "Act out: smoldering"
+    },
+    {
+      "word": "gluttonous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "valued",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "inspired",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "aloof",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "deflated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "entranced",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "amazed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "worry",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sullen",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "shaky",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "driven",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stoic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "flexible",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stressed out",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "zealous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lively",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "equanimity",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "despised",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dull",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "testy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "affectionate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "thoughtless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pining",
+      "hint": "Act out: pining"
+    },
+    {
+      "word": "revived",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "good",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "amused",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "savage",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "foggy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "directionless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fortunate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tolerant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "thoughtful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "miserable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "agony",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lovely",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sore",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "positive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "relieved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "defeated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "exhilaration",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "turbulent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nervous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vain",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "explorative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unappreciated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disappointed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "shocked",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "envious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disconcerted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "competent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "scheming",
+      "hint": "Act out: scheming"
+    },
+    {
+      "word": "dogmatic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ill",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "demanding",
+      "hint": "Act out: demanding"
+    },
+    {
+      "word": "spellbound",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "terrible",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sleepy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enraged",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stage fright",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "discouraged",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resigned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nonresistant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unwanted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disquiet",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "aggressive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "curious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ignored",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "despair",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sharp",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "skeptical",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "receptive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "peeved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "intuitive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "renewed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "upset",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resilient",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "shaken",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "evil",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hunger",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "perturbed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enthusiastic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stubborn",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "defensive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stunned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "focused",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "burdened",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "leery",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ruthless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "clearheaded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "guilty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "misunderstood",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "left out",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dread",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "turmoil",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "giddy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "invincible",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "playful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dejected",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "obedient",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fair",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "empowered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "restless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "self absorbed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "angry",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "spoiled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "respected",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "contempt",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unnerved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "naturalness",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "faithful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "combative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hostility",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "beat",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "overindulgent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "understanding",
+      "hint": "Act out: understanding"
+    },
+    {
+      "word": "honorable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "grievous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "silly",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "discombobulated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "guarded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "indignant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mystified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unforgiving",
+      "hint": "Act out: unforgiving"
+    },
+    {
+      "word": "hurt",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "terrific",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tickled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "appalled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "superstitious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "panicked",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "abused",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "negative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unyielding",
+      "hint": "Act out: unyielding"
+    },
+    {
+      "word": "vengeful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sorrow",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "awful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "provoked",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vindictive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "secretive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "terrified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "manipulative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "gratified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hysterical",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "presumptuous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dizzy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "frightened",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tranquil",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "displeased",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disgusted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "overbearing",
+      "hint": "Act out: overbearing"
+    },
+    {
+      "word": "worn out",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "creative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "furious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tormented",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "homeless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resolved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "despondent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uplifted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wounded",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "blissful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "determined",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nutty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disillusioned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "flattered",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unsettled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "quiet",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "crushed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fatigued",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "brave",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "abundance",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tense",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mournful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fixated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dominated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sad",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dangerous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "courageous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fuming",
+      "hint": "Act out: fuming"
+    },
+    {
+      "word": "anguished",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "judgmental",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "foolish",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "unsure",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dismal",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cheated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resourceful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "brooding",
+      "hint": "Act out: brooding"
+    },
+    {
+      "word": "exhausted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "afraid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hoarding",
+      "hint": "Act out: hoarding"
+    },
+    {
+      "word": "appreciated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "humiliated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "content",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "distrust",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vague",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "horrified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "closed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "complete",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "constricted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "dislike",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "isolated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "funny",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cold",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "can't wait",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "miserly",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "visionary",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "stewing",
+      "hint": "Act out: stewing"
+    },
+    {
+      "word": "abandoned",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "murderous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "self-sufficient",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "craving",
+      "hint": "Act out: craving"
+    },
+    {
+      "word": "rude",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "jolly",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "compassion",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "exasperated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sizzling",
+      "hint": "Act out: sizzling"
+    },
+    {
+      "word": "energized",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "witty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "tired",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "still",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "awareness",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "weary",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "distant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "bored",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "empathy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "superior",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fearful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nostalgia",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "secure",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "mad",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rejected",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "chagrined",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pleasant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "engrossed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uncompromising",
+      "hint": "Act out: uncompromising"
+    },
+    {
+      "word": "dazed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "glad",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "heavy hearted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enchanting",
+      "hint": "Act out: enchanting"
+    },
+    {
+      "word": "animated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "appreciative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "inadequate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lazy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "patronizing",
+      "hint": "Act out: patronizing"
+    },
+    {
+      "word": "empty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "passionate",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "confident",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "depressed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "light",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "burnt out",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "critical",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uptight",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hopeless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disconnected",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "assured",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rapturous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "heartache",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "agitated",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "sorrowful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "victorious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "eager",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "serene",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "successful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "caustic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "detached",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enthralled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "refreshed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "smug",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "livid",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "frenzy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "irritable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "apprehensive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "belligerent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "revolted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fidgety",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "baffled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "yearning",
+      "hint": "Act out: yearning"
+    },
+    {
+      "word": "disgust",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "restored",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "greedy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "resentment",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "exploited",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "voracious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "safe",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "deserted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "apathetic",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "incensed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "vivacious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lucky",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "loving",
+      "hint": "Act out: loving"
+    },
+    {
+      "word": "frazzled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disgraced",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "spontaneous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uncomfortable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "belonging",
+      "hint": "Act out: belonging"
+    },
+    {
+      "word": "ardent",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "disgruntled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "uncertain",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "enriched",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "scared",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "ridiculed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "drained",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "pain",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "confused",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "neglected",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "lonely",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "harassed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "justified",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "threatened",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "grumpy",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "clever",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "animosity",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "reluctant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "bereaved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "fragile",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "loved",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "contemptuous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "openhearted",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "joyful",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "repulsive",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "argumentative",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "relaxed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "comfortable",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "hilarious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "cautious",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "jubilant",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "removed",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "wicked",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "nasty",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "rattled",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "perfect",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "merciless",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "smiling",
+      "hint": "Act out: smiling"
+    },
+    {
+      "word": "perspective",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "harsh",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "righteous",
+      "hint": "Guess this feelings and emotions term!"
+    },
+    {
+      "word": "withdrawn",
+      "hint": "Guess this feelings and emotions term!"
+    }
+  ]
+}

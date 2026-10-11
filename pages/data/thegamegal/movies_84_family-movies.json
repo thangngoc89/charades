@@ -1,0 +1,891 @@
+{
+  "id": "gamegal-movies-84",
+  "name": "Family Movies",
+  "icon": "🍿",
+  "game_id": 8,
+  "category_id": 84,
+  "theme": "movies",
+  "count": 220,
+  "words": [
+    {
+      "word": "Brother Bear (2003)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Space Jam (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Newsies (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Emperor's New Groove (2000)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "A Goofy Movie (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Rio (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Monsters University (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Willy Wonka & the Chocolate Factory (1971)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Toy Story 2 (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Kiki's Delivery Service (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Robin Hood (1973)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Nightmare Before Christmas (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Monsters vs. Aliens (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "High School Musical 3: Senior Year (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Escape to Witch Mountain (1975)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Mary Poppins (1964)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Princess and the Frog (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "It's a Wonderful Life (1946)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Zootopia (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Honey, I Blew Up the Kid (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bridge to Terabithia (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Horton Hears a Who! (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Snow White and the Seven Dwarfs (1937)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Over the Hedge (2006)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Peter Pan (1953)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Princess Bride (1987)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Up (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Meet the Robinsons (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "George of the Jungle (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Lady and the Tramp (1955)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Air Bud (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Arthur and the Invisibles (2006)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Matilda (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Corpse Bride (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Mr. Peabody & Sherman (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The NeverEnding Story (1984)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pee-wee's Big Adventure (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Shrek 2 (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Sound of Music (1965)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Parent Trap (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "James and the Giant Peach (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pokemon: The First Movie - Mewtwo Strikes Back (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "An Extremely Goofy Movie (2000)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Megamind (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cinderella (1950)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Return to Oz (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Howl's Moving Castle (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Little Women (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Hannah Montana: The Movie (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Apple Dumpling Gang (1975)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Turbo (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Dumbo (1941)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Kung Fu Panda (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Jungle Book (1967)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Planes: Fire & Rescue (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Balto (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Aristocats (1970)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Yours, Mine & Ours (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Parent Trap (1961)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Annie (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "How to Train Your Dragon (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Madagascar (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Book of Life (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Aladdin and the King of Thieves (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pocahontas (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Dark Crystal (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pollyanna (1960)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "One Hundred and One Dalmations (1961)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Sword in the Stone (1963)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Big Hero 6 (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Mulan (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Old Yeller (1957)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Hercules (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Rescuers (1977)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Charlotte's Web (1973)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pinocchio (1940)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Home on the Range (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Atlantis: The Lost Empire (2001)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Freaky Friday (1976)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Despicable Me (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Flight of the Navigator (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "My Girl (1991)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Fun and Fancy Free (1947)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Black Cauldron (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bambi (1942)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Secret of NIMH (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Norm of the North (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The BFG (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Shrek (2001)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Swiss Family Robinson (1960)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Home Alone (1990)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Muppet Treasure Island (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Toy Story (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Freaky Friday (2003)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cloudy with a Chance of Meatballs (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Croods (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Stuart Little (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Incredibles (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Jumanji (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "A Kid in King Arthur's Court (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "A Bug's Life (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Peanuts Movie (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Return of Jafar (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Monsters, Inc. (2001)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Hotel Transylvania (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Harry and the Hendersons (1987)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Minions (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Sinbad: Legend of the Seven Seas (2003)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Miracle Worker (1962)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Homeward Bound: The Incredible Journey (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Lego Movie (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Angels in the Outfield (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bee Movie (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Polar Express (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Moana (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Beethoven (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Secret Life of Pets (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "101 Dalmations (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Inspector Gadget (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Shark Tale (2004)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Spirit: Stallion of the Cimarron (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Brave (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Country Bears (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Lizzie McGuire Movie (2003)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Rescuers Down Under (1990)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "E.T. the Extra-Terrestrial (1982)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Dennis the Menace (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Good Dinosaur (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Dinosaur (2000)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Karate Kid (1984)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Sleeping Beauty (1959)",
+      "hint": "Act out: Sleeping Beauty (1959)"
+    },
+    {
+      "word": "Inside Out (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bedknobs and Broomsticks (1971)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "A Little Princess (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Princess Diaries (2001)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Many Adventures of Winnie the Pooh (1977)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Mighty Joe Young (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Muppet Movie (1979)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Boxtrolls (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Home (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Wreck-It Ralph (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Oliver & Company (1988)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tinker Bell (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Robots (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Lorax (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Iron Giant (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Anastasia (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Alice in Wonderland (1951)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Treasure Planet (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Goonies (1985)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Rango (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Kubo and the Two Strings (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Free Willy (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Lilo & Stitch (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ponyo (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tarzan (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ratatouille (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ice Age (2002)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "All Dogs Go to Heaven (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Willow (1988)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Little Giants (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Tangled (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Babe (1995)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Aladdin (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "How to Train Your Dragon 2 (2014)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Chitty Chitty Bang Bang (1968)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Chicken Little (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Frozen (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Road to El Dorado (2000)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Jungle 2 Jungle (1997)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Yours, Mine and Ours (1968)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "An American Tail (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Zathura (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Great Mouse Detective (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Mighty Ducks (1992)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "WALL-E (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Happy Feet (2006)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Holes (2003)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Finding Nemo (2003)",
+      "hint": "Act out: Finding Nemo (2003)"
+    },
+    {
+      "word": "A Christmas Story (1983)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Wizard of Oz (1939)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Fox and the Hound (1981)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Tale of Despereaux (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Oliver! (1968)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Little Mermaid (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Ratchet & Clank (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cars (2006)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Chicken Run (2000)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Alvin and the Chipmunks (2007)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Santa Clause (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Fantasia 2000 (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Bolt (2008)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Prince of Egypt (1998)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Short Circuit (1986)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Planes (2013)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Planet 51 (2009)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Rise of the Guardians (2012)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Hunchback of Notre Dame (1996)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Fantasia (1940)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Paddington (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Finding Dory (2016)",
+      "hint": "Act out: Finding Dory (2016)"
+    },
+    {
+      "word": "Beauty and the Beast (1991)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Honey, I Shrunk the Kids (1989)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Lion King (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cinderella (2015)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Toy Story 3 (2010)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Watership Down (1978)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Sandlot (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Little Rascals (1994)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Cars 2 (2011)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pokemon: Power of One (1999)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Land Before Time (1988)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Angry Birds Movie (2016)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Pete's Dragon (1977)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Hoodwinked! (2006)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Pacifier (2005)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "The Secret Garden (1993)",
+      "hint": "Classic movie title to act out!"
+    },
+    {
+      "word": "Explorers (1985)",
+      "hint": "Classic movie title to act out!"
+    }
+  ]
+}

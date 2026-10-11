@@ -1,0 +1,1071 @@
+{
+  "id": "gamegal-subjects-1",
+  "name": "Animals",
+  "icon": "🦁",
+  "game_id": 1,
+  "category_id": 1,
+  "theme": "subjects",
+  "count": 265,
+  "words": [
+    {
+      "word": "lemur",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tiger",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "donkey",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "finch",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gazelle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "brown recluse",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bird",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cobra",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "otter",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hippopotamus",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "vampire bat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "panda",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bear",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "panther",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "capybara",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "housecat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "groundhog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ostrich",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mink",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cricket",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gila monster",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "reindeer",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "sheep",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "beluga whale",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "pigeon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "koala",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "seahorse",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "deer",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hammerhead shark",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "guinea pig",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "omnivore",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "black widow",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cockroach",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hermit crab",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "flamingo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bumblebee",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "horse",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "piranha",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "Galapagos tortoise",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "walrus",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "parakeet",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "weasel",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "python",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "lobster",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "clownfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "camel",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "eagle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "whale",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "sloth",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ladybug",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "yak",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "anaconda",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "water buffalo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "snail",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "seagull",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "alligator",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chinchilla",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "impala",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chimpanzee",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "baboon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "swordfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "iguana",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "eel",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ape",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bald eagle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "anemone",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "clam",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "echidna",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mouse",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ewe",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "puppy",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "pike",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "barracuda",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "red panda",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "guppy",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "partridge",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "zebra",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "salamander",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "basset hound",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "moose",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gnu",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "fly",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "toad",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tuna",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "sea turtle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bulldog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bluebird",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chicken",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ocelot",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gorilla",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "raccoon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "elk",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "duck",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "llama",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "lemming",
+      "hint": "Act out: lemming"
+    },
+    {
+      "word": "kookaburra",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dingo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "black bear",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "earthworm",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dove",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dodo bird",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "jackal",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mallard",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gopher",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "carp",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wallaby",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "pig",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "toucan",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "doe",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chipmunk",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "armadillo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "pony",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "oyster",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "inchworm",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "spider",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "elephant",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "snake",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "joey",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cub",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "raven",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "sea lion",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wildebeest",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "squid",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "unicorn",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "crow",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "blowfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "beaver",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tortoise",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "robin",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "emu",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "stonefish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "prairie dog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "buffalo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "crane",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dinosaur",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "albatross",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "giraffe",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "monkey",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chameleon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tapir",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "swan",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "komodo dragon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "flounder",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "manatee",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "meerkat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hedgehog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "rhinoceros",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "snapping turtle",
+      "hint": "Act out: snapping turtle"
+    },
+    {
+      "word": "parrot",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tree frog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "grasshopper",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "alpaca",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "caribou",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "frog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "skunk",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "humpback whale",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "stallion",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "Tasmanian devil",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "leaf-cutter ant",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "trout",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "narwhal",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "kangaroo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wasp",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cougar",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "jackalope",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "warthog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "carnivore",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "gerbil",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bass",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "shrew",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tarantula",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "sea cucumber",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "kitten",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "poodle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cockatoo",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hamster",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "tadpole",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "calf",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ox",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wolf",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bunny",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hawk",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "roly poly/pill bug/doodle bug",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "killer whale",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hen",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "butterfly",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "daisy",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ant",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cow",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "turtle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "turkey",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "puffin",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "aardvark",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wooly mammoth",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mole",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "grizzly",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "pelican",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "boa constrictor",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "crab",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "macaw",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "stork",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "polar bear",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "chick",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "coyote",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ram",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "daddy longlegs",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dog",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "octopus",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dragon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "moth",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "anteater",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "herbivore",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "platypus",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "seal",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "saber-tooth tiger",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "stingray",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "goose",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "duckling",
+      "hint": "Act out: duckling"
+    },
+    {
+      "word": "lark",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hornet",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "jellyfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "lion",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "boar",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "possum",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "cheetah",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mule",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "lamb",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "worm",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bison",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dolphin",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "shrimp",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "fox",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "salmon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "catfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "vulture",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "starfish",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hare",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "canary",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "shark",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "penguin",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "bush baby",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "blue whale",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "crocodile",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "jaguar",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "mosquito",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "wombat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "antelope",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "goat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "owl",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "porcupine",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "beagle",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hummingbird",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "falcon",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "dragonfly",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "rabbit",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "rat",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "rooster",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "leopard",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "ferret",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "squirrel",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "hyena",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "badger",
+      "hint": "Guess this animals term!"
+    },
+    {
+      "word": "caterpillar",
+      "hint": "Guess this animals term!"
+    }
+  ]
+}

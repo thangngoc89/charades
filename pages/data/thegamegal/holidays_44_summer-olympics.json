@@ -1,0 +1,191 @@
+{
+  "id": "gamegal-holidays-44",
+  "name": "Summer Olympics",
+  "icon": "🥇",
+  "game_id": 4,
+  "category_id": 44,
+  "theme": "holidays",
+  "count": 45,
+  "words": [
+    {
+      "word": "rowing",
+      "hint": "Act out: rowing"
+    },
+    {
+      "word": "fencing",
+      "hint": "Act out: fencing"
+    },
+    {
+      "word": "closing ceremony",
+      "hint": "Act out: closing ceremony"
+    },
+    {
+      "word": "wrestling",
+      "hint": "Act out: wrestling"
+    },
+    {
+      "word": "boxing",
+      "hint": "Act out: boxing"
+    },
+    {
+      "word": "tourism",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "shooting",
+      "hint": "Act out: shooting"
+    },
+    {
+      "word": "canoeing",
+      "hint": "Act out: canoeing"
+    },
+    {
+      "word": "basketball",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "synchronized swimming",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "swimming",
+      "hint": "Act out: swimming"
+    },
+    {
+      "word": "beach volleyball",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "football",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "field hockey",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "country",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "water polo",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "gold medal",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "equestrian",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "gymnastics",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "weightlifting",
+      "hint": "Act out: weightlifting"
+    },
+    {
+      "word": "modern pentathlon",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "cycling",
+      "hint": "Act out: cycling"
+    },
+    {
+      "word": "Rio de Janeiro",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "sailing",
+      "hint": "Act out: sailing"
+    },
+    {
+      "word": "table tennis",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "mountain biking",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "judo",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "badminton",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "broadcast",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "torch relay",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "diving",
+      "hint": "Act out: diving"
+    },
+    {
+      "word": "tennis",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "athlete",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "Olympic Flag",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "triathlon",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "opening ceremony",
+      "hint": "Act out: opening ceremony"
+    },
+    {
+      "word": "announcer",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "taekwondo",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "bronze medal",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "archery",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "volleyball",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "handball",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "Olympian",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "silver medal",
+      "hint": "Guess this summer olympics term!"
+    },
+    {
+      "word": "Olympic Flame",
+      "hint": "Guess this summer olympics term!"
+    }
+  ]
+}

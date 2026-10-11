@@ -1,0 +1,195 @@
+{
+  "id": "gamegal-holidays-31",
+  "name": "Christmas Songs",
+  "icon": "🎶",
+  "game_id": 4,
+  "category_id": 31,
+  "theme": "holidays",
+  "count": 46,
+  "words": [
+    {
+      "word": "Christmas Time Is Here",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Little Saint Nick",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Breath of Heaven",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "I'll Be Home for Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Rudolph the Red-Nosed Reindeer",
+      "hint": "Antlers, flying Santa's sleigh"
+    },
+    {
+      "word": "Feliz Navidad",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Jingle Bell Rock",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Do You Hear What I Hear?",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Silver Bells",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "We Wish You a Merry Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Holly Jolly Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Frosty the Snowman",
+      "hint": "Three snowballs, carrot nose, and a top hat"
+    },
+    {
+      "word": "Blue Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "All I Want for Christmas Is You",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "The First Noel",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "We Three Kings",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Winter Wonderland",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "O Little Town of Bethlehem",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Baby, It's Cold Outside",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Sleigh Ride (Just Hear Those Sleigh Bells Jingling)",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Carol of the Bells",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Angels We Have Heard on High",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Have Yourself a Merry Little Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Away in a Manger",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Good King Wenceslas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "12 Days of Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Santa Claus Is Coming to Town",
+      "hint": "Ho ho ho! Brings presents down the chimney"
+    },
+    {
+      "word": "Rockin' Around the Christmas Tree",
+      "hint": "Holiday fir decorated with lights & ornaments"
+    },
+    {
+      "word": "God Rest Ye Merry Gentlemen",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "O Holy Night",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "O Come, All Ye Faithful",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Let It Snow! Let It Snow! Let It Snow!",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "White Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Silent Night",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "The Little Drummer Boy",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "It's Beginning to Look a Lot Like Christmas",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Deck the Halls",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Hark! The Herald Angels Sing",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Jingle Bells",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Joy to the World",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "What Child Is This?",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Grandma Got Run Over by a Reindeer",
+      "hint": "Antlers, flying Santa's sleigh"
+    },
+    {
+      "word": "It's the Most Wonderful Time of the Year",
+      "hint": "Christmas & winter holiday favorite!"
+    },
+    {
+      "word": "Here Comes Santa Claus",
+      "hint": "Ho ho ho! Brings presents down the chimney"
+    },
+    {
+      "word": "O Christmas Tree",
+      "hint": "Holiday fir decorated with lights & ornaments"
+    }
+  ]
+}

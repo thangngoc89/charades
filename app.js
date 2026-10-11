@@ -1065,11 +1065,34 @@ if (elements.gamegalFetchBtn) {
     elements.gamegalFetchBtn.disabled = true;
 
     try {
-      const res = await fetch(`/api/gamegal?game=${encodeURIComponent(gameId)}&category=${encodeURIComponent(catId)}`);
-      const data = await res.json();
+      let words = null;
 
-      if (data.success && Array.isArray(data.words) && data.words.length > 0) {
-        let words = [...data.words];
+      // 1. Try local server API proxy if available
+      try {
+        const res = await fetch(`api/gamegal?game=${encodeURIComponent(gameId)}&category=${encodeURIComponent(catId)}`);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.success && Array.isArray(data.words) && data.words.length > 0) {
+            words = data.words;
+          }
+        }
+      } catch (e) {}
+
+      // 2. Fallback to bundled static words database (essential for GitHub Pages)
+      if (!words) {
+        try {
+          const res = await fetch(`data/thegamegal/all_categories_words.json`);
+          if (res.ok) {
+            const allWords = await res.json();
+            const key = `${gameId}_${catId}`;
+            if (allWords[key] && allWords[key].length > 0) {
+              words = allWords[key];
+            }
+          }
+        } catch (e) {}
+      }
+
+      if (words && words.length > 0) {
 
         // Shuffle
         for (let i = words.length - 1; i > 0; i--) {

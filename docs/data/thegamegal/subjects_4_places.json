@@ -1,0 +1,847 @@
+{
+  "id": "gamegal-subjects-4",
+  "name": "Places",
+  "icon": "🌍",
+  "game_id": 1,
+  "category_id": 4,
+  "theme": "subjects",
+  "count": 209,
+  "words": [
+    {
+      "word": "Nile River",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mount Rushmore",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Cuba",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Baton Rouge",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "North Pole",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Oklahoma",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ukraine",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Luxembourg",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Vancouver",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Persian Gulf",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Georgia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Puerto Rico",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Turkey",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Hong Kong",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Kansas",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Argentina",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Missouri",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Venezuela",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Carson City",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Barcelona",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Easter Island",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "North Korea",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Scotland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Kentucky",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "India",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Barbados",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Sweden",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Brazil",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "United States of America",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Fiji",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Pennsylvania",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Massachusetts",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Florida",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Egypt",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Sydney",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Romania",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Bering Strait",
+      "hint": "Act out: Bering Strait"
+    },
+    {
+      "word": "Taiwan",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New Jersey",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Congo River",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Iceland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Vermont",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Seattle",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New Hampshire",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Idaho",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Italy",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Guam",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "passport",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Jamaica",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Colorado",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Sahara Desert",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Connecticut",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Athens",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Venice",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Indiana",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Boston",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Yellowstone",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Versailles",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New York",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Maryland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Nashville",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "San Diego",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Alaska",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Israel",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Netherlands",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "North Carolina",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Orlando",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Philippines",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Belgium",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Spain",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Flagstaff",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South Dakota",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Austin",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Juneau",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New Mexico",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Rome",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Annapolis",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Greece",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Antarctica",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Russia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Austria",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Los Angeles",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Canada",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Denmark",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Santa Fe",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Portugal",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Louisiana",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Little Rock",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New Zealand",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Las Vegas",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Washington, D.C.",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Atlantic Ocean",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "America",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Galapagos Islands",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "New York City",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Greenland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Tallahassee",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Lebanon",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mississippi River",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Australia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Manhattan Island",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Virgin Islands",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Iowa",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Minnesota",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "London",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Finland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Illinois",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Stonehenge",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Asia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Libya",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ayers Rock",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "District of Columbia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Africa",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Grand Canyon",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "West Virginia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Alabama",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Arkansas",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Japan",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "United Kingdom",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South Pole",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South Carolina",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mexico",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "American Samoa",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Vietnam",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Nevada",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Istanbul",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Atlanta",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Thailand",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Iran",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Indonesia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Oregon",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Samoa",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ecuador",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Peru",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "San Francisco",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Virginia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Utah",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Salt Lake City",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Hawaii",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ireland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Nepal",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South Africa",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "China",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Bahamas",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Delaware",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Paris",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Iraq",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Europe",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ghana",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Nebraska",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Poland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Dead Sea",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Wisconsin",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Maine",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Arizona",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "California",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Madagascar",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Phoenix",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Costa Rica",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Pacific Ocean",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Miami",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Chile",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Afghanistan",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "France",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Bolivia",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Honolulu",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Tokyo",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Pakistan",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Montana",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Ohio",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Uruguay",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mississippi",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mediterranean Sea",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Uganda",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Honduras",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "North Dakota",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Great Barrier Reef",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Texas",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Arctic Ocean",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "England",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Bangladesh",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Rhode Island",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Tennessee",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Anchorage",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Carlsbad Caverns",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Houston",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Niagara Falls",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Beijing",
+      "hint": "Act out: Beijing"
+    },
+    {
+      "word": "Singapore",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Mount Everest",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Aruba",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Bermuda",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Sacramento",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Guatemala",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Albania",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Boise",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Washington",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Switzerland",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Wyoming",
+      "hint": "Act out: Wyoming"
+    },
+    {
+      "word": "Big Ben",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Vienna",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Indian Ocean",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Springfield",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South Korea",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "South America",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Hungary",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Michigan",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Denver",
+      "hint": "Guess this places term!"
+    },
+    {
+      "word": "Latvia",
+      "hint": "Guess this places term!"
+    }
+  ]
+}
